@@ -76,7 +76,7 @@ const Play: NextPage = () => {
   const [filteredPlayers, setFilteredPlayers] = useState<Array<Player>>();
   const [gameOver, setGameOver] = useState(false);
   const handleGameOver = () => {
-    fetch("https://main--benevolent-longma-c3cf58.netlify.app/api/users", {
+    fetch("https://benevolent-longma-c3cf58.netlify.app/api/users", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

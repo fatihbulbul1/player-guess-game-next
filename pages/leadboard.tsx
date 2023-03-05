@@ -58,7 +58,7 @@ const Leadboard: NextPage<Props> = ({ users }) => {
 };
 export const getServerSideProps: GetServerSideProps<Props> = async () => {
   const res = await fetch(
-    "https://main--benevolent-longma-c3cf58.netlify.app/api/users"
+    "https://benevolent-longma-c3cf58.netlify.app/api/users"
   );
   const users = await res.json();
   return { props: { users } };
