@@ -1,0 +1,5292 @@
+[
+  {
+    "number": "99",
+    "name": "Gianluigi Donnarumma",
+    "position": "Kaleci ",
+    "team": " Paris Saint-Germain",
+    "nations": ["İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Sergio Rico",
+    "position": "Kaleci ",
+    "team": " Paris Saint-Germain",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "90",
+    "name": "Alexandre Letellier",
+    "position": "Kaleci ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "70",
+    "name": "Lucas Lavallée",
+    "position": "Kaleci ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Marquinhos",
+    "position": "Stoper ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Brezilya", "Portekiz"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "70.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Presnel Kimpembe ",
+    "position": "Stoper ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Sergio Ramos",
+    "position": "Stoper ",
+    "team": " Paris Saint-Germain",
+    "nations": ["İspanya"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "El Chadaille Bitshiabu",
+    "position": "Stoper ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "17",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Nuno Mendes",
+    "position": "Sol Bek ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Portekiz"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Juan Bernat",
+    "position": "Sol Bek ",
+    "team": " Paris Saint-Germain",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Achraf Hakimi ",
+    "position": "Sağ Bek ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fas", "İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "70.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Nordi Mukiele",
+    "position": "Sağ Bek ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Timothée Pembélé",
+    "position": "Sağ Bek ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Danilo Pereira",
+    "position": "Önlibero ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Portekiz", "Gine-Bissau"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Marco Verratti",
+    "position": "Merkez orta saha ",
+    "team": " Paris Saint-Germain",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "-",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Fabián Ruiz",
+    "position": "Merkez orta saha ",
+    "team": " Paris Saint-Germain",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "45.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Vitinha",
+    "position": "Merkez orta saha ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Portekiz"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "45.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Carlos Soler",
+    "position": "Merkez orta saha ",
+    "team": " Paris Saint-Germain",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Renato Sanches ",
+    "position": "Merkez orta saha ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Portekiz", "Sao Tome ve Principe"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Warren Zaïre-Emery",
+    "position": "Merkez orta saha ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa", "Martinique"],
+    "age": "16",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Ismaël Gharbi",
+    "position": "On Numara ",
+    "team": " Paris Saint-Germain",
+    "nations": ["İspanya", "Fransa"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Neymar ",
+    "position": "Sol Kanat ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Brezilya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "75.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Lionel Messi",
+    "position": "Sağ Kanat ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Kylian Mbappé",
+    "position": "Santrafor ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "180.00 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Hugo Ekitiké",
+    "position": "Santrafor ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Ilyes Housni",
+    "position": "Santrafor ",
+    "team": " Paris Saint-Germain",
+    "nations": ["Fransa", "Fas"],
+    "age": "17",
+    "contract": "30 Haz 2026",
+    "pd": "-"
+  },
+  {
+    "number": "1",
+    "name": "Dogan Alemdar",
+    "position": "Kaleci ",
+    "team": " Stade Rennais",
+    "nations": ["Türkiye"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Steve Mandanda",
+    "position": "Kaleci ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "37",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "89",
+    "name": "Romain Salin",
+    "position": "Kaleci ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa"],
+    "age": "38",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "50",
+    "name": "Elias Damergy",
+    "position": "Kaleci ",
+    "team": " Stade Rennais",
+    "nations": ["Tunus", "Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Arthur Theate",
+    "position": "Stoper ",
+    "team": " Stade Rennais",
+    "nations": ["Belçika"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Joe Rodon",
+    "position": "Stoper ",
+    "team": " Stade Rennais",
+    "nations": ["Galler"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Warmed Omari",
+    "position": "Stoper ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa", "Komorlar"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Christopher Wooh",
+    "position": "Stoper ",
+    "team": " Stade Rennais",
+    "nations": ["Kamerun", "Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Jeanuël Belocian",
+    "position": "Stoper ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "18",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Adrien Truffert",
+    "position": "Sol Bek ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Birger Meling",
+    "position": "Sol Bek ",
+    "team": " Stade Rennais",
+    "nations": ["Norveç"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "90",
+    "name": "Djed Spence",
+    "position": "Sağ Bek ",
+    "team": " Stade Rennais",
+    "nations": ["İngiltere", "Jamaika"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Hamari Traoré ",
+    "position": "Sağ Bek ",
+    "team": " Stade Rennais",
+    "nations": ["Mali"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Lorenz Assignon ",
+    "position": "Sağ Bek ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa", "Togo"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Guéla Doué",
+    "position": "Sağ Bek ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "Lesley Ugochukwu",
+    "position": "Önlibero ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa", "Nijerya"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Baptiste Santamaria",
+    "position": "Merkez orta saha ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Flavien Tait",
+    "position": "Merkez orta saha ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "80",
+    "name": "Xeka ",
+    "position": "Merkez orta saha ",
+    "team": " Stade Rennais",
+    "nations": ["Portekiz"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Benjamin Bourigeaud",
+    "position": "Orta saha sağ ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Lovro Majer",
+    "position": "On Numara ",
+    "team": " Stade Rennais",
+    "nations": ["Hırvatistan"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Désiré Doué",
+    "position": "On Numara ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Martin Terrier ",
+    "position": "Sol Kanat ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Karl Toko Ekambi",
+    "position": "Sol Kanat ",
+    "team": " Stade Rennais",
+    "nations": ["Kamerun", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Ibrahim Salah",
+    "position": "Sol Kanat ",
+    "team": " Stade Rennais",
+    "nations": ["Fas", "Belçika"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "10",
+    "name": "Jérémy Doku",
+    "position": "Sağ Kanat ",
+    "team": " Stade Rennais",
+    "nations": ["Belçika", "Gana"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Amine Gouiri",
+    "position": "Santrafor ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "38.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Arnaud Kalimuendo",
+    "position": "Santrafor ",
+    "team": " Stade Rennais",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Alexander Nübel",
+    "position": "Kaleci ",
+    "team": " Monaco",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Thomas Didillon",
+    "position": "Kaleci ",
+    "team": " Monaco",
+    "nations": ["Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "50",
+    "name": "Yann Lienard",
+    "position": "Kaleci ",
+    "team": " Monaco",
+    "nations": ["Fransa"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "Axel Disasi",
+    "position": "Stoper ",
+    "team": " Monaco",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Guillermo Maripán",
+    "position": "Stoper ",
+    "team": " Monaco",
+    "nations": ["Şili"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Malang Sarr",
+    "position": "Stoper ",
+    "team": " Monaco",
+    "nations": ["Fransa", "Senegal"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Chrislain Matsima",
+    "position": "Stoper ",
+    "team": " Monaco",
+    "nations": ["Fransa", "Kongo"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Yllan Okou",
+    "position": "Stoper ",
+    "team": " Monaco",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "12",
+    "name": "Caio Henrique",
+    "position": "Sol Bek ",
+    "team": " Monaco",
+    "nations": ["Brezilya", "İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Ismail Jakobs",
+    "position": "Sol Bek ",
+    "team": " Monaco",
+    "nations": ["Senegal", "Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Vanderson ",
+    "position": "Sağ Bek ",
+    "team": " Monaco",
+    "nations": ["Brezilya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Ruben Aguilar ",
+    "position": "Sağ Bek ",
+    "team": " Monaco",
+    "nations": ["Fransa", "İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Mohamed Camara",
+    "position": "Önlibero ",
+    "team": " Monaco",
+    "nations": ["Mali"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "41",
+    "name": "Soungoutou Magassa",
+    "position": "Önlibero ",
+    "team": " Monaco",
+    "nations": ["Fransa", "Mali"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "19",
+    "name": "Youssouf Fofana",
+    "position": "Merkez orta saha ",
+    "team": " Monaco",
+    "nations": ["Fransa", "Mali"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Jean Lucas",
+    "position": "Merkez orta saha ",
+    "team": " Monaco",
+    "nations": ["Brezilya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Eliot Matazo",
+    "position": "Merkez orta saha ",
+    "team": " Monaco",
+    "nations": ["Belçika", "Kongo DC"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Aleksandr Golovin",
+    "position": "On Numara ",
+    "team": " Monaco",
+    "nations": ["Rusya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Maghnes Akliouche",
+    "position": "On Numara ",
+    "team": " Monaco",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Eliesse Ben Seghir",
+    "position": "On Numara ",
+    "team": " Monaco",
+    "nations": ["Fransa", "Fas"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "18",
+    "name": "Takumi Minamino",
+    "position": "Sol Kanat ",
+    "team": " Monaco",
+    "nations": ["Japonya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Krépin Diatta",
+    "position": "Sağ Kanat ",
+    "team": " Monaco",
+    "nations": ["Senegal"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Gelson Martins",
+    "position": "Sağ Kanat ",
+    "team": " Monaco",
+    "nations": ["Portekiz", "Yeşil Burun Adaları"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Wissam Ben Yedder",
+    "position": "Santrafor ",
+    "team": " Monaco",
+    "nations": ["Fransa", "Tunus"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Breel Embolo",
+    "position": "Santrafor ",
+    "team": " Monaco",
+    "nations": ["İsviçre", "Kamerun"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Kevin Volland",
+    "position": "Santrafor ",
+    "team": " Monaco",
+    "nations": ["Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Myron Boadu",
+    "position": "Santrafor ",
+    "team": " Monaco",
+    "nations": ["Hollanda", "Gana"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Pau López",
+    "position": "Kaleci ",
+    "team": " Olimpik Marsilya",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Rubén Blanco",
+    "position": "Kaleci ",
+    "team": " Olimpik Marsilya",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Simon Ngapandouetnbu",
+    "position": "Kaleci ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Kamerun", "Fransa"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "99",
+    "name": "Chancel Mbemba",
+    "position": "Stoper ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Kongo DC"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "17.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Samuel Gigot",
+    "position": "Stoper ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Leonardo Balerdi",
+    "position": "Stoper ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Eric Bailly",
+    "position": "Stoper ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Fildişi Sahili"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Nuno Tavares",
+    "position": "Sol Bek ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Portekiz", "Yeşil Burun Adaları"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Sead Kolasinac",
+    "position": "Sol Bek ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Bosna-Hersek", "Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Jonathan Clauss",
+    "position": "Sağ Bek ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Issa Kaboré",
+    "position": "Sağ Bek ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Burkina Faso"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Jordan Veretout",
+    "position": "Önlibero ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "47",
+    "name": "Bartug Elmaz",
+    "position": "Önlibero ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Türkiye"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "Mattéo Guendouzi",
+    "position": "Merkez orta saha ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Fransa", "Fas"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Azzedine Ounahi",
+    "position": "Merkez orta saha ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Fas"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Valentin Rongier",
+    "position": "Merkez orta saha ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Ruslan Malinovskyi",
+    "position": "On Numara ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Ukrayna"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Amine Harit ",
+    "position": "On Numara ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Fas", "Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Dimitri Payet",
+    "position": "On Numara ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Fransa", "Réunion"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Cengiz Ünder ",
+    "position": "Sağ Kanat ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Türkiye"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "17.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Vitinha",
+    "position": "Santrafor ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Portekiz"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "70",
+    "name": "Alexis Sánchez",
+    "position": "Santrafor ",
+    "team": " Olimpik Marsilya",
+    "nations": ["Şili"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Kasper Schmeichel",
+    "position": "Kaleci ",
+    "team": " OGC Nizza",
+    "nations": ["Danimarka"],
+    "age": "36",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "90",
+    "name": "Marcin Bulka ",
+    "position": "Kaleci ",
+    "team": " OGC Nizza",
+    "nations": ["Polonya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Teddy Boulhendi",
+    "position": "Kaleci ",
+    "team": " OGC Nizza",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Jean-Clair Todibo",
+    "position": "Stoper ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa", "Fransiz Guyanasi"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Mattia Viti",
+    "position": "Stoper ",
+    "team": " OGC Nizza",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "55",
+    "name": "Youssouf Ndayishimiye",
+    "position": "Stoper ",
+    "team": " OGC Nizza",
+    "nations": ["Burundi"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Dante",
+    "position": "Stoper ",
+    "team": " OGC Nizza",
+    "nations": ["Brezilya"],
+    "age": "39",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "26",
+    "name": "Melvin Bard",
+    "position": "Sol Bek ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Joe Bryan",
+    "position": "Sol Bek ",
+    "team": " OGC Nizza",
+    "nations": ["İngiltere"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Youcef Atal",
+    "position": "Sağ Bek ",
+    "team": " OGC Nizza",
+    "nations": ["Cezayir"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Jordan Lotomba",
+    "position": "Sağ Bek ",
+    "team": " OGC Nizza",
+    "nations": ["İsviçre", "Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Antoine Mendy",
+    "position": "Sağ Bek ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa", "Senegal"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "19",
+    "name": "Khéphren Thuram",
+    "position": "Önlibero ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Pablo Rosario",
+    "position": "Önlibero ",
+    "team": " OGC Nizza",
+    "nations": ["Hollanda", "Dominik Cumhuriyeti"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Alexis Beka Beka",
+    "position": "Önlibero ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa", "Kongo"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Reda Belahyane",
+    "position": "Önlibero ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa", "Fas"],
+    "age": "18",
+    "contract": "30 Haz 2024",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "11",
+    "name": "Ross Barkley",
+    "position": "Merkez orta saha ",
+    "team": " OGC Nizza",
+    "nations": ["İngiltere"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Hicham Boudaoui",
+    "position": "Merkez orta saha ",
+    "team": " OGC Nizza",
+    "nations": ["Cezayir"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Aaron Ramsey",
+    "position": "Merkez orta saha ",
+    "team": " OGC Nizza",
+    "nations": ["Galler"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Daouda Traoré",
+    "position": "Orta saha sağ ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa", "Senegal"],
+    "age": "16",
+    "contract": "-",
+    "pd": "-"
+  },
+  {
+    "number": "10",
+    "name": "Sofiane Diop",
+    "position": "Sol Kanat ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa", "Senegal"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Billal Brahimi",
+    "position": "Sol Kanat ",
+    "team": " OGC Nizza",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Nicolas Pépé",
+    "position": "Sağ Kanat ",
+    "team": " OGC Nizza",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Badredine Bouanani",
+    "position": "Sağ Kanat ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "18",
+    "contract": "30 Haz 2024",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "9",
+    "name": "Terem Moffi",
+    "position": "Santrafor ",
+    "team": " OGC Nizza",
+    "nations": ["Nijerya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Gaëtan Laborde",
+    "position": "Santrafor ",
+    "team": " OGC Nizza",
+    "nations": ["Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Anthony Lopes",
+    "position": "Kaleci ",
+    "team": " Olympique Lyon",
+    "nations": ["Portekiz", "Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Rémy Riou",
+    "position": "Kaleci ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Kayne Bonnevie",
+    "position": "Kaleci ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Fransiz Guyanasi"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Castello Lukeba",
+    "position": "Stoper ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Angola"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Sinaly Diomandé",
+    "position": "Stoper ",
+    "team": " Olympique Lyon",
+    "nations": ["Fildişi Sahili"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Dejan Lovren",
+    "position": "Stoper ",
+    "team": " Olympique Lyon",
+    "nations": ["Hırvatistan"],
+    "age": "33",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Jérôme Boateng",
+    "position": "Stoper ",
+    "team": " Olympique Lyon",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Nicolás Tagliafico",
+    "position": "Sol Bek ",
+    "team": " Olympique Lyon",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Henrique Silva ",
+    "position": "Sol Bek ",
+    "team": " Olympique Lyon",
+    "nations": ["Brezilya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Malo Gusto",
+    "position": "Sağ Bek ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Portekiz"],
+    "age": "19",
+    "contract": "30 Haz 2023",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Saël Kumbedi",
+    "position": "Sağ Bek ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Johann Lepenant",
+    "position": "Önlibero ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Thiago Mendes",
+    "position": "Önlibero ",
+    "team": " Olympique Lyon",
+    "nations": ["Brezilya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Maxence Caqueret",
+    "position": "Merkez orta saha ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Houssem Aouar ",
+    "position": "Merkez orta saha ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "88",
+    "name": "Corentin Tolisso",
+    "position": "Merkez orta saha ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Togo"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Mohamed El Arouch",
+    "position": "Merkez orta saha ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Fas"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Rayan Cherki",
+    "position": "On Numara ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Bradley Barcola",
+    "position": "Sol Kanat ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Togo"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "47",
+    "name": "Jeffinho",
+    "position": "Sol Kanat ",
+    "team": " Olympique Lyon",
+    "nations": ["Brezilya"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Moussa Dembélé",
+    "position": "Santrafor ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Mali"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Alexandre Lacazette",
+    "position": "Santrafor ",
+    "team": " Olympique Lyon",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Amin Sarr",
+    "position": "Santrafor ",
+    "team": " Olympique Lyon",
+    "nations": ["İsveç", "Senegal"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Lucas Chevalier",
+    "position": "Kaleci ",
+    "team": " LOSC Lille",
+    "nations": ["Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Benoît Costil",
+    "position": "Kaleci ",
+    "team": " LOSC Lille",
+    "nations": ["Fransa"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Adam Jakubech",
+    "position": "Kaleci ",
+    "team": " LOSC Lille",
+    "nations": ["Slovakya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Tiago Djaló",
+    "position": "Stoper ",
+    "team": " LOSC Lille",
+    "nations": ["Portekiz", "Gine-Bissau"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Alexsandro",
+    "position": "Stoper ",
+    "team": " LOSC Lille",
+    "nations": ["Brezilya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Leny Yoro",
+    "position": "Stoper ",
+    "team": " LOSC Lille",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "José Fonte",
+    "position": "Stoper ",
+    "team": " LOSC Lille",
+    "nations": ["Portekiz"],
+    "age": "39",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Gabriel Gudmundsson",
+    "position": "Sol Bek ",
+    "team": " LOSC Lille",
+    "nations": ["İsveç"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Ismaily ",
+    "position": "Sol Bek ",
+    "team": " LOSC Lille",
+    "nations": ["Brezilya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Bafodé Diakité",
+    "position": "Sağ Bek ",
+    "team": " LOSC Lille",
+    "nations": ["Fransa", "Gine"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Benjamin André",
+    "position": "Önlibero ",
+    "team": " LOSC Lille",
+    "nations": ["Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Jonas Martin",
+    "position": "Önlibero ",
+    "team": " LOSC Lille",
+    "nations": ["Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "André Gomes",
+    "position": "Merkez orta saha ",
+    "team": " LOSC Lille",
+    "nations": ["Portekiz"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Carlos Baleba",
+    "position": "Merkez orta saha ",
+    "team": " LOSC Lille",
+    "nations": ["Kamerun"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "20",
+    "name": "Angel Gomes",
+    "position": "On Numara ",
+    "team": " LOSC Lille",
+    "nations": ["İngiltere", "Portekiz"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Rémy Cabella",
+    "position": "On Numara ",
+    "team": " LOSC Lille",
+    "nations": ["Fransa", "İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Jonathan Bamba",
+    "position": "Sol Kanat ",
+    "team": " LOSC Lille",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Alan Virginius",
+    "position": "Sol Kanat ",
+    "team": " LOSC Lille",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Timothy Weah",
+    "position": "Sağ Kanat ",
+    "team": " LOSC Lille",
+    "nations": ["Amerika Birleşik Devletleri", "Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Adam Ounas ",
+    "position": "Sağ Kanat ",
+    "team": " LOSC Lille",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Edon Zhegrova",
+    "position": "Sağ Kanat ",
+    "team": " LOSC Lille",
+    "nations": ["Kosova", "Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Jonathan David",
+    "position": "Santrafor ",
+    "team": " LOSC Lille",
+    "nations": ["Kanada", "Amerika Birleşik Devletleri"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "45.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Mohamed Bayo",
+    "position": "Santrafor ",
+    "team": " LOSC Lille",
+    "nations": ["Gine", "Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Brice Samba",
+    "position": "Kaleci ",
+    "team": " RC Lens",
+    "nations": ["Fransa", "Kongo"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Wuilker Fariñez ",
+    "position": "Kaleci ",
+    "team": " RC Lens",
+    "nations": ["Venezuela"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Jean-Louis Leca",
+    "position": "Kaleci ",
+    "team": " RC Lens",
+    "nations": ["Fransa"],
+    "age": "37",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Yannick Pandor",
+    "position": "Kaleci ",
+    "team": " RC Lens",
+    "nations": ["Komorlar", "Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "14",
+    "name": "Facundo Medina",
+    "position": "Stoper ",
+    "team": " RC Lens",
+    "nations": ["Arjantin"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Kevin Danso",
+    "position": "Stoper ",
+    "team": " RC Lens",
+    "nations": ["Avusturya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Jonathan Gradit",
+    "position": "Stoper ",
+    "team": " RC Lens",
+    "nations": ["Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Steven Fortes",
+    "position": "Stoper ",
+    "team": " RC Lens",
+    "nations": ["Yeşil Burun Adaları", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "35",
+    "name": "Adrien Louveau",
+    "position": "Stoper ",
+    "team": " RC Lens",
+    "nations": ["Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Deiver Machado",
+    "position": "Sol Bek ",
+    "team": " RC Lens",
+    "nations": ["Kolombiya"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Massadio Haidara",
+    "position": "Sol Bek ",
+    "team": " RC Lens",
+    "nations": ["Mali", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Ismaël Boura",
+    "position": "Sol Bek ",
+    "team": " RC Lens",
+    "nations": ["Fransa", "Komorlar"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Julien Le Cardinal",
+    "position": "Sağ Bek ",
+    "team": " RC Lens",
+    "nations": ["Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Salis Abdul Samed",
+    "position": "Önlibero ",
+    "team": " RC Lens",
+    "nations": ["Gana"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Jean Onana",
+    "position": "Önlibero ",
+    "team": " RC Lens",
+    "nations": ["Kamerun"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Lukasz Poreba",
+    "position": "Önlibero ",
+    "team": " RC Lens",
+    "nations": ["Polonya"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Seko Fofana",
+    "position": "Merkez orta saha ",
+    "team": " RC Lens",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Mamadou Camara",
+    "position": "Merkez orta saha ",
+    "team": " RC Lens",
+    "nations": ["Senegal"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "34",
+    "name": "Yaya Fofana",
+    "position": "Merkez orta saha ",
+    "team": " RC Lens",
+    "nations": ["Mali"],
+    "age": "18",
+    "contract": "30 Haz 2027",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Przemyslaw Frankowski",
+    "position": "Orta saha sağ ",
+    "team": " RC Lens",
+    "nations": ["Polonya"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Jimmy Cabot ",
+    "position": "Orta saha sağ ",
+    "team": " RC Lens",
+    "nations": ["Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "David Costa",
+    "position": "On Numara ",
+    "team": " RC Lens",
+    "nations": ["Portekiz", "Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Angelo Fulgini",
+    "position": "On Numara ",
+    "team": " RC Lens",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Alexis Claude-Maurice ",
+    "position": "On Numara ",
+    "team": " RC Lens",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Adrien Thomasson",
+    "position": "On Numara ",
+    "team": " RC Lens",
+    "nations": ["Fransa", "Hırvatistan"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Loïs Openda",
+    "position": "Santrafor ",
+    "team": " RC Lens",
+    "nations": ["Belçika", "Fas"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Adam Buksa",
+    "position": "Santrafor ",
+    "team": " RC Lens",
+    "nations": ["Polonya"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Florian Sotoca",
+    "position": "Santrafor ",
+    "team": " RC Lens",
+    "nations": ["Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Wesley Saïd ",
+    "position": "Santrafor ",
+    "team": " RC Lens",
+    "nations": ["Fransa", "Komorlar"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Rémy Labeau Lascary",
+    "position": "Santrafor ",
+    "team": " RC Lens",
+    "nations": ["Guadeloupe", "Fransa"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "1",
+    "name": "Alban Lafont",
+    "position": "Kaleci ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "Burkina Faso"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Rémy Descamps",
+    "position": "Kaleci ",
+    "team": " FC Nantes",
+    "nations": ["Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Denis Petric",
+    "position": "Kaleci ",
+    "team": " FC Nantes",
+    "nations": ["Slovenya", "Sırbistan"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "38",
+    "name": "João Victor",
+    "position": "Stoper ",
+    "team": " FC Nantes",
+    "nations": ["Brezilya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Andrei Girotto",
+    "position": "Stoper ",
+    "team": " FC Nantes",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Jean-Charles Castelletto",
+    "position": "Stoper ",
+    "team": " FC Nantes",
+    "nations": ["Kamerun", "Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Nicolas Pallois",
+    "position": "Stoper ",
+    "team": " FC Nantes",
+    "nations": ["Fransa"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Robin Voisine",
+    "position": "Stoper ",
+    "team": " FC Nantes",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Quentin Merlin ",
+    "position": "Sol Bek ",
+    "team": " FC Nantes",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Jaouen Hadjam",
+    "position": "Sol Bek ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "93",
+    "name": "Charles Traoré",
+    "position": "Sol Bek ",
+    "team": " FC Nantes",
+    "nations": ["Mali", "Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Fabien Centonze",
+    "position": "Sağ Bek ",
+    "team": " FC Nantes",
+    "nations": ["Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Sébastien Corchia",
+    "position": "Sağ Bek ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Lohann Doucet",
+    "position": "Önlibero ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "Burkina Faso"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Pedro Chirivella",
+    "position": "Merkez orta saha ",
+    "team": " FC Nantes",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Samuel Moutoussamy",
+    "position": "Merkez orta saha ",
+    "team": " FC Nantes",
+    "nations": ["Kongo DC", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Moussa Sissoko",
+    "position": "Merkez orta saha ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "Mali"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Ludovic Blas",
+    "position": "On Numara ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "Martinique"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Florent Mollet",
+    "position": "On Numara ",
+    "team": " FC Nantes",
+    "nations": ["Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Gor Manvelyan",
+    "position": "On Numara ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "Ermenistan"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "18",
+    "name": "Samuel Yépié Yépié",
+    "position": "On Numara ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "20",
+    "contract": "-",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "27",
+    "name": "Moses Simon",
+    "position": "Sol Kanat ",
+    "team": " FC Nantes",
+    "nations": ["Nijerya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Marcus Coco",
+    "position": "Sağ Kanat ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Andy Delort",
+    "position": "Santrafor ",
+    "team": " FC Nantes",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Mostafa Mohamed",
+    "position": "Santrafor ",
+    "team": " FC Nantes",
+    "nations": ["Mısır"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Evann Guessand",
+    "position": "Santrafor ",
+    "team": " FC Nantes",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Ignatius Ganago",
+    "position": "Santrafor ",
+    "team": " FC Nantes",
+    "nations": ["Kamerun", "Nijerya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Benjamin Lecomte",
+    "position": "Kaleci ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2027",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Dimitry Bertaud ",
+    "position": "Kaleci ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "90",
+    "name": "Bingourou Kamara",
+    "position": "Kaleci ",
+    "team": " Montpellier HSC",
+    "nations": ["Senegal", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Matis Carvalho",
+    "position": "Kaleci ",
+    "team": " Montpellier HSC",
+    "nations": ["Portekiz", "Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "14",
+    "name": "Maxime Estève",
+    "position": "Stoper ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Kiki Kouyaté",
+    "position": "Stoper ",
+    "team": " Montpellier HSC",
+    "nations": ["Mali"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Christopher Jullien",
+    "position": "Stoper ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "75",
+    "name": "Mamadou Sakho",
+    "position": "Stoper ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa", "Senegal"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Pedro Mendes ",
+    "position": "Stoper ",
+    "team": " Montpellier HSC",
+    "nations": ["Portekiz"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Enzo Tchato",
+    "position": "Stoper ",
+    "team": " Montpellier HSC",
+    "nations": ["Kamerun", "Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Faitout Maouassa",
+    "position": "Sol Bek ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa", "Kongo"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Issiaga Sylla",
+    "position": "Sol Bek ",
+    "team": " Montpellier HSC",
+    "nations": ["Gine"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Théo Sainte-Luce ",
+    "position": "Sol Bek ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Thibault Tamas",
+    "position": "Sol Bek ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "77",
+    "name": "Falaye Sacko",
+    "position": "Sağ Bek ",
+    "team": " Montpellier HSC",
+    "nations": ["Mali"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Mathías Suárez",
+    "position": "Sağ Bek ",
+    "team": " Montpellier HSC",
+    "nations": ["Uruguay"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "13",
+    "name": "Joris Chotard",
+    "position": "Önlibero ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Jordan Ferri",
+    "position": "Merkez orta saha ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Léo Leroy ",
+    "position": "Merkez orta saha ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Khalil Fayad",
+    "position": "Merkez orta saha ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa", "Fas"],
+    "age": "18",
+    "contract": "30 Haz 2027",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "11",
+    "name": "Téji Savanier",
+    "position": "On Numara ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "31",
+    "contract": "30 Haz 2026",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Stephy Mavididi",
+    "position": "Sol Kanat ",
+    "team": " Montpellier HSC",
+    "nations": ["İngiltere", "Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Béni Makouana",
+    "position": "Sol Kanat ",
+    "team": " Montpellier HSC",
+    "nations": ["Kongo"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "7",
+    "name": "Arnaud Nordin",
+    "position": "Sağ Kanat ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa", "Martinique"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Elye Wahi",
+    "position": "Santrafor ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Wahbi Khazri",
+    "position": "Santrafor ",
+    "team": " Montpellier HSC",
+    "nations": ["Tunus", "Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Valère Germain",
+    "position": "Santrafor ",
+    "team": " Montpellier HSC",
+    "nations": ["Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Yanis Guermouche",
+    "position": "Santrafor ",
+    "team": " Montpellier HSC",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "1",
+    "name": "Matz Sels",
+    "position": "Kaleci ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Belçika"],
+    "age": "31",
+    "contract": "30 Haz 2026",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Eiji Kawashima",
+    "position": "Kaleci ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Japonya"],
+    "age": "39",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "-",
+    "name": "Alexandre Pierre",
+    "position": "Kaleci ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Haiti", "Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Robin Risser",
+    "position": "Kaleci ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa"],
+    "age": "18",
+    "contract": "-",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Alexander Djiku",
+    "position": "Stoper ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Gana", "Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Gerzino Nyamsi",
+    "position": "Stoper ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Lucas Perrin",
+    "position": "Stoper ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Ismaël Doukouré",
+    "position": "Stoper ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Maxime Le Marchand",
+    "position": "Stoper ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Eduard Sobol",
+    "position": "Sol Bek ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Ukrayna"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Thomas Delaine",
+    "position": "Sol Bek ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Colin Dagba",
+    "position": "Sağ Bek ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa", "Benin"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Frédéric Guilbert",
+    "position": "Sağ Bek ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Ibrahima Sissoko",
+    "position": "Önlibero ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa", "Mali"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Jean-Eudes Aholou",
+    "position": "Önlibero ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Habib Diarra",
+    "position": "Önlibero ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa", "Senegal"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Jean-Ricner Bellegarde",
+    "position": "Merkez orta saha ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa", "Haiti"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Morgan Sanson",
+    "position": "Merkez orta saha ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Sanjin Prcic",
+    "position": "Merkez orta saha ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Bosna-Hersek", "Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Dimitri Liénard",
+    "position": "Orta saha sol ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "18",
+    "name": "Yuito Suzuki",
+    "position": "On Numara ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Japonya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "34",
+    "name": "Nordine Kandil",
+    "position": "On Numara ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa", "Fas"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "20",
+    "name": "Habib Diallo",
+    "position": "Santrafor ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Senegal", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Kévin Gameiro",
+    "position": "Santrafor ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Fransa"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Lebo Mothiba",
+    "position": "Santrafor ",
+    "team": " RC Strasbourg Alsace",
+    "nations": ["Güney Afrika"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Yvon Mvogo ",
+    "position": "Kaleci ",
+    "team": " FC Lorient",
+    "nations": ["İsviçre", "Kamerun"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Julian Pollersbeck",
+    "position": "Kaleci ",
+    "team": " FC Lorient",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "-",
+    "name": "Vito Mannone",
+    "position": "Kaleci ",
+    "team": " FC Lorient",
+    "nations": ["İtalya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "77",
+    "name": "Teddy Bartouche",
+    "position": "Kaleci ",
+    "team": " FC Lorient",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Montassar Talbi",
+    "position": "Stoper ",
+    "team": " FC Lorient",
+    "nations": ["Tunus", "Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Julien Laporte ",
+    "position": "Stoper ",
+    "team": " FC Lorient",
+    "nations": ["Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Maxime Wackers",
+    "position": "Stoper ",
+    "team": " FC Lorient",
+    "nations": ["Fransa"],
+    "age": "25",
+    "contract": "-",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "18",
+    "name": "Bamo Meïté",
+    "position": "Stoper ",
+    "team": " FC Lorient",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Vincent Le Goff",
+    "position": "Sol Bek ",
+    "team": " FC Lorient",
+    "nations": ["Fransa"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Darlin Yongwa",
+    "position": "Sol Bek ",
+    "team": " FC Lorient",
+    "nations": ["Kamerun"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Gédéon Kalulu",
+    "position": "Sağ Bek ",
+    "team": " FC Lorient",
+    "nations": ["Kongo DC", "Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Igor Silva",
+    "position": "Sağ Bek ",
+    "team": " FC Lorient",
+    "nations": ["Brezilya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Théo Le Bris",
+    "position": "Sağ Bek ",
+    "team": " FC Lorient",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Laurent Abergel",
+    "position": "Önlibero ",
+    "team": " FC Lorient",
+    "nations": ["Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Bonke Innocent",
+    "position": "Önlibero ",
+    "team": " FC Lorient",
+    "nations": ["Nijerya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Jean-Victor Makengo",
+    "position": "Merkez orta saha ",
+    "team": " FC Lorient",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Ayman Kari",
+    "position": "Merkez orta saha ",
+    "team": " FC Lorient",
+    "nations": ["Fransa", "Komorlar"],
+    "age": "18",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "14",
+    "name": "Romain Faivre",
+    "position": "Orta saha sağ ",
+    "team": " FC Lorient",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "80",
+    "name": "Enzo Le Fée",
+    "position": "On Numara ",
+    "team": " FC Lorient",
+    "nations": ["Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Adil Aouchiche",
+    "position": "On Numara ",
+    "team": " FC Lorient",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Julien Ponceau",
+    "position": "On Numara ",
+    "team": " FC Lorient",
+    "nations": ["Fransa", "Angola"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Yoann Cathline",
+    "position": "Sol Kanat ",
+    "team": " FC Lorient",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Stéphane Diarra",
+    "position": "Sağ Kanat ",
+    "team": " FC Lorient",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Bamba Dieng",
+    "position": "Santrafor ",
+    "team": " FC Lorient",
+    "nations": ["Senegal"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Ibrahima Koné",
+    "position": "Santrafor ",
+    "team": " FC Lorient",
+    "nations": ["Mali"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Siriné Doucouré",
+    "position": "Santrafor ",
+    "team": " FC Lorient",
+    "nations": ["Fransa", "Mali"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Gauthier Gallon",
+    "position": "Kaleci ",
+    "team": " Troyes",
+    "nations": ["Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Mateusz Lis",
+    "position": "Kaleci ",
+    "team": " Troyes",
+    "nations": ["Polonya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Jessy Moulin",
+    "position": "Kaleci ",
+    "team": " Troyes",
+    "nations": ["Fransa"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "2",
+    "name": "Jackson Porozo",
+    "position": "Stoper ",
+    "team": " Troyes",
+    "nations": ["Ekvador"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Erik Palmer-Brown",
+    "position": "Stoper ",
+    "team": " Troyes",
+    "nations": ["Amerika Birleşik Devletleri"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Yoann Salmier",
+    "position": "Stoper ",
+    "team": " Troyes",
+    "nations": ["Fransiz Guyanasi", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Tanguy Zoukrou",
+    "position": "Stoper ",
+    "team": " Troyes",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "23",
+    "name": "Adil Rami",
+    "position": "Stoper ",
+    "team": " Troyes",
+    "nations": ["Fransa", "Fas"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "37",
+    "name": "Eric N'Jo",
+    "position": "Stoper ",
+    "team": " Troyes",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "39",
+    "name": "Yasser Larouci",
+    "position": "Sol Bek ",
+    "team": " Troyes",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Abdu Conté",
+    "position": "Sol Bek ",
+    "team": " Troyes",
+    "nations": ["Portekiz", "Gine-Bissau"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Thierno Baldé",
+    "position": "Sağ Bek ",
+    "team": " Troyes",
+    "nations": ["Fransa", "Gine"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Andreas Bruus",
+    "position": "Sağ Bek ",
+    "team": " Troyes",
+    "nations": ["Danimarka"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Lucien Agoumé",
+    "position": "Önlibero ",
+    "team": " Troyes",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Rominigue Kouamé",
+    "position": "Merkez orta saha ",
+    "team": " Troyes",
+    "nations": ["Mali", "Fildişi Sahili"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Florian Tardieu ",
+    "position": "Merkez orta saha ",
+    "team": " Troyes",
+    "nations": ["Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Xavier Chavalerin",
+    "position": "Merkez orta saha ",
+    "team": " Troyes",
+    "nations": ["Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Ante Palaversa",
+    "position": "Merkez orta saha ",
+    "team": " Troyes",
+    "nations": ["Hırvatistan"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Jeff Reine-Adélaïde",
+    "position": "On Numara ",
+    "team": " Troyes",
+    "nations": ["Fransa", "Martinique"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Papa Ndiaga Yade",
+    "position": "Sol Kanat ",
+    "team": " Troyes",
+    "nations": ["Senegal"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Alexis Tibidi",
+    "position": "Sol Kanat ",
+    "team": " Troyes",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Levi Lumeka",
+    "position": "Sol Kanat ",
+    "team": " Troyes",
+    "nations": ["İngiltere", "Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Wilson Odobert",
+    "position": "Sağ Kanat ",
+    "team": " Troyes",
+    "nations": ["Fransa"],
+    "age": "18",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Rony Lopes",
+    "position": "Sağ Kanat ",
+    "team": " Troyes",
+    "nations": ["Portekiz", "Brezilya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Renaud Ripart",
+    "position": "Sağ Kanat ",
+    "team": " Troyes",
+    "nations": ["Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Mama Baldé",
+    "position": "Santrafor ",
+    "team": " Troyes",
+    "nations": ["Gine-Bissau", "Portekiz"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Iké Ugbo",
+    "position": "Santrafor ",
+    "team": " Troyes",
+    "nations": ["Kanada", "İngiltere"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Marco Bizot",
+    "position": "Kaleci ",
+    "team": " Stade Brestois 29",
+    "nations": ["Hollanda"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Joaquín Blázquez",
+    "position": "Kaleci ",
+    "team": " Stade Brestois 29",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Grégoire Coudert",
+    "position": "Kaleci ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Brendan Chardonnet ",
+    "position": "Stoper ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Jean-Kévin Duverne",
+    "position": "Stoper ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Haiti"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Lilian Brassier",
+    "position": "Stoper ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Achraf Dari",
+    "position": "Stoper ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fas"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Christophe Hérelle",
+    "position": "Stoper ",
+    "team": " Stade Brestois 29",
+    "nations": ["Martinique", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Josué Escartin",
+    "position": "Stoper ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Kongo"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Bradley Locko",
+    "position": "Sol Bek ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Kongo"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Kenny Lala",
+    "position": "Sağ Bek ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Martinique"],
+    "age": "31",
+    "contract": "-",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Noah Fadiga",
+    "position": "Sağ Bek ",
+    "team": " Stade Brestois 29",
+    "nations": ["Senegal", "Belçika"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Pierre Lees-Melou",
+    "position": "Merkez orta saha ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Haris Belkebla",
+    "position": "Merkez orta saha ",
+    "team": " Stade Brestois 29",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "45",
+    "name": "Mahdi Camara",
+    "position": "Merkez orta saha ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Gambiya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Hugo Magnetti",
+    "position": "Merkez orta saha ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Félix Lemaréchal",
+    "position": "Merkez orta saha ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "19",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "10",
+    "name": "Romain Del Castillo",
+    "position": "Orta saha sağ ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Mathias Pereira Lage",
+    "position": "Orta saha sağ ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Portekiz"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Franck Honorat",
+    "position": "Sağ Kanat ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Alberth Elis",
+    "position": "Sağ Kanat ",
+    "team": " Stade Brestois 29",
+    "nations": ["Honduras"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Karamoko Dembélé",
+    "position": "Sağ Kanat ",
+    "team": " Stade Brestois 29",
+    "nations": ["İngiltere", "İskoçya"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "97",
+    "name": "Taïryk Arconte",
+    "position": "Sağ Kanat ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "15",
+    "name": "Steve Mounié",
+    "position": "Santrafor ",
+    "team": " Stade Brestois 29",
+    "nations": ["Benin", "Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Jérémy Le Douaron",
+    "position": "Santrafor ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Loïc Rémy",
+    "position": "Santrafor ",
+    "team": " Stade Brestois 29",
+    "nations": ["Fransa", "Martinique"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "94",
+    "name": "Yehvann Diouf",
+    "position": "Kaleci ",
+    "team": " Stade Reims",
+    "nations": ["Fransa", "Senegal"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "96",
+    "name": "Alexandre Olliero",
+    "position": "Kaleci ",
+    "team": " Stade Reims",
+    "nations": ["Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Nicolas Penneteau",
+    "position": "Kaleci ",
+    "team": " Stade Reims",
+    "nations": ["Fransa"],
+    "age": "42",
+    "contract": "30 Haz 2023",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Florent Duparchy",
+    "position": "Kaleci ",
+    "team": " Stade Reims",
+    "nations": ["Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Emmanuel Agbadou",
+    "position": "Stoper ",
+    "team": " Stade Reims",
+    "nations": ["Fildişi Sahili"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Yunis Abdelhamid",
+    "position": "Stoper ",
+    "team": " Stade Reims",
+    "nations": ["Fas", "Fransa"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Thibault De Smet",
+    "position": "Sol Bek ",
+    "team": " Stade Reims",
+    "nations": ["Belçika"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "32",
+    "name": "Thomas Foket",
+    "position": "Sağ Bek ",
+    "team": " Stade Reims",
+    "nations": ["Belçika"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Maxime Busi",
+    "position": "Sağ Bek ",
+    "team": " Stade Reims",
+    "nations": ["Belçika"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Azor Matusiwa",
+    "position": "Önlibero ",
+    "team": " Stade Reims",
+    "nations": ["Hollanda", "Angola"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Marshall Munetsi",
+    "position": "Önlibero ",
+    "team": " Stade Reims",
+    "nations": ["Zimbabve"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Jens Cajuste",
+    "position": "Önlibero ",
+    "team": " Stade Reims",
+    "nations": ["İsveç", "Amerika Birleşik Devletleri"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Dion Lopy",
+    "position": "Önlibero ",
+    "team": " Stade Reims",
+    "nations": ["Senegal"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Kamory Doumbia",
+    "position": "On Numara ",
+    "team": " Stade Reims",
+    "nations": ["Mali"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Arbër Zeneli",
+    "position": "Sol Kanat ",
+    "team": " Stade Reims",
+    "nations": ["Kosova", "İsveç"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Myziane Maolida",
+    "position": "Sol Kanat ",
+    "team": " Stade Reims",
+    "nations": ["Fransa", "Komorlar"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "1.75 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Mitchell van Bergen",
+    "position": "Sol Kanat ",
+    "team": " Stade Reims",
+    "nations": ["Hollanda"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Junya Ito",
+    "position": "Sağ Kanat ",
+    "team": " Stade Reims",
+    "nations": ["Japonya"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "70",
+    "name": "Alexis Flips",
+    "position": "Sağ Kanat ",
+    "team": " Stade Reims",
+    "nations": ["Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Folarin Balogun",
+    "position": "Santrafor ",
+    "team": " Stade Reims",
+    "nations": ["İngiltere", "Amerika Birleşik Devletleri"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Kaj Sierhuis",
+    "position": "Santrafor ",
+    "team": " Stade Reims",
+    "nations": ["Hollanda"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Noah Jean Holm",
+    "position": "Santrafor ",
+    "team": " Stade Reims",
+    "nations": ["Norveç"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Maxime Dupé",
+    "position": "Kaleci ",
+    "team": " FC Toulouse",
+    "nations": ["Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Kjetil Haug",
+    "position": "Kaleci ",
+    "team": " FC Toulouse",
+    "nations": ["Norveç"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "1",
+    "name": "Thomas Himeur",
+    "position": "Kaleci ",
+    "team": " FC Toulouse",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Anthony Rouault",
+    "position": "Stoper ",
+    "team": " FC Toulouse",
+    "nations": ["Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Rasmus Nicolaisen",
+    "position": "Stoper ",
+    "team": " FC Toulouse",
+    "nations": ["Danimarka"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Logan Costa",
+    "position": "Stoper ",
+    "team": " FC Toulouse",
+    "nations": ["Yeşil Burun Adaları", "Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "31",
+    "name": "Kévin Keben",
+    "position": "Stoper ",
+    "team": " FC Toulouse",
+    "nations": ["Kamerun"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "15",
+    "name": "Gabriel Suazo",
+    "position": "Sol Bek ",
+    "team": " FC Toulouse",
+    "nations": ["Şili"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Oliver Zandén",
+    "position": "Sol Bek ",
+    "team": " FC Toulouse",
+    "nations": ["İsveç"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Moussa Diarra",
+    "position": "Sol Bek ",
+    "team": " FC Toulouse",
+    "nations": ["Mali", "Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Mikkel Desler",
+    "position": "Sağ Bek ",
+    "team": " FC Toulouse",
+    "nations": ["Danimarka"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Warren Kamanzi",
+    "position": "Sağ Bek ",
+    "team": " FC Toulouse",
+    "nations": ["Norveç", "Ruanda"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Stijn Spierings",
+    "position": "Önlibero ",
+    "team": " FC Toulouse",
+    "nations": ["Hollanda"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Branco van den Boomen",
+    "position": "Merkez orta saha ",
+    "team": " FC Toulouse",
+    "nations": ["Hollanda"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Brecht Dejaegere",
+    "position": "Merkez orta saha ",
+    "team": " FC Toulouse",
+    "nations": ["Belçika"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Theocharis Tsingaras",
+    "position": "Merkez orta saha ",
+    "team": " FC Toulouse",
+    "nations": ["Yunanistan"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Vincent Sierro",
+    "position": "Merkez orta saha ",
+    "team": " FC Toulouse",
+    "nations": ["İsviçre"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Farès Chaïbi",
+    "position": "On Numara ",
+    "team": " FC Toulouse",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Denis Genreau",
+    "position": "On Numara ",
+    "team": " FC Toulouse",
+    "nations": ["Avustralya", "Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Veljko Birmancevic",
+    "position": "Sol Kanat ",
+    "team": " FC Toulouse",
+    "nations": ["Sırbistan"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Rafael Ratão",
+    "position": "Sol Kanat ",
+    "team": " FC Toulouse",
+    "nations": ["Brezilya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Zakaria Aboukhlal",
+    "position": "Sağ Kanat ",
+    "team": " FC Toulouse",
+    "nations": ["Fas", "Hollanda"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Rhys Healey ",
+    "position": "Santrafor ",
+    "team": " FC Toulouse",
+    "nations": ["İngiltere"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Thijs Dallinga",
+    "position": "Santrafor ",
+    "team": " FC Toulouse",
+    "nations": ["Hollanda"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Ado Onaiwu",
+    "position": "Santrafor ",
+    "team": " FC Toulouse",
+    "nations": ["Japonya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Saïd Hamulic",
+    "position": "Santrafor ",
+    "team": " FC Toulouse",
+    "nations": ["Bosna-Hersek", "Hollanda"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Paul Bernardoni",
+    "position": "Kaleci ",
+    "team": " Angers SCO",
+    "nations": ["Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Yahia Fofana",
+    "position": "Kaleci ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Melvin Zinga",
+    "position": "Kaleci ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Kongo"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Théo Borne",
+    "position": "Kaleci ",
+    "team": " Angers SCO",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Cédric Hountondji",
+    "position": "Stoper ",
+    "team": " Angers SCO",
+    "nations": ["Benin", "Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Miha Blazic",
+    "position": "Stoper ",
+    "team": " Angers SCO",
+    "nations": ["Slovenya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Ousmane Camara",
+    "position": "Stoper ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Mali"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Souleyman Doumbia",
+    "position": "Sol Bek ",
+    "team": " Angers SCO",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Faouzi Ghoulam",
+    "position": "Sol Bek ",
+    "team": " Angers SCO",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Ilyes Chetti",
+    "position": "Sol Bek ",
+    "team": " Angers SCO",
+    "nations": ["Cezayir"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "94",
+    "name": "Yan Valery",
+    "position": "Sağ Bek ",
+    "team": " Angers SCO",
+    "nations": ["Tunus", "Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Halid Sabanovic",
+    "position": "Sağ Bek ",
+    "team": " Angers SCO",
+    "nations": ["Bosna-Hersek"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Abdoulaye Bamba",
+    "position": "Sağ Bek ",
+    "team": " Angers SCO",
+    "nations": ["Fildişi Sahili", "İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "27",
+    "name": "Ali Kalla",
+    "position": "Sağ Bek ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "2",
+    "name": "Batista Mendy",
+    "position": "Önlibero ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Gine-Bissau"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Ibrahim Amadou",
+    "position": "Önlibero ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Zinédine Ould Khaled",
+    "position": "Önlibero ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "Nabil Bentaleb",
+    "position": "Merkez orta saha ",
+    "team": " Angers SCO",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Yassin Belkhdim",
+    "position": "Merkez orta saha ",
+    "team": " Angers SCO",
+    "nations": ["Fas", "Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "15",
+    "name": "Pierrick Capelle",
+    "position": "Orta saha sol ",
+    "team": " Angers SCO",
+    "nations": ["Fransa"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "10",
+    "name": "Himad Abdelli",
+    "position": "On Numara ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Waniss Taïbi",
+    "position": "On Numara ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Jean-Mattéo Bahoya",
+    "position": "On Numara ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Farid El Melali",
+    "position": "Sol Kanat ",
+    "team": " Angers SCO",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "19",
+    "name": "Abdallah Sima",
+    "position": "Sağ Kanat ",
+    "team": " Angers SCO",
+    "nations": ["Senegal"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "92",
+    "name": "Sada Thioub",
+    "position": "Sağ Kanat ",
+    "team": " Angers SCO",
+    "nations": ["Senegal", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Ibrahima Niane",
+    "position": "Santrafor ",
+    "team": " Angers SCO",
+    "nations": ["Senegal", "Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Adrien Hunou",
+    "position": "Santrafor ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Polonya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Amine Salama",
+    "position": "Santrafor ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Fas"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Loïs Diony ",
+    "position": "Santrafor ",
+    "team": " Angers SCO",
+    "nations": ["Fransa", "Martinique"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Ulrick Eneme-Ella",
+    "position": "Santrafor ",
+    "team": " Angers SCO",
+    "nations": ["Gabon", "Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "1",
+    "name": "Ionut Radu",
+    "position": "Kaleci ",
+    "team": " AJ Auxerre",
+    "nations": ["Romanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Donovan Léon",
+    "position": "Kaleci ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransiz Guyanasi", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Théo De Percin",
+    "position": "Kaleci ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa", "Martinique"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "37",
+    "name": "Vincenzo Cozzella",
+    "position": "Kaleci ",
+    "team": " AJ Auxerre",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "-",
+    "pd": "-"
+  },
+  {
+    "number": "95",
+    "name": "Isaak Touré",
+    "position": "Stoper ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "19",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Jubal",
+    "position": "Stoper ",
+    "team": " AJ Auxerre",
+    "nations": ["Brezilya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Théo Pellenard ",
+    "position": "Stoper ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Julian Jeanvier",
+    "position": "Stoper ",
+    "team": " AJ Auxerre",
+    "nations": ["Gine", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "32",
+    "name": "Denys Bain",
+    "position": "Stoper ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa", "Benin"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "14",
+    "name": "Gideon Mensah",
+    "position": "Sol Bek ",
+    "team": " AJ Auxerre",
+    "nations": ["Gana"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Kenji-Van Boto",
+    "position": "Sol Bek ",
+    "team": " AJ Auxerre",
+    "nations": ["Madagaskar", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "13",
+    "name": "Akim Zedadka",
+    "position": "Sağ Bek ",
+    "team": " AJ Auxerre",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Elisha Owusu ",
+    "position": "Önlibero ",
+    "team": " AJ Auxerre",
+    "nations": ["Gana", "Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Birama Touré",
+    "position": "Önlibero ",
+    "team": " AJ Auxerre",
+    "nations": ["Mali"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "97",
+    "name": "Rayan Raveloson",
+    "position": "Önlibero ",
+    "team": " AJ Auxerre",
+    "nations": ["Madagaskar", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Ousoumane Camara",
+    "position": "Önlibero ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "-",
+    "name": "Natanaël Bouekou",
+    "position": "Önlibero ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa", "Kongo"],
+    "age": "20",
+    "contract": "-",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "80",
+    "name": "Han-Noah Massengo",
+    "position": "Merkez orta saha ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa", "Kongo"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Kays Ruiz-Atil",
+    "position": "Merkez orta saha ",
+    "team": " AJ Auxerre",
+    "nations": ["Fas", "Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Gaëtan Perrin",
+    "position": "Orta saha sağ ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Hamza Sakhi",
+    "position": "On Numara ",
+    "team": " AJ Auxerre",
+    "nations": ["Fas", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Youssouf M'Changama",
+    "position": "On Numara ",
+    "team": " AJ Auxerre",
+    "nations": ["Komorlar", "Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Mathias Autret",
+    "position": "On Numara ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa", "Portekiz"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Kévin Danois",
+    "position": "On Numara ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "18",
+    "contract": "30 Haz 2024",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "77",
+    "name": "Siriki Dembélé",
+    "position": "Sol Kanat ",
+    "team": " AJ Auxerre",
+    "nations": ["İskoçya", "Fildişi Sahili"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Rémy Dugimont",
+    "position": "Sol Kanat ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "7",
+    "name": "Gauthier Hein",
+    "position": "Sağ Kanat ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Lassine Sinayoko",
+    "position": "Sağ Kanat ",
+    "team": " AJ Auxerre",
+    "nations": ["Mali", "Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "M'Baye Niang",
+    "position": "Santrafor ",
+    "team": " AJ Auxerre",
+    "nations": ["Senegal", "Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Matthis Abline",
+    "position": "Santrafor ",
+    "team": " AJ Auxerre",
+    "nations": ["Fransa"],
+    "age": "19",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Nuno Da Costa",
+    "position": "Santrafor ",
+    "team": " AJ Auxerre",
+    "nations": ["Yeşil Burun Adaları", "Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Idjessi Metsoko",
+    "position": "Santrafor ",
+    "team": " AJ Auxerre",
+    "nations": ["Togo", "Fransa"],
+    "age": "20",
+    "contract": "-",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Ousmane Camara",
+    "position": "Santrafor ",
+    "team": " AJ Auxerre",
+    "nations": ["Gine"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "99",
+    "name": "Mory Diaw",
+    "position": "Kaleci ",
+    "team": " Clermont Foot 63",
+    "nations": ["Senegal", "Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Ouparine Djoco",
+    "position": "Kaleci ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa", "Senegal"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "16",
+    "name": "Lucas Margueron",
+    "position": "Kaleci ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "36",
+    "name": "Alidu Seidu ",
+    "position": "Stoper ",
+    "team": " Clermont Foot 63",
+    "nations": ["Gana"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Mateusz Wieteska ",
+    "position": "Stoper ",
+    "team": " Clermont Foot 63",
+    "nations": ["Polonya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Maximiliano Caufriez",
+    "position": "Stoper ",
+    "team": " Clermont Foot 63",
+    "nations": ["Belçika"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Florent Ogier",
+    "position": "Stoper ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "13",
+    "name": "Souleymane Cissé",
+    "position": "Stoper ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa", "Senegal"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Neto Borges",
+    "position": "Sol Bek ",
+    "team": " Clermont Foot 63",
+    "nations": ["Brezilya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Baïla Diallo",
+    "position": "Sol Bek ",
+    "team": " Clermont Foot 63",
+    "nations": ["Senegal", "Fransa"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "2",
+    "name": "Mehdi Zeffane",
+    "position": "Sağ Bek ",
+    "team": " Clermont Foot 63",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "17",
+    "name": "Oliver Kamdem",
+    "position": "Sağ Bek ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "7",
+    "name": "Yohann Magnin",
+    "position": "Önlibero ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Maxime Gonalons",
+    "position": "Önlibero ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Johan Gastien",
+    "position": "Önlibero ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa"],
+    "age": "35",
+    "contract": "30 Haz 2025",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "97",
+    "name": "Yanis Massolin",
+    "position": "Merkez orta saha ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa", "Martinique"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "11",
+    "name": "Jim Allevinah",
+    "position": "Orta saha sağ ",
+    "team": " Clermont Foot 63",
+    "nations": ["Gabon", "Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "70",
+    "name": "Muhammed Cham",
+    "position": "On Numara ",
+    "team": " Clermont Foot 63",
+    "nations": ["Avusturya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Saîf-Eddine Khaoui",
+    "position": "On Numara ",
+    "team": " Clermont Foot 63",
+    "nations": ["Tunus", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Aïman Maurer",
+    "position": "On Numara ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fas", "Fransa"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "18",
+    "name": "Elbasan Rashani",
+    "position": "Sol Kanat ",
+    "team": " Clermont Foot 63",
+    "nations": ["Kosova", "Norveç"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "91",
+    "name": "Jérémie Bela",
+    "position": "Sol Kanat ",
+    "team": " Clermont Foot 63",
+    "nations": ["Angola", "Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Komnen Andric",
+    "position": "Santrafor ",
+    "team": " Clermont Foot 63",
+    "nations": ["Sırbistan"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "95",
+    "name": "Grejohn Kyei",
+    "position": "Santrafor ",
+    "team": " Clermont Foot 63",
+    "nations": ["Fransa", "Gana"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Benjamin Leroy",
+    "position": "Kaleci ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "16",
+    "name": "François-Joseph Sollacaro",
+    "position": "Kaleci ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Ghjuvanni Quilichini",
+    "position": "Kaleci ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Oumar Gonzalez",
+    "position": "Stoper ",
+    "team": " AC Ajaccio",
+    "nations": ["Kamerun", "Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Clément Vidal",
+    "position": "Stoper ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Fernand Mayembo",
+    "position": "Stoper ",
+    "team": " AC Ajaccio",
+    "nations": ["Kongo", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "21",
+    "name": "Cédric Avinel",
+    "position": "Stoper ",
+    "team": " AC Ajaccio",
+    "nations": ["Guadeloupe", "Fransa"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "99",
+    "name": "Youssouf Koné ",
+    "position": "Sol Bek ",
+    "team": " AC Ajaccio",
+    "nations": ["Mali"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Ismaël Diallo",
+    "position": "Sol Bek ",
+    "team": " AC Ajaccio",
+    "nations": ["Fildişi Sahili"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Chaker Alhadhur",
+    "position": "Sol Bek ",
+    "team": " AC Ajaccio",
+    "nations": ["Komorlar", "Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "2",
+    "name": "Mickaël Alphonse",
+    "position": "Sağ Bek ",
+    "team": " AC Ajaccio",
+    "nations": ["Guadeloupe", "Fransa"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "20",
+    "name": "Mohamed Youssouf",
+    "position": "Sağ Bek ",
+    "team": " AC Ajaccio",
+    "nations": ["Komorlar", "Fransa"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "8",
+    "name": "Vincent Marchetti",
+    "position": "Önlibero ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Thomas Mangani ",
+    "position": "Merkez orta saha ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa", "İtalya"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "Mathieu Coutadeur",
+    "position": "Merkez orta saha ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "19",
+    "name": "Alassane N'Diaye",
+    "position": "Orta saha sağ ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa", "Senegal"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Yanis Cimignani",
+    "position": "Orta saha sol ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa", "Burkina Faso"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Michaël Barreto",
+    "position": "On Numara ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa", "Portekiz"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Florian Chabrolle ",
+    "position": "On Numara ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "10",
+    "name": "Youcef Belaïli",
+    "position": "Sol Kanat ",
+    "team": " AC Ajaccio",
+    "nations": ["Cezayir"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Kevin Spadanuda",
+    "position": "Sol Kanat ",
+    "team": " AC Ajaccio",
+    "nations": ["İsviçre", "İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "18",
+    "name": "Jean Botué",
+    "position": "Sol Kanat ",
+    "team": " AC Ajaccio",
+    "nations": ["Burkina Faso"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "14",
+    "name": "Cyrille Bayala",
+    "position": "Sağ Kanat ",
+    "team": " AC Ajaccio",
+    "nations": ["Burkina Faso"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Riad Nouri",
+    "position": "Sağ Kanat ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "37",
+    "contract": "30 Haz 2024",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Ruan Levine",
+    "position": "Sağ Kanat ",
+    "team": " AC Ajaccio",
+    "nations": ["Brezilya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "-"
+  },
+  {
+    "number": "28",
+    "name": "Moussa Djitté",
+    "position": "Santrafor ",
+    "team": " AC Ajaccio",
+    "nations": ["Senegal"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Mounaïm El Idrissy",
+    "position": "Santrafor ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa", "Fas"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Romain Hamouma",
+    "position": "Santrafor ",
+    "team": " AC Ajaccio",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "9",
+    "name": "Yoann Touzghar ",
+    "position": "Santrafor ",
+    "team": " AC Ajaccio",
+    "nations": ["Tunus", "Fransa"],
+    "age": "36",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  }
+]

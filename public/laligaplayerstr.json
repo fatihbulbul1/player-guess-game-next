@@ -1,0 +1,4932 @@
+[
+  {
+    "number": "1",
+    "name": "Thibaut Courtois",
+    "position": "Kaleci ",
+    "team": " Real Madrid",
+    "nations": ["Belçika"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Andriy Lunin",
+    "position": "Kaleci ",
+    "team": " Real Madrid",
+    "nations": ["Ukrayna"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Éder Militão",
+    "position": "Stoper ",
+    "team": " Real Madrid",
+    "nations": ["Brezilya", "İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "David Alaba ",
+    "position": "Stoper ",
+    "team": " Real Madrid",
+    "nations": ["Avusturya"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "55.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Antonio Rüdiger",
+    "position": "Stoper ",
+    "team": " Real Madrid",
+    "nations": ["Almanya", "Sierra Leone"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Nacho Fernández",
+    "position": "Stoper ",
+    "team": " Real Madrid",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Jesús Vallejo",
+    "position": "Stoper ",
+    "team": " Real Madrid",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Ferland Mendy ",
+    "position": "Sol Bek ",
+    "team": " Real Madrid",
+    "nations": ["Fransa", "Senegal"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Daniel Carvajal",
+    "position": "Sağ Bek ",
+    "team": " Real Madrid",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Lucas Vázquez",
+    "position": "Sağ Bek ",
+    "team": " Real Madrid",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Álvaro Odriozola",
+    "position": "Sağ Bek ",
+    "team": " Real Madrid",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Aurélien Tchouameni",
+    "position": "Önlibero ",
+    "team": " Real Madrid",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "23",
+    "contract": "30 Haz 2028",
+    "pd": "90.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Federico Valverde",
+    "position": "Merkez orta saha ",
+    "team": " Real Madrid",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "100.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Eduardo Camavinga",
+    "position": "Merkez orta saha ",
+    "team": " Real Madrid",
+    "nations": ["Fransa", "Kongo"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Toni Kroos",
+    "position": "Merkez orta saha ",
+    "team": " Real Madrid",
+    "nations": ["Almanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Luka Modric ",
+    "position": "Merkez orta saha ",
+    "team": " Real Madrid",
+    "nations": ["Hırvatistan"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Dani Ceballos",
+    "position": "Merkez orta saha ",
+    "team": " Real Madrid",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Vinicius Junior",
+    "position": "Sol Kanat ",
+    "team": " Real Madrid",
+    "nations": ["Brezilya", "İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "120.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Eden Hazard",
+    "position": "Sol Kanat ",
+    "team": " Real Madrid",
+    "nations": ["Belçika"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Rodrygo ",
+    "position": "Sağ Kanat ",
+    "team": " Real Madrid",
+    "nations": ["Brezilya", "İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "80.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Marco Asensio",
+    "position": "Sağ Kanat ",
+    "team": " Real Madrid",
+    "nations": ["İspanya", "Hollanda"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Karim Benzema",
+    "position": "Santrafor ",
+    "team": " Real Madrid",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Mariano Díaz",
+    "position": "Santrafor ",
+    "team": " Real Madrid",
+    "nations": ["Dominik Cumhuriyeti", "İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Álvaro Rodríguez",
+    "position": "Santrafor ",
+    "team": " Real Madrid",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "18",
+    "contract": "30 Haz 2027",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Marc-André ter Stegen",
+    "position": "Kaleci ",
+    "team": " FC Barcelona",
+    "nations": ["Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Iñaki Peña",
+    "position": "Kaleci ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Arnau Tenas",
+    "position": "Kaleci ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Ronald Araújo",
+    "position": "Stoper ",
+    "team": " FC Barcelona",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Jules Kounde",
+    "position": "Stoper ",
+    "team": " FC Barcelona",
+    "nations": ["Fransa", "Benin"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Andreas Christensen",
+    "position": "Stoper ",
+    "team": " FC Barcelona",
+    "nations": ["Danimarka"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Eric García",
+    "position": "Stoper ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Alejandro Balde",
+    "position": "Sol Bek ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya", "Dominik Cumhuriyeti"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Marcos Alonso",
+    "position": "Sol Bek ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Jordi Alba",
+    "position": "Sol Bek ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Sergi Roberto",
+    "position": "Sağ Bek ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Sergio Busquets",
+    "position": "Önlibero ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Pedri ",
+    "position": "Merkez orta saha ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "100.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Gavi ",
+    "position": "Merkez orta saha ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "18",
+    "contract": "30 Haz 2026",
+    "pd": "90.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Frenkie de Jong",
+    "position": "Merkez orta saha ",
+    "team": " FC Barcelona",
+    "nations": ["Hollanda"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Franck Kessié",
+    "position": "Merkez orta saha ",
+    "team": " FC Barcelona",
+    "nations": ["Fildişi Sahili", "İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Pablo Torre",
+    "position": "Merkez orta saha ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Ansu Fati ",
+    "position": "Sol Kanat ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya", "Gine-Bissau"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Ferran Torres",
+    "position": "Sol Kanat ",
+    "team": " FC Barcelona",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Ousmane Dembélé ",
+    "position": "Sağ Kanat ",
+    "team": " FC Barcelona",
+    "nations": ["Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Raphinha ",
+    "position": "Sağ Kanat ",
+    "team": " FC Barcelona",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Robert Lewandowski ",
+    "position": "Santrafor ",
+    "team": " FC Barcelona",
+    "nations": ["Polonya"],
+    "age": "34",
+    "contract": "30 Haz 2026",
+    "pd": "45.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Jan Oblak",
+    "position": "Kaleci ",
+    "team": " Atlético de Madrid",
+    "nations": ["Slovenya"],
+    "age": "30",
+    "contract": "30 Haz 2028",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Ivo Grbic",
+    "position": "Kaleci ",
+    "team": " Atlético de Madrid",
+    "nations": ["Hırvatistan"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "José María Giménez",
+    "position": "Stoper ",
+    "team": " Atlético de Madrid",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Mario Hermoso",
+    "position": "Stoper ",
+    "team": " Atlético de Madrid",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Stefan Savic",
+    "position": "Stoper ",
+    "team": " Atlético de Madrid",
+    "nations": ["Karadağ", "Sırbistan"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Reinildo Mandava ",
+    "position": "Sol Bek ",
+    "team": " Atlético de Madrid",
+    "nations": ["Mozambik"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Sergio Reguilón ",
+    "position": "Sol Bek ",
+    "team": " Atlético de Madrid",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Nahuel Molina",
+    "position": "Sağ Bek ",
+    "team": " Atlético de Madrid",
+    "nations": ["Arjantin"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Matt Doherty",
+    "position": "Sağ Bek ",
+    "team": " Atlético de Madrid",
+    "nations": ["İrlanda"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Geoffrey Kondogbia",
+    "position": "Önlibero ",
+    "team": " Atlético de Madrid",
+    "nations": ["Orta Afrika Cumhuriyeti", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Axel Witsel",
+    "position": "Önlibero ",
+    "team": " Atlético de Madrid",
+    "nations": ["Belçika", "Martinique"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Rodrigo de Paul",
+    "position": "Merkez orta saha ",
+    "team": " Atlético de Madrid",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Marcos Llorente",
+    "position": "Merkez orta saha ",
+    "team": " Atlético de Madrid",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Koke",
+    "position": "Merkez orta saha ",
+    "team": " Atlético de Madrid",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Saúl Ñíguez",
+    "position": "Merkez orta saha ",
+    "team": " Atlético de Madrid",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Pablo Barrios",
+    "position": "Merkez orta saha ",
+    "team": " Atlético de Madrid",
+    "nations": ["İspanya"],
+    "age": "19",
+    "contract": "30 Haz 2028",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "11",
+    "name": "Thomas Lemar",
+    "position": "On Numara ",
+    "team": " Atlético de Madrid",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "27",
+    "contract": "30 Haz 2027",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Yannick Carrasco",
+    "position": "Sol Kanat ",
+    "team": " Atlético de Madrid",
+    "nations": ["Belçika", "İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Ángel Correa",
+    "position": "Sağ Kanat ",
+    "team": " Atlético de Madrid",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Antoine Griezmann",
+    "position": "Forvet Arkası ",
+    "team": " Atlético de Madrid",
+    "nations": ["Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Álvaro Morata",
+    "position": "Santrafor ",
+    "team": " Atlético de Madrid",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Memphis Depay",
+    "position": "Santrafor ",
+    "team": " Atlético de Madrid",
+    "nations": ["Hollanda", "Gana"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Álex Remiro",
+    "position": "Kaleci ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2027",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Andoni Zubiaurre",
+    "position": "Kaleci ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Robin Le Normand",
+    "position": "Stoper ",
+    "team": " Real Sociedad",
+    "nations": ["Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Igor Zubeldia",
+    "position": "Stoper ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Aritz Elustondo ",
+    "position": "Stoper ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Jon Pacheco",
+    "position": "Stoper ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Aihen Muñoz",
+    "position": "Sol Bek ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Diego Rico",
+    "position": "Sol Bek ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Andoni Gorosabel",
+    "position": "Sağ Bek ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Álex Sola",
+    "position": "Sağ Bek ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Martín Zubimendi",
+    "position": "Önlibero ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Asier Illarramendi",
+    "position": "Önlibero ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Mikel Merino",
+    "position": "Merkez orta saha ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Ander Guevara ",
+    "position": "Merkez orta saha ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Beñat Turrientes",
+    "position": "Merkez orta saha ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Brais Méndez",
+    "position": "On Numara ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2028",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Robert Navarro",
+    "position": "On Numara ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "David Silva ",
+    "position": "On Numara ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Mikel Oyarzabal",
+    "position": "Sol Kanat ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2028",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Ander Barrenetxea",
+    "position": "Sol Kanat ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Martín Merquelanz ",
+    "position": "Sol Kanat ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Takefusa Kubo",
+    "position": "Sağ Kanat ",
+    "team": " Real Sociedad",
+    "nations": ["Japonya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Umar Sadiq ",
+    "position": "Santrafor ",
+    "team": " Real Sociedad",
+    "nations": ["Nijerya"],
+    "age": "26",
+    "contract": "30 Haz 2028",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Momo Cho ",
+    "position": "Santrafor ",
+    "team": " Real Sociedad",
+    "nations": ["Fransa", "İngiltere"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Alexander Sörloth",
+    "position": "Santrafor ",
+    "team": " Real Sociedad",
+    "nations": ["Norveç"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Carlos Fernández",
+    "position": "Santrafor ",
+    "team": " Real Sociedad",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Filip Jörgensen",
+    "position": "Kaleci ",
+    "team": " Villarreal",
+    "nations": ["Danimarka", "İsveç"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Pepe Reina",
+    "position": "Kaleci ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "40",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Pau Torres",
+    "position": "Stoper ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Jorge Cuenca",
+    "position": "Stoper ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Aïssa Mandi",
+    "position": "Stoper ",
+    "team": " Villarreal",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Raúl Albiol",
+    "position": "Stoper ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Alfonso Pedraza",
+    "position": "Sol Bek ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Johan Mojica",
+    "position": "Sol Bek ",
+    "team": " Villarreal",
+    "nations": ["Kolombiya", "İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Alberto Moreno",
+    "position": "Sol Bek ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Juan Foyth",
+    "position": "Sağ Bek ",
+    "team": " Villarreal",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Kiko Femenía",
+    "position": "Sağ Bek ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Francis Coquelin",
+    "position": "Önlibero ",
+    "team": " Villarreal",
+    "nations": ["Fransa", "Réunion"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Étienne Capoue",
+    "position": "Önlibero ",
+    "team": " Villarreal",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Giovani Lo Celso",
+    "position": "Merkez orta saha ",
+    "team": " Villarreal",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Dani Parejo",
+    "position": "Merkez orta saha ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Manu Trigueros",
+    "position": "Merkez orta saha ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Álex Baena",
+    "position": "Sol Kanat ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2028",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Yéremy Pino",
+    "position": "Sağ Kanat ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "38.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Samuel Chukwueze",
+    "position": "Sağ Kanat ",
+    "team": " Villarreal",
+    "nations": ["Nijerya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Gerard Moreno",
+    "position": "Santrafor ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2027",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Nicolas Jackson ",
+    "position": "Santrafor ",
+    "team": " Villarreal",
+    "nations": ["Senegal", "Gambiya"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "José Luis Morales",
+    "position": "Santrafor ",
+    "team": " Villarreal",
+    "nations": ["İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Rui Silva",
+    "position": "Kaleci ",
+    "team": " Real Betis",
+    "nations": ["Portekiz"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Dani Martín",
+    "position": "Kaleci ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Claudio Bravo",
+    "position": "Kaleci ",
+    "team": " Real Betis",
+    "nations": ["Şili", "İspanya"],
+    "age": "39",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Luiz Felipe",
+    "position": "Stoper ",
+    "team": " Real Betis",
+    "nations": ["İtalya", "Brezilya"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Edgar González",
+    "position": "Stoper ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Germán Pezzella",
+    "position": "Stoper ",
+    "team": " Real Betis",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Víctor Ruiz",
+    "position": "Stoper ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Abner",
+    "position": "Sol Bek ",
+    "team": " Real Betis",
+    "nations": ["Brezilya"],
+    "age": "22",
+    "contract": "30 Haz 2029",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Juan Miranda",
+    "position": "Sol Bek ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Aitor Ruibal",
+    "position": "Sağ Bek ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Youssouf Sabaly",
+    "position": "Sağ Bek ",
+    "team": " Real Betis",
+    "nations": ["Senegal", "Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Martín Montoya ",
+    "position": "Sağ Bek ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Guido Rodríguez",
+    "position": "Önlibero ",
+    "team": " Real Betis",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "28.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "William Carvalho",
+    "position": "Önlibero ",
+    "team": " Real Betis",
+    "nations": ["Portekiz", "Angola"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Paul Akouokou ",
+    "position": "Önlibero ",
+    "team": " Real Betis",
+    "nations": ["Fildişi Sahili"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Andrés Guardado",
+    "position": "Merkez orta saha ",
+    "team": " Real Betis",
+    "nations": ["Meksika", "İspanya"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Nabil Fekir ",
+    "position": "On Numara ",
+    "team": " Real Betis",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Sergio Canales",
+    "position": "On Numara ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2026",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Juanmi",
+    "position": "Sol Kanat ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Rodri Sánchez",
+    "position": "Sol Kanat ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Luiz Henrique",
+    "position": "Sağ Kanat ",
+    "team": " Real Betis",
+    "nations": ["Brezilya"],
+    "age": "22",
+    "contract": "30 Haz 2028",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Juan Cruz",
+    "position": "Sağ Kanat ",
+    "team": " Real Betis",
+    "nations": ["İspanya", "Arjantin"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Joaquín",
+    "position": "Sağ Kanat ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "41",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Ayoze Pérez",
+    "position": "Forvet Arkası ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Borja Iglesias",
+    "position": "Santrafor ",
+    "team": " Real Betis",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Willian José",
+    "position": "Santrafor ",
+    "team": " Real Betis",
+    "nations": ["Brezilya", "İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2026",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Giorgi Mamardashvili",
+    "position": "Kaleci ",
+    "team": " Valencia",
+    "nations": ["Gürcistan"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Jaume Doménech ",
+    "position": "Kaleci ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Iago Herrerín",
+    "position": "Kaleci ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "13",
+    "name": "Cristian Rivero",
+    "position": "Kaleci ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "12",
+    "name": "Mouctar Diakhaby",
+    "position": "Stoper ",
+    "team": " Valencia",
+    "nations": ["Gine", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Gabriel Paulista",
+    "position": "Stoper ",
+    "team": " Valencia",
+    "nations": ["Brezilya", "İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Eray Cömert",
+    "position": "Stoper ",
+    "team": " Valencia",
+    "nations": ["İsviçre", "Türkiye"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Cenk Özkacar",
+    "position": "Stoper ",
+    "team": " Valencia",
+    "nations": ["Türkiye"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Cristhian Mosquera",
+    "position": "Stoper ",
+    "team": " Valencia",
+    "nations": ["İspanya", "Kolombiya"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "José Gayà",
+    "position": "Sol Bek ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2027",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Jesús Vázquez",
+    "position": "Sol Bek ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Toni Lato",
+    "position": "Sol Bek ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Thierry Correia",
+    "position": "Sağ Bek ",
+    "team": " Valencia",
+    "nations": ["Portekiz", "Yeşil Burun Adaları"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Dimitri Foulquier",
+    "position": "Sağ Bek ",
+    "team": " Valencia",
+    "nations": ["Guadeloupe", "Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Hugo Guillamón",
+    "position": "Önlibero ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Yunus Musah",
+    "position": "Merkez orta saha ",
+    "team": " Valencia",
+    "nations": ["Amerika Birleşik Devletleri", "İngiltere"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Nico González",
+    "position": "Merkez orta saha ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "André Almeida",
+    "position": "Merkez orta saha ",
+    "team": " Valencia",
+    "nations": ["Portekiz"],
+    "age": "22",
+    "contract": "30 Haz 2028",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Ilaix Moriba",
+    "position": "Merkez orta saha ",
+    "team": " Valencia",
+    "nations": ["Gine", "İspanya"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Samuel Lino",
+    "position": "Sol Kanat ",
+    "team": " Valencia",
+    "nations": ["Brezilya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Justin Kluivert",
+    "position": "Sol Kanat ",
+    "team": " Valencia",
+    "nations": ["Hollanda", "Surinam"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Samu Castillejo",
+    "position": "Sağ Kanat ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Hugo Duro",
+    "position": "Santrafor ",
+    "team": " Valencia",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Edinson Cavani ",
+    "position": "Santrafor ",
+    "team": " Valencia",
+    "nations": ["Uruguay", "İtalya"],
+    "age": "36",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Marcos André",
+    "position": "Santrafor ",
+    "team": " Valencia",
+    "nations": ["Brezilya", "İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Bono",
+    "position": "Kaleci ",
+    "team": " Sevilla",
+    "nations": ["Fas", "Kanada"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Marko Dmitrović",
+    "position": "Kaleci ",
+    "team": " Sevilla",
+    "nations": ["Sırbistan"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Marcão ",
+    "position": "Stoper ",
+    "team": " Sevilla",
+    "nations": ["Brezilya"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Loïc Badé ",
+    "position": "Stoper ",
+    "team": " Sevilla",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Tanguy Nianzou",
+    "position": "Stoper ",
+    "team": " Sevilla",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Karim Rekik ",
+    "position": "Stoper ",
+    "team": " Sevilla",
+    "nations": ["Hollanda", "Tunus"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Alex Telles",
+    "position": "Sol Bek ",
+    "team": " Sevilla",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Marcos Acuña",
+    "position": "Sol Bek ",
+    "team": " Sevilla",
+    "nations": ["Arjantin"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Gonzalo Montiel",
+    "position": "Sağ Bek ",
+    "team": " Sevilla",
+    "nations": ["Arjantin"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Jesús Navas",
+    "position": "Sağ Bek ",
+    "team": " Sevilla",
+    "nations": ["İspanya"],
+    "age": "37",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Pape Gueye ",
+    "position": "Önlibero ",
+    "team": " Sevilla",
+    "nations": ["Senegal", "Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Nemanja Gudelj",
+    "position": "Önlibero ",
+    "team": " Sevilla",
+    "nations": ["Sırbistan", "Hollanda"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Fernando",
+    "position": "Önlibero ",
+    "team": " Sevilla",
+    "nations": ["Brezilya", "Portekiz"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Joan Jordán",
+    "position": "Merkez orta saha ",
+    "team": " Sevilla",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Óliver Torres",
+    "position": "Merkez orta saha ",
+    "team": " Sevilla",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Ivan Rakitic",
+    "position": "Merkez orta saha ",
+    "team": " Sevilla",
+    "nations": ["Hırvatistan", "İsviçre"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Lucas Ocampos",
+    "position": "Sol Kanat ",
+    "team": " Sevilla",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Bryan Gil",
+    "position": "Sol Kanat ",
+    "team": " Sevilla",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Papu Gómez ",
+    "position": "Sol Kanat ",
+    "team": " Sevilla",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Tecatito",
+    "position": "Sağ Kanat ",
+    "team": " Sevilla",
+    "nations": ["Meksika", "Portekiz"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Erik Lamela",
+    "position": "Sağ Kanat ",
+    "team": " Sevilla",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Suso",
+    "position": "Sağ Kanat ",
+    "team": " Sevilla",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Youssef En-Nesyri",
+    "position": "Santrafor ",
+    "team": " Sevilla",
+    "nations": ["Fas"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Rafa Mir",
+    "position": "Santrafor ",
+    "team": " Sevilla",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Unai Simón ",
+    "position": "Kaleci ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Julen Agirrezabala",
+    "position": "Kaleci ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Ander Iru",
+    "position": "Kaleci ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Iñigo Martínez",
+    "position": "Stoper ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Yeray Álvarez",
+    "position": "Stoper ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Dani Vivian",
+    "position": "Stoper ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Aitor Paredes",
+    "position": "Stoper ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "17",
+    "name": "Yuri Berchiche",
+    "position": "Sol Bek ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya", "Cezayir"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Mikel Balenziaga",
+    "position": "Sol Bek ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Iñigo Lekue",
+    "position": "Sağ Bek ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Ander Capa",
+    "position": "Sağ Bek ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Óscar de Marcos",
+    "position": "Sağ Bek ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Mikel Vesga",
+    "position": "Önlibero ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Unai Vencedor",
+    "position": "Merkez orta saha ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Ander Herrera ",
+    "position": "Merkez orta saha ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Oier Zarraga",
+    "position": "Merkez orta saha ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Dani García",
+    "position": "Merkez orta saha ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Oihan Sancet",
+    "position": "On Numara ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Iker Muniain",
+    "position": "On Numara ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Álex Berenguer",
+    "position": "Sol Kanat ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Jon Morcillo ",
+    "position": "Sol Kanat ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Nico Williams",
+    "position": "Sağ Kanat ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya", "Gana"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Iñaki Williams",
+    "position": "Santrafor ",
+    "team": " Athletic Bilbao",
+    "nations": ["Gana", "İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2028",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Raúl García",
+    "position": "Santrafor ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Gorka Guruzeta",
+    "position": "Santrafor ",
+    "team": " Athletic Bilbao",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "David Soria",
+    "position": "Kaleci ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Kiko Casilla",
+    "position": "Kaleci ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "27",
+    "name": "Diego Conde",
+    "position": "Kaleci ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "Domingos Duarte",
+    "position": "Stoper ",
+    "team": " Getafe",
+    "nations": ["Portekiz"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Djené",
+    "position": "Stoper ",
+    "team": " Getafe",
+    "nations": ["Togo"],
+    "age": "31",
+    "contract": "-",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Gastón Álvarez",
+    "position": "Stoper ",
+    "team": " Getafe",
+    "nations": ["Uruguay"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Omar Alderete",
+    "position": "Stoper ",
+    "team": " Getafe",
+    "nations": ["Paraguay"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Stefan Mitrović",
+    "position": "Stoper ",
+    "team": " Getafe",
+    "nations": ["Sırbistan"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Fabrizio Angileri",
+    "position": "Sol Bek ",
+    "team": " Getafe",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Jordan Amavi",
+    "position": "Sol Bek ",
+    "team": " Getafe",
+    "nations": ["Fransa", "Senegal"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Juan Iglesias",
+    "position": "Sağ Bek ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Damián Suárez",
+    "position": "Sağ Bek ",
+    "team": " Getafe",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Ángel Algobia",
+    "position": "Önlibero ",
+    "team": " Getafe",
+    "nations": ["İspanya", "Portekiz"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Mauro Arambarri",
+    "position": "Merkez orta saha ",
+    "team": " Getafe",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2028",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Carles Aleñá",
+    "position": "Merkez orta saha ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Nemanja Maksimović",
+    "position": "Merkez orta saha ",
+    "team": " Getafe",
+    "nations": ["Sırbistan"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Luis Milla",
+    "position": "Merkez orta saha ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Gonzalo Villar",
+    "position": "Merkez orta saha ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Jaime Seoane",
+    "position": "Merkez orta saha ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Portu",
+    "position": "Sağ Kanat ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Enes Ünal",
+    "position": "Santrafor ",
+    "team": " Getafe",
+    "nations": ["Türkiye"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Borja Mayoral",
+    "position": "Santrafor ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Munir El Haddadi",
+    "position": "Santrafor ",
+    "team": " Getafe",
+    "nations": ["Fas", "İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Jaime Mata",
+    "position": "Santrafor ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Juanmi Latasa",
+    "position": "Santrafor ",
+    "team": " Getafe",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Agustín Marchesín ",
+    "position": "Kaleci ",
+    "team": " Celta Vigo",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "34",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Iván Villar",
+    "position": "Kaleci ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Diego Alves",
+    "position": "Kaleci ",
+    "team": " Celta Vigo",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "15",
+    "name": "Joseph Aidoo",
+    "position": "Stoper ",
+    "team": " Celta Vigo",
+    "nations": ["Gana"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Unai Núñez",
+    "position": "Stoper ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Óscar Mingueza ",
+    "position": "Stoper ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Carlos Domínguez",
+    "position": "Stoper ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Javi Galán",
+    "position": "Sol Bek ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Hugo Mallo",
+    "position": "Sağ Bek ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Kevin Vázquez",
+    "position": "Sağ Bek ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Renato Tapia ",
+    "position": "Önlibero ",
+    "team": " Celta Vigo",
+    "nations": ["Peru", "Hollanda"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Fran Beltrán",
+    "position": "Merkez orta saha ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Luca de la Torre",
+    "position": "Merkez orta saha ",
+    "team": " Celta Vigo",
+    "nations": ["Amerika Birleşik Devletleri", "İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Óscar Rodríguez",
+    "position": "On Numara ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Gabri Veiga",
+    "position": "On Numara ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Williot Swedberg",
+    "position": "On Numara ",
+    "team": " Celta Vigo",
+    "nations": ["İsveç"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Franco Cervi",
+    "position": "Sol Kanat ",
+    "team": " Celta Vigo",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Carles Pérez",
+    "position": "Sağ Kanat ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Augusto Solari",
+    "position": "Sağ Kanat ",
+    "team": " Celta Vigo",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Jörgen Strand Larsen",
+    "position": "Santrafor ",
+    "team": " Celta Vigo",
+    "nations": ["Norveç"],
+    "age": "23",
+    "contract": "30 Haz 2028",
+    "pd": "11.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Iago Aspas",
+    "position": "Santrafor ",
+    "team": " Celta Vigo",
+    "nations": ["İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2025",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Haris Seferovic",
+    "position": "Santrafor ",
+    "team": " Celta Vigo",
+    "nations": ["İsviçre", "Bosna-Hersek"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Gonçalo Paciência",
+    "position": "Santrafor ",
+    "team": " Celta Vigo",
+    "nations": ["Portekiz"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Sergio Herrera",
+    "position": "Kaleci ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "-",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Aitor Fernández",
+    "position": "Kaleci ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "David García",
+    "position": "Stoper ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Unai García",
+    "position": "Stoper ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Aridane Hernández",
+    "position": "Stoper ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Manu Sánchez",
+    "position": "Sol Bek ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Juan Cruz",
+    "position": "Sol Bek ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Nacho Vidal",
+    "position": "Sağ Bek ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Rubén Peña ",
+    "position": "Sağ Bek ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Lucas Torró",
+    "position": "Önlibero ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Jon Moncayola",
+    "position": "Merkez orta saha ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2031",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Darko Brasanac",
+    "position": "Merkez orta saha ",
+    "team": " Osasuna",
+    "nations": ["Sırbistan"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Pablo Ibáñez",
+    "position": "Merkez orta saha ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Aimar Oroz",
+    "position": "On Numara ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Abde Ezzalzouli",
+    "position": "Sol Kanat ",
+    "team": " Osasuna",
+    "nations": ["Fas", "İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Moi Gómez",
+    "position": "Sol Kanat ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Rubén García",
+    "position": "Sol Kanat ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Kike Barja",
+    "position": "Sağ Kanat ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Chimy Ávila",
+    "position": "Santrafor ",
+    "team": " Osasuna",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Ante Budimir",
+    "position": "Santrafor ",
+    "team": " Osasuna",
+    "nations": ["Hırvatistan"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Kike García",
+    "position": "Santrafor ",
+    "team": " Osasuna",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Paulo Gazzaniga",
+    "position": "Kaleci ",
+    "team": " Girona FC",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Juan Carlos",
+    "position": "Kaleci ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "26",
+    "name": "Toni Fuidias",
+    "position": "Kaleci ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Santiago Bueno",
+    "position": "Stoper ",
+    "team": " Girona FC",
+    "nations": ["Uruguay", "İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "David López",
+    "position": "Stoper ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Alexander Callens",
+    "position": "Stoper ",
+    "team": " Girona FC",
+    "nations": ["Peru", "İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Bernardo Espinosa",
+    "position": "Stoper ",
+    "team": " Girona FC",
+    "nations": ["Kolombiya", "İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Juanpe",
+    "position": "Stoper ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Miguel Gutiérrez",
+    "position": "Sol Bek ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Javi Hernández",
+    "position": "Sol Bek ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Arnau Martínez",
+    "position": "Sağ Bek ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Yan Couto",
+    "position": "Sağ Bek ",
+    "team": " Girona FC",
+    "nations": ["Brezilya", "Portekiz"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Oriol Romeu",
+    "position": "Önlibero ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Ibrahima Kébé ",
+    "position": "Önlibero ",
+    "team": " Girona FC",
+    "nations": ["Mali"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "21",
+    "name": "Yangel Herrera",
+    "position": "Merkez orta saha ",
+    "team": " Girona FC",
+    "nations": ["Venezuela"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Aleix García",
+    "position": "Merkez orta saha ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Reinier",
+    "position": "On Numara ",
+    "team": " Girona FC",
+    "nations": ["Brezilya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Iván Martín",
+    "position": "On Numara ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Borja García",
+    "position": "On Numara ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Rodrigo Riquelme",
+    "position": "Sol Kanat ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Toni Villa",
+    "position": "Sol Kanat ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Viktor Tsygankov",
+    "position": "Sağ Kanat ",
+    "team": " Girona FC",
+    "nations": ["Ukrayna"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Valery Fernández",
+    "position": "Sağ Kanat ",
+    "team": " Girona FC",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Taty Castellanos",
+    "position": "Santrafor ",
+    "team": " Girona FC",
+    "nations": ["Arjantin"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Cristhian Stuani",
+    "position": "Santrafor ",
+    "team": " Girona FC",
+    "nations": ["Uruguay", "İtalya"],
+    "age": "36",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Fernando Pacheco",
+    "position": "Kaleci ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Álvaro Fernández",
+    "position": "Kaleci ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Joan García",
+    "position": "Kaleci ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "23",
+    "name": "César Montes",
+    "position": "Stoper ",
+    "team": " Espanyol",
+    "nations": ["Meksika"],
+    "age": "26",
+    "contract": "30 Haz 2028",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Leandro Cabrera",
+    "position": "Stoper ",
+    "team": " Espanyol",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Fernando Calero",
+    "position": "Stoper ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Sergi Gómez",
+    "position": "Stoper ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Simo Keddari",
+    "position": "Stoper ",
+    "team": " Espanyol",
+    "nations": ["İspanya", "Cezayir"],
+    "age": "18",
+    "contract": "30 Haz 2026",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Adrià Pedrosa ",
+    "position": "Sol Bek ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Brian Oliván",
+    "position": "Sol Bek ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Ronaël Pierre-Gabriel",
+    "position": "Sağ Bek ",
+    "team": " Espanyol",
+    "nations": ["Fransa", "Martinique"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Óscar Gil",
+    "position": "Sağ Bek ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Aleix Vidal",
+    "position": "Sağ Bek ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Omar El Hilali",
+    "position": "Sağ Bek ",
+    "team": " Espanyol",
+    "nations": ["Fas", "İspanya"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "27",
+    "name": "Rubén Sánchez",
+    "position": "Sağ Bek ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "12",
+    "name": "Vinicius Souza",
+    "position": "Önlibero ",
+    "team": " Espanyol",
+    "nations": ["Brezilya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Sergi Darder",
+    "position": "Merkez orta saha ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Edu Expósito",
+    "position": "Merkez orta saha ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Keidi Bare ",
+    "position": "Merkez orta saha ",
+    "team": " Espanyol",
+    "nations": ["Arnavutluk"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "José Gragera",
+    "position": "Merkez orta saha ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2028",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Denis Suárez",
+    "position": "On Numara ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Javi Puado",
+    "position": "Sol Kanat ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Nico Melamed",
+    "position": "Sol Kanat ",
+    "team": " Espanyol",
+    "nations": ["İspanya", "Arjantin"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "José Carlos Lazo",
+    "position": "Sol Kanat ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2027",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Joselu",
+    "position": "Santrafor ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Martin Braithwaite",
+    "position": "Santrafor ",
+    "team": " Espanyol",
+    "nations": ["Danimarka"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Dani Gómez",
+    "position": "Santrafor ",
+    "team": " Espanyol",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Fernando Martínez",
+    "position": "Kaleci ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Diego Mariño",
+    "position": "Kaleci ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Diego Fuoli",
+    "position": "Kaleci ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "2",
+    "name": "Kaiky",
+    "position": "Stoper ",
+    "team": " UD Almería",
+    "nations": ["Brezilya"],
+    "age": "19",
+    "contract": "30 Haz 2028",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Rodrigo Ely",
+    "position": "Stoper ",
+    "team": " UD Almería",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Srdjan Babic",
+    "position": "Stoper ",
+    "team": " UD Almería",
+    "nations": ["Sırbistan", "Bosna-Hersek"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Chumi",
+    "position": "Stoper ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Sergio Akieme",
+    "position": "Sol Bek ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Álex Centelles",
+    "position": "Sol Bek ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Alejandro Pozo",
+    "position": "Sağ Bek ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Houboulang Mendes",
+    "position": "Sağ Bek ",
+    "team": " UD Almería",
+    "nations": ["Gine-Bissau", "Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Samú Costa",
+    "position": "Önlibero ",
+    "team": " UD Almería",
+    "nations": ["Portekiz"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Iñigo Eguaras",
+    "position": "Önlibero ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Martin Svidersky",
+    "position": "Önlibero ",
+    "team": " UD Almería",
+    "nations": ["Slovakya"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Lucas Robertone",
+    "position": "Merkez orta saha ",
+    "team": " UD Almería",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2028",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Gonzalo Melero",
+    "position": "Merkez orta saha ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Arnau Puigmal",
+    "position": "Merkez orta saha ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "César de la Hoz",
+    "position": "Merkez orta saha ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Largie Ramazani",
+    "position": "Sol Kanat ",
+    "team": " UD Almería",
+    "nations": ["Belçika", "Burundi"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Lázaro",
+    "position": "Sol Kanat ",
+    "team": " UD Almería",
+    "nations": ["Brezilya"],
+    "age": "20",
+    "contract": "30 Haz 2028",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Adrián Embarba",
+    "position": "Sağ Kanat ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Francisco Portillo",
+    "position": "Sağ Kanat ",
+    "team": " UD Almería",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Léo Baptistão",
+    "position": "Forvet Arkası ",
+    "team": " UD Almería",
+    "nations": ["Brezilya", "İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "El Bilal Touré",
+    "position": "Santrafor ",
+    "team": " UD Almería",
+    "nations": ["Mali", "Fildişi Sahili"],
+    "age": "21",
+    "contract": "30 Haz 2028",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Luis Suárez",
+    "position": "Santrafor ",
+    "team": " UD Almería",
+    "nations": ["Kolombiya", "İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Marko Milovanovic",
+    "position": "Santrafor ",
+    "team": " UD Almería",
+    "nations": ["Sırbistan"],
+    "age": "19",
+    "contract": "30 Haz 2028",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Dyego Sousa",
+    "position": "Santrafor ",
+    "team": " UD Almería",
+    "nations": ["Portekiz", "Brezilya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Stole Dimitrievski",
+    "position": "Kaleci ",
+    "team": " Rayo Vallecano",
+    "nations": ["Kuzey Makedonya", "İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Miguel Ángel Morro",
+    "position": "Kaleci ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "13",
+    "name": "Diego López",
+    "position": "Kaleci ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "41",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Alejandro Catena",
+    "position": "Stoper ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Florian Lejeune",
+    "position": "Stoper ",
+    "team": " Rayo Vallecano",
+    "nations": ["Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Abdul Mumin",
+    "position": "Stoper ",
+    "team": " Rayo Vallecano",
+    "nations": ["Gana", "Nijerya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Esteban Saveljich",
+    "position": "Stoper ",
+    "team": " Rayo Vallecano",
+    "nations": ["Karadağ", "Arjantin"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Mario Suárez",
+    "position": "Stoper ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Fran García",
+    "position": "Sol Bek ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Pep Chavarría",
+    "position": "Sol Bek ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Iván Balliu",
+    "position": "Sağ Bek ",
+    "team": " Rayo Vallecano",
+    "nations": ["Arnavutluk", "İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Mario Hernández",
+    "position": "Sağ Bek ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "21",
+    "name": "Pathé Ciss",
+    "position": "Merkez orta saha ",
+    "team": " Rayo Vallecano",
+    "nations": ["Senegal"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Óscar Valentín",
+    "position": "Merkez orta saha ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Santi Comesaña",
+    "position": "Merkez orta saha ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Unai López",
+    "position": "Merkez orta saha ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Óscar Trejo",
+    "position": "On Numara ",
+    "team": " Rayo Vallecano",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "José Pozo",
+    "position": "On Numara ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Álvaro García",
+    "position": "Sol Kanat ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Isi Palazón",
+    "position": "Sağ Kanat ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Salvi Sánchez",
+    "position": "Sağ Kanat ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Raúl de Tomás",
+    "position": "Santrafor ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya", "Dominik Cumhuriyeti"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Sergio Camello",
+    "position": "Santrafor ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Radamel Falcao",
+    "position": "Santrafor ",
+    "team": " Rayo Vallecano",
+    "nations": ["Kolombiya", "Venezuela"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Andrés Martín",
+    "position": "Santrafor ",
+    "team": " Rayo Vallecano",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Predrag Rajković ",
+    "position": "Kaleci ",
+    "team": " Mallorca",
+    "nations": ["Sırbistan"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Dominik Greif",
+    "position": "Kaleci ",
+    "team": " Mallorca",
+    "nations": ["Slovakya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Leo Román",
+    "position": "Kaleci ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Martin Valjent",
+    "position": "Stoper ",
+    "team": " Mallorca",
+    "nations": ["Slovakya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Dennis Hadzikadunic",
+    "position": "Stoper ",
+    "team": " Mallorca",
+    "nations": ["Bosna-Hersek", "İsveç"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Antonio Raíllo",
+    "position": "Stoper ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "José Copete",
+    "position": "Stoper ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Matija Nastasić",
+    "position": "Stoper ",
+    "team": " Mallorca",
+    "nations": ["Sırbistan"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Ludwig Augustinsson",
+    "position": "Sol Bek ",
+    "team": " Mallorca",
+    "nations": ["İsveç"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Jaume Costa",
+    "position": "Sol Bek ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Pablo Maffeo",
+    "position": "Sağ Bek ",
+    "team": " Mallorca",
+    "nations": ["İspanya", "Arjantin"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Giovanni González",
+    "position": "Sağ Bek ",
+    "team": " Mallorca",
+    "nations": ["Uruguay", "İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Rodrigo Battaglia",
+    "position": "Önlibero ",
+    "team": " Mallorca",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Manu Morlanes",
+    "position": "Merkez orta saha ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Iddrisu Baba",
+    "position": "Merkez orta saha ",
+    "team": " Mallorca",
+    "nations": ["Gana", "İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Iñigo Ruiz de Galarreta",
+    "position": "Merkez orta saha ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Antonio Sánchez",
+    "position": "Merkez orta saha ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Clément Grenier",
+    "position": "Merkez orta saha ",
+    "team": " Mallorca",
+    "nations": ["Fransa"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "19",
+    "name": "Kang-in Lee",
+    "position": "On Numara ",
+    "team": " Mallorca",
+    "nations": ["Güney Kore"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Dani Rodríguez",
+    "position": "On Numara ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Amath Ndiaye",
+    "position": "Sol Kanat ",
+    "team": " Mallorca",
+    "nations": ["Senegal", "İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Vedat Muriqi",
+    "position": "Santrafor ",
+    "team": " Mallorca",
+    "nations": ["Kosova", "Arnavutluk"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Tino Kadewere",
+    "position": "Santrafor ",
+    "team": " Mallorca",
+    "nations": ["Zimbabve"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Abdón Prats",
+    "position": "Santrafor ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Ángel Rodríguez",
+    "position": "Santrafor ",
+    "team": " Mallorca",
+    "nations": ["İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Édgar Badía",
+    "position": "Kaleci ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Axel Werner",
+    "position": "Kaleci ",
+    "team": " Elche CF",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "7",
+    "name": "Lisandro Magallán",
+    "position": "Stoper ",
+    "team": " Elche CF",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Enzo Roco",
+    "position": "Stoper ",
+    "team": " Elche CF",
+    "nations": ["Şili"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Diego González",
+    "position": "Stoper ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Pedro Bigas",
+    "position": "Stoper ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Gonzalo Verdú",
+    "position": "Stoper ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "26",
+    "name": "John Donald ",
+    "position": "Stoper ",
+    "team": " Elche CF",
+    "nations": ["İspanya", "Nijerya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "2",
+    "name": "Lautaro Blanco",
+    "position": "Sol Bek ",
+    "team": " Elche CF",
+    "nations": ["Arjantin"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Nicolás Fernández Mercau",
+    "position": "Sol Bek ",
+    "team": " Elche CF",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Carlos Clerc",
+    "position": "Sol Bek ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "José Ángel Carmona",
+    "position": "Sağ Bek ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Pol Lirola",
+    "position": "Sağ Bek ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Helibelton Palacios",
+    "position": "Sağ Bek ",
+    "team": " Elche CF",
+    "nations": ["Kolombiya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Omar Mascarell",
+    "position": "Önlibero ",
+    "team": " Elche CF",
+    "nations": ["İspanya", "Ekvator Ginesi"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Gerard Gumbau",
+    "position": "Önlibero ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Raúl Guti",
+    "position": "Merkez orta saha ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Pape Cheikh",
+    "position": "Merkez orta saha ",
+    "team": " Elche CF",
+    "nations": ["Senegal", "İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Randy Nteka",
+    "position": "On Numara ",
+    "team": " Elche CF",
+    "nations": ["Fransa", "Angola"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Pere Milla ",
+    "position": "Sol Kanat ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Tete Morente",
+    "position": "Sol Kanat ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Fidel",
+    "position": "Sol Kanat ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Álex Collado ",
+    "position": "Sağ Kanat ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Josan",
+    "position": "Sağ Kanat ",
+    "team": " Elche CF",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Lucas Boyé",
+    "position": "Santrafor ",
+    "team": " Elche CF",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Ezequiel Ponce",
+    "position": "Santrafor ",
+    "team": " Elche CF",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Sergio Asenjo",
+    "position": "Kaleci ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Jordi Masip ",
+    "position": "Kaleci ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Javi Sánchez",
+    "position": "Stoper ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Joaquín Fernández",
+    "position": "Stoper ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Jawad El Yamiq",
+    "position": "Stoper ",
+    "team": " Real Valladolid CF",
+    "nations": ["Fas"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Lucas Olaza",
+    "position": "Sol Bek ",
+    "team": " Real Valladolid CF",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Sergio Escudero",
+    "position": "Sol Bek ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Luis Pérez",
+    "position": "Sağ Bek ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Iván Fresneda",
+    "position": "Sağ Bek ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Lucas Rosa",
+    "position": "Sağ Bek ",
+    "team": " Real Valladolid CF",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Martin Hongla",
+    "position": "Önlibero ",
+    "team": " Real Valladolid CF",
+    "nations": ["Kamerun"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Monchu",
+    "position": "Merkez orta saha ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Kike Pérez",
+    "position": "Merkez orta saha ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Álvaro Aguado",
+    "position": "Merkez orta saha ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Roque Mesa",
+    "position": "Merkez orta saha ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Anuar ",
+    "position": "Merkez orta saha ",
+    "team": " Real Valladolid CF",
+    "nations": ["Fas", "İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Selim Amallah",
+    "position": "On Numara ",
+    "team": " Real Valladolid CF",
+    "nations": ["Fas", "Belçika"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Darwin Machís",
+    "position": "Sol Kanat ",
+    "team": " Real Valladolid CF",
+    "nations": ["Venezuela", "İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Kenedy ",
+    "position": "Sol Kanat ",
+    "team": " Real Valladolid CF",
+    "nations": ["Brezilya"],
+    "age": "27",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Gonzalo Plata",
+    "position": "Sağ Kanat ",
+    "team": " Real Valladolid CF",
+    "nations": ["Ekvador"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Óscar Plano",
+    "position": "Sağ Kanat ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Iván Sánchez",
+    "position": "Sağ Kanat ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Cyle Larin",
+    "position": "Santrafor ",
+    "team": " Real Valladolid CF",
+    "nations": ["Kanada", "Jamaika"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Sergio León",
+    "position": "Santrafor ",
+    "team": " Real Valladolid CF",
+    "nations": ["İspanya"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Conan Ledesma",
+    "position": "Kaleci ",
+    "team": " Cádiz CF",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "David Gil",
+    "position": "Kaleci ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "32",
+    "name": "Víctor Chust",
+    "position": "Stoper ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Fali",
+    "position": "Stoper ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Jorge Meré",
+    "position": "Stoper ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Luis Hernández",
+    "position": "Stoper ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Juan Cala ",
+    "position": "Stoper ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Momo Mbaye",
+    "position": "Stoper ",
+    "team": " Cádiz CF",
+    "nations": ["Senegal"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Alfonso Espino",
+    "position": "Sol Bek ",
+    "team": " Cádiz CF",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Santiago Arzamendia",
+    "position": "Sol Bek ",
+    "team": " Cádiz CF",
+    "nations": ["Paraguay", "Arjantin"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Joseba Zaldua ",
+    "position": "Sağ Bek ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Iza Carcelén",
+    "position": "Sağ Bek ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Raúl Parra",
+    "position": "Sağ Bek ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "José Mari",
+    "position": "Önlibero ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "-",
+    "name": "Jon Ander Garrido ",
+    "position": "Önlibero ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Rubén Alcaraz",
+    "position": "Merkez orta saha ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Gonzalo Escalante",
+    "position": "Merkez orta saha ",
+    "team": " Cádiz CF",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Fede San Emeterio",
+    "position": "Merkez orta saha ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Youba Diarra",
+    "position": "Merkez orta saha ",
+    "team": " Cádiz CF",
+    "nations": ["Mali"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Álex Fernández",
+    "position": "On Numara ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Brian Ocampo",
+    "position": "Sol Kanat ",
+    "team": " Cádiz CF",
+    "nations": ["Uruguay"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Théo Bongonda",
+    "position": "Sağ Kanat ",
+    "team": " Cádiz CF",
+    "nations": ["Kongo DC", "Belçika"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Iván Alejo",
+    "position": "Sağ Kanat ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Choco Lozano",
+    "position": "Santrafor ",
+    "team": " Cádiz CF",
+    "nations": ["Honduras", "İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "2.80 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Roger Martí",
+    "position": "Santrafor ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Sergi Guardiola",
+    "position": "Santrafor ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Rubén Sobrino",
+    "position": "Santrafor ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Álvaro Negredo",
+    "position": "Santrafor ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Chris Ramos",
+    "position": "Santrafor ",
+    "team": " Cádiz CF",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2028",
+    "pd": "1.00 mil. €"
+  }
+]

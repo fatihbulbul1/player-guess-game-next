@@ -1,0 +1,5192 @@
+[
+  {
+    "number": "1",
+    "name": "Manuel Neuer ",
+    "position": "Kaleci ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya"],
+    "age": "36",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Yann Sommer",
+    "position": "Kaleci ",
+    "team": " Bayern Münih ",
+    "nations": ["İsviçre"],
+    "age": "34",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Sven Ulreich",
+    "position": "Kaleci ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "35",
+    "name": "Johannes Schenk",
+    "position": "Kaleci ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Matthijs de Ligt",
+    "position": "Stoper ",
+    "team": " Bayern Münih ",
+    "nations": ["Hollanda"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "70.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Dayot Upamecano",
+    "position": "Stoper ",
+    "team": " Bayern Münih ",
+    "nations": ["Fransa", "Gine-Bissau"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Lucas Hernández ",
+    "position": "Stoper ",
+    "team": " Bayern Münih ",
+    "nations": ["Fransa", "İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Alphonso Davies",
+    "position": "Sol Bek ",
+    "team": " Bayern Münih ",
+    "nations": ["Kanada", "Liberya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "70.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Daley Blind",
+    "position": "Sol Bek ",
+    "team": " Bayern Münih ",
+    "nations": ["Hollanda"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "João Cancelo",
+    "position": "Sağ Bek ",
+    "team": " Bayern Münih ",
+    "nations": ["Portekiz"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "70.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Benjamin Pavard ",
+    "position": "Sağ Bek ",
+    "team": " Bayern Münih ",
+    "nations": ["Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Noussair Mazraoui ",
+    "position": "Sağ Bek ",
+    "team": " Bayern Münih ",
+    "nations": ["Fas", "Hollanda"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "28.00 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Josip Stanisic",
+    "position": "Sağ Bek ",
+    "team": " Bayern Münih ",
+    "nations": ["Hırvatistan", "Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Bouna Sarr",
+    "position": "Sağ Bek ",
+    "team": " Bayern Münih ",
+    "nations": ["Senegal", "Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Joshua Kimmich",
+    "position": "Önlibero ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "80.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Leon Goretzka",
+    "position": "Merkez orta saha ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "65.00 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Ryan Gravenberch",
+    "position": "Merkez orta saha ",
+    "team": " Bayern Münih ",
+    "nations": ["Hollanda", "Surinam"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Jamal Musiala",
+    "position": "On Numara ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya", "İngiltere"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "100.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Paul Wanner",
+    "position": "On Numara ",
+    "team": " Bayern Münih ",
+    "nations": ["Avusturya", "Almanya"],
+    "age": "17",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "46",
+    "name": "Arijon Ibrahimovic ",
+    "position": "On Numara ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya", "Kosova"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Sadio Mané",
+    "position": "Sol Kanat ",
+    "team": " Bayern Münih ",
+    "nations": ["Senegal"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Leroy Sané",
+    "position": "Sağ Kanat ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "70.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Serge Gnabry",
+    "position": "Sağ Kanat ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya", "Fildişi Sahili"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "65.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Kingsley Coman",
+    "position": "Sağ Kanat ",
+    "team": " Bayern Münih ",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Thomas Müller",
+    "position": "Forvet Arkası ",
+    "team": " Bayern Münih ",
+    "nations": ["Almanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Mathys Tel",
+    "position": "Santrafor ",
+    "team": " Bayern Münih ",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Eric Maxim Choupo-Moting",
+    "position": "Santrafor ",
+    "team": " Bayern Münih ",
+    "nations": ["Kamerun", "Almanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Gregor Kobel",
+    "position": "Kaleci ",
+    "team": " Borussia Dortmund",
+    "nations": ["İsviçre"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Marcel Lotka",
+    "position": "Kaleci ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya", "Polonya"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "1.30 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Alexander Meyer",
+    "position": "Kaleci ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Luca Unbehaun",
+    "position": "Kaleci ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Niklas Süle",
+    "position": "Stoper ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Nico Schlotterbeck",
+    "position": "Stoper ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "33.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Mats Hummels",
+    "position": "Stoper ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Soumaïla Coulibaly",
+    "position": "Stoper ",
+    "team": " Borussia Dortmund",
+    "nations": ["Fransa", "Mali"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Raphaël Guerreiro",
+    "position": "Sol Bek ",
+    "team": " Borussia Dortmund",
+    "nations": ["Portekiz", "Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Tom Rothe",
+    "position": "Sol Bek ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "18",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Nico Schulz",
+    "position": "Sol Bek ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Julian Ryerson ",
+    "position": "Sağ Bek ",
+    "team": " Borussia Dortmund",
+    "nations": ["Norveç"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Marius Wolf",
+    "position": "Sağ Bek ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Thomas Meunier",
+    "position": "Sağ Bek ",
+    "team": " Borussia Dortmund",
+    "nations": ["Belçika"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Mateu Morey Bauzà",
+    "position": "Sağ Bek ",
+    "team": " Borussia Dortmund",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Felix Passlack",
+    "position": "Sağ Bek ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Salih Özcan",
+    "position": "Önlibero ",
+    "team": " Borussia Dortmund",
+    "nations": ["Türkiye", "Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "17.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Emre Can",
+    "position": "Önlibero ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Abdoulaye Kamara ",
+    "position": "Önlibero ",
+    "team": " Borussia Dortmund",
+    "nations": ["Fransa", "Gine"],
+    "age": "18",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "47",
+    "name": "Antonios Papadopoulos",
+    "position": "Önlibero ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya", "Yunanistan"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Jude Bellingham",
+    "position": "Merkez orta saha ",
+    "team": " Borussia Dortmund",
+    "nations": ["İngiltere"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "110.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Mahmoud Dahoud",
+    "position": "Merkez orta saha ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya", "Suriye"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Giovanni Reyna",
+    "position": "On Numara ",
+    "team": " Borussia Dortmund",
+    "nations": ["Amerika Birleşik Devletleri", "Portekiz"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Julian Brandt",
+    "position": "On Numara ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "28.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Marco Reus",
+    "position": "On Numara ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Göktan Gürpüz",
+    "position": "On Numara ",
+    "team": " Borussia Dortmund",
+    "nations": ["Türkiye", "Almanya"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "27",
+    "name": "Karim Adeyemi ",
+    "position": "Sol Kanat ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya", "Nijerya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Donyell Malen",
+    "position": "Sol Kanat ",
+    "team": " Borussia Dortmund",
+    "nations": ["Hollanda", "Surinam"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "43",
+    "name": "Jamie Bynoe-Gittens",
+    "position": "Sağ Kanat ",
+    "team": " Borussia Dortmund",
+    "nations": ["İngiltere", "Barbados"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Julien Duranville ",
+    "position": "Sağ Kanat ",
+    "team": " Borussia Dortmund",
+    "nations": ["Belçika"],
+    "age": "16",
+    "contract": "-",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Sébastien Haller",
+    "position": "Santrafor ",
+    "team": " Borussia Dortmund",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Youssoufa Moukoko ",
+    "position": "Santrafor ",
+    "team": " Borussia Dortmund",
+    "nations": ["Almanya", "Kamerun"],
+    "age": "18",
+    "contract": "30 Haz 2026",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Anthony Modeste",
+    "position": "Santrafor ",
+    "team": " Borussia Dortmund",
+    "nations": ["Fransa", "Martinique"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Péter Gulácsi ",
+    "position": "Kaleci ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Macaristan"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Janis Blaswich",
+    "position": "Kaleci ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Örjan Nyland",
+    "position": "Kaleci ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Norveç"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "34",
+    "name": "Jonas Nickisch",
+    "position": "Kaleci ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya"],
+    "age": "18",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "36",
+    "name": "Timo Schlieck",
+    "position": "Kaleci ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya"],
+    "age": "16",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Oskar Preil",
+    "position": "Kaleci ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya"],
+    "age": "19",
+    "contract": "30 Haz 2023",
+    "pd": "-"
+  },
+  {
+    "number": "32",
+    "name": "Josko Gvardiol",
+    "position": "Stoper ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Hırvatistan"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "75.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Mohamed Simakan",
+    "position": "Stoper ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Fransa", "Gine"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "28.00 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Abdou Diallo ",
+    "position": "Stoper ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Senegal", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Willi Orbán",
+    "position": "Stoper ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Macaristan", "Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "David Raum",
+    "position": "Sol Bek ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "26.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Marcel Halstenberg",
+    "position": "Sol Bek ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Sanoussy Ba",
+    "position": "Sol Bek ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya", "Senegal"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "39",
+    "name": "Benjamin Henrichs",
+    "position": "Sağ Bek ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya", "Gana"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Lukas Klostermann",
+    "position": "Sağ Bek ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Konrad Laimer ",
+    "position": "Merkez orta saha ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Avusturya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "28.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Xaver Schlager",
+    "position": "Merkez orta saha ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Avusturya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Amadou Haidara",
+    "position": "Merkez orta saha ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Mali"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "17.00 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Kevin Kampl",
+    "position": "Merkez orta saha ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Slovenya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Dani Olmo ",
+    "position": "On Numara ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["İspanya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Dominik Szoboszlai",
+    "position": "On Numara ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Macaristan"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Emil Forsberg",
+    "position": "On Numara ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["İsveç"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Caden Clark",
+    "position": "On Numara ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Amerika Birleşik Devletleri"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "2.80 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Christopher Nkunku",
+    "position": "Forvet Arkası ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "80.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Timo Werner",
+    "position": "Santrafor ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "André Silva",
+    "position": "Santrafor ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Portekiz"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "24.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Yussuf Poulsen",
+    "position": "Santrafor ",
+    "team": " RasenBallsport Leipzig",
+    "nations": ["Danimarka", "Tanzanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Lukas Hradecky",
+    "position": "Kaleci ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Finlandiya", "Slovakya"],
+    "age": "33",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Patrick Pentz",
+    "position": "Kaleci ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Avusturya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Andrey Lunev ",
+    "position": "Kaleci ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Rusya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Niklas Lomb",
+    "position": "Kaleci ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "12",
+    "name": "Edmond Tapsoba",
+    "position": "Stoper ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Burkina Faso"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Piero Hincapié",
+    "position": "Stoper ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Ekvador"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Jonathan Tah",
+    "position": "Stoper ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Odilon Kossounou",
+    "position": "Stoper ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Fildişi Sahili"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Mitchel Bakker",
+    "position": "Sol Bek ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Hollanda"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Daley Sinkgraven",
+    "position": "Sol Bek ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Hollanda"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Jeremie Frimpong",
+    "position": "Sağ Bek ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Hollanda", "Gana"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Timothy Fosu-Mensah",
+    "position": "Sağ Bek ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Hollanda", "Gana"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Noah Mbamba",
+    "position": "Önlibero ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Belçika"],
+    "age": "18",
+    "contract": "30 Haz 2028",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Ayman Azhil",
+    "position": "Önlibero ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Fas", "Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "35",
+    "name": "Joshua Eze",
+    "position": "Önlibero ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Almanya", "Nijerya"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Exequiel Palacios",
+    "position": "Merkez orta saha ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Arjantin"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Kerem Demirbay",
+    "position": "Merkez orta saha ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Robert Andrich",
+    "position": "Merkez orta saha ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "11.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Nadiem Amiri",
+    "position": "Merkez orta saha ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Almanya", "Afganistan"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Charles Aránguiz ",
+    "position": "Merkez orta saha ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Şili"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Florian Wirtz",
+    "position": "On Numara ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Almanya"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "70.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Moussa Diaby",
+    "position": "Sol Kanat ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Fransa", "Mali"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Callum Hudson-Odoi",
+    "position": "Sol Kanat ",
+    "team": " Bayer Leverkusen",
+    "nations": ["İngiltere", "Gana"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Amine Adli",
+    "position": "Sağ Kanat ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Fransa", "Fas"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Karim Bellarabi",
+    "position": "Sağ Kanat ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Almanya", "Fas"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Patrik Schick",
+    "position": "Santrafor ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Çek Cumhuriyeti"],
+    "age": "27",
+    "contract": "30 Haz 2027",
+    "pd": "38.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Adam Hlozek",
+    "position": "Santrafor ",
+    "team": " Bayer Leverkusen",
+    "nations": ["Çek Cumhuriyeti"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Sardar Azmoun",
+    "position": "Santrafor ",
+    "team": " Bayer Leverkusen",
+    "nations": ["İran"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Kevin Trapp",
+    "position": "Kaleci ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2026",
+    "pd": "8.50 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Diant Ramaj",
+    "position": "Kaleci ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya", "Kosova"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "750 Bin €"
+  },
+  {
+    "number": "31",
+    "name": "Jens Grahl ",
+    "position": "Kaleci ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2026",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "41",
+    "name": "Simon Simoni ",
+    "position": "Kaleci ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Arnavutluk"],
+    "age": "18",
+    "contract": "30 Haz 2027",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "2",
+    "name": "Evan Ndicka",
+    "position": "Stoper ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "32.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Tuta",
+    "position": "Stoper ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Brezilya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Almamy Touré",
+    "position": "Stoper ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Mali", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Hrvoje Smolcic",
+    "position": "Stoper ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Hırvatistan"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Makoto Hasebe",
+    "position": "Stoper ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Japonya"],
+    "age": "39",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "32",
+    "name": "Philipp Max",
+    "position": "Sol Bek ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Christopher Lenz",
+    "position": "Sol Bek ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "49",
+    "name": "Jan Schroeder",
+    "position": "Sol Bek ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya", "İspanya"],
+    "age": "19",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Aurélio Buta",
+    "position": "Sağ Bek ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Portekiz", "Angola"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Timothy Chandler",
+    "position": "Sağ Bek ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Amerika Birleşik Devletleri", "Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Kristijan Jakic",
+    "position": "Önlibero ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Hırvatistan"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Djibril Sow ",
+    "position": "Merkez orta saha ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["İsviçre", "Senegal"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Sebastian Rode",
+    "position": "Merkez orta saha ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Marcel Wenig ",
+    "position": "Merkez orta saha ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya", "Yunanistan"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "45",
+    "name": "Mehdi Loune",
+    "position": "Merkez orta saha ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya", "Fas"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "26",
+    "name": "Junior Dina Ebimbe ",
+    "position": "Orta saha sağ ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Daichi Kamada",
+    "position": "On Numara ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Japonya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Jesper Lindström",
+    "position": "On Numara ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Danimarka"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "28.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Mario Götze ",
+    "position": "On Numara ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Paxten Aaronson",
+    "position": "On Numara ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Amerika Birleşik Devletleri"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Faride Alidou",
+    "position": "Sol Kanat ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya", "Togo"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Ansgar Knauff",
+    "position": "Sağ Kanat ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Almanya", "Gana"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Randal Kolo Muani ",
+    "position": "Santrafor ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "37.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Rafael Borré",
+    "position": "Santrafor ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Kolombiya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Lucas Alario",
+    "position": "Santrafor ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "5.50 mil. €"
+  },
+  {
+    "number": "48",
+    "name": "Nacho Ferri ",
+    "position": "Santrafor ",
+    "team": " Eintracht Frankfurt",
+    "nations": ["İspanya"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "-"
+  },
+  {
+    "number": "1",
+    "name": "Jonas Omlin ",
+    "position": "Kaleci ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["İsviçre"],
+    "age": "29",
+    "contract": "30 Haz 2027",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "41",
+    "name": "Jan Olschowsky ",
+    "position": "Kaleci ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "21",
+    "name": "Tobias Sippel ",
+    "position": "Kaleci ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Nico Elvedi",
+    "position": "Stoper ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["İsviçre"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Ko Itakura",
+    "position": "Stoper ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Japonya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Marvin Friedrich",
+    "position": "Stoper ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Tony Jantschke ",
+    "position": "Stoper ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Mamadou Doucouré",
+    "position": "Stoper ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Fransa", "Senegal"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Ramy Bensebaini",
+    "position": "Sol Bek ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Cezayir"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Luca Netz",
+    "position": "Sol Bek ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Joe Scally",
+    "position": "Sağ Bek ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Amerika Birleşik Devletleri"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Stefan Lainer",
+    "position": "Sağ Bek ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Avusturya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "45",
+    "name": "Simon Walde",
+    "position": "Sağ Bek ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "18",
+    "contract": "30 Haz 2026",
+    "pd": "-"
+  },
+  {
+    "number": "8",
+    "name": "Julian Weigl ",
+    "position": "Önlibero ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Christoph Kramer",
+    "position": "Önlibero ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Manu Koné",
+    "position": "Merkez orta saha ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Florian Neuhaus",
+    "position": "Merkez orta saha ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Oscar Fraulo",
+    "position": "Merkez orta saha ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Danimarka", "İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Hannes Wolf",
+    "position": "On Numara ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Avusturya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Lars Stindl",
+    "position": "On Numara ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Conor Noß",
+    "position": "On Numara ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["İrlanda", "Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "14",
+    "name": "Alassane Plea",
+    "position": "Sol Kanat ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Fransa", "Mali"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Yvandro Borges Sanches",
+    "position": "Sol Kanat ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Lüksemburg", "Yeşil Burun Adaları"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Jonas Hofmann",
+    "position": "Sağ Kanat ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Nathan Ngoumou",
+    "position": "Sağ Kanat ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Patrick Herrmann",
+    "position": "Sağ Kanat ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Marcus Thuram",
+    "position": "Santrafor ",
+    "team": " Borussia Mönchengladbach",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "32.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Koen Casteels",
+    "position": "Kaleci ",
+    "team": " Wolfsburg",
+    "nations": ["Belçika"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Pavao Pervan",
+    "position": "Kaleci ",
+    "team": " Wolfsburg",
+    "nations": ["Avusturya"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "35",
+    "name": "Philipp Schulze",
+    "position": "Kaleci ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Niklas Klinger",
+    "position": "Kaleci ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Maxence Lacroix",
+    "position": "Stoper ",
+    "team": " Wolfsburg",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Sebastiaan Bornauw",
+    "position": "Stoper ",
+    "team": " Wolfsburg",
+    "nations": ["Belçika"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "8.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Micky van de Ven",
+    "position": "Stoper ",
+    "team": " Wolfsburg",
+    "nations": ["Hollanda"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Paulo Otávio",
+    "position": "Sol Bek ",
+    "team": " Wolfsburg",
+    "nations": ["Brezilya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Nicolas Cozza",
+    "position": "Sol Bek ",
+    "team": " Wolfsburg",
+    "nations": ["Fransa", "İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Ridle Baku",
+    "position": "Sağ Bek ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya", "Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Kilian Fischer",
+    "position": "Sağ Bek ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Bartol Franjic",
+    "position": "Önlibero ",
+    "team": " Wolfsburg",
+    "nations": ["Hırvatistan"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Josuha Guilavogui",
+    "position": "Önlibero ",
+    "team": " Wolfsburg",
+    "nations": ["Fransa", "Gine"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Maximilian Arnold",
+    "position": "Merkez orta saha ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "17.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Mattias Svanberg",
+    "position": "Merkez orta saha ",
+    "team": " Wolfsburg",
+    "nations": ["İsveç"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Yannick Gerhardt",
+    "position": "Merkez orta saha ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Kevin Paredes",
+    "position": "Orta saha sol ",
+    "team": " Wolfsburg",
+    "nations": ["Amerika Birleşik Devletleri", "Dominik Cumhuriyeti"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Felix Nmecha",
+    "position": "On Numara ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya", "İngiltere"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Jakub Kaminski",
+    "position": "Sol Kanat ",
+    "team": " Wolfsburg",
+    "nations": ["Polonya"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Omar Marmoush",
+    "position": "Sol Kanat ",
+    "team": " Wolfsburg",
+    "nations": ["Mısır", "Kanada"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Patrick Wimmer",
+    "position": "Sağ Kanat ",
+    "team": " Wolfsburg",
+    "nations": ["Avusturya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Luca Waldschmidt",
+    "position": "Forvet Arkası ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Lukas Nmecha",
+    "position": "Santrafor ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya", "İngiltere"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Jonas Wind",
+    "position": "Santrafor ",
+    "team": " Wolfsburg",
+    "nations": ["Danimarka"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Dzenan Pejcinovic",
+    "position": "Santrafor ",
+    "team": " Wolfsburg",
+    "nations": ["Almanya", "Karadağ"],
+    "age": "18",
+    "contract": "30 Haz 2027",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Oliver Baumann",
+    "position": "Kaleci ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Philipp Pentke",
+    "position": "Kaleci ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "37",
+    "name": "Luca Philipp",
+    "position": "Kaleci ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "36",
+    "name": "Nahue Noll",
+    "position": "Kaleci ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya", "İspanya"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Ozan Kabak",
+    "position": "Stoper ",
+    "team": " Hoffenheim",
+    "nations": ["Türkiye"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Stanley Nsoki ",
+    "position": "Stoper ",
+    "team": " Hoffenheim",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "8.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "John Anthony Brooks",
+    "position": "Stoper ",
+    "team": " Hoffenheim",
+    "nations": ["Amerika Birleşik Devletleri", "Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Kevin Akpoguma",
+    "position": "Stoper ",
+    "team": " Hoffenheim",
+    "nations": ["Nijerya", "Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Eduardo Quaresma",
+    "position": "Stoper ",
+    "team": " Hoffenheim",
+    "nations": ["Portekiz"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Kevin Vogt",
+    "position": "Stoper ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Ermin Bicakcic",
+    "position": "Stoper ",
+    "team": " Hoffenheim",
+    "nations": ["Bosna-Hersek", "Almanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Angeliño",
+    "position": "Sol Bek ",
+    "team": " Hoffenheim",
+    "nations": ["İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Pavel Kaderabek",
+    "position": "Sağ Bek ",
+    "team": " Hoffenheim",
+    "nations": ["Çek Cumhuriyeti"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Justin Che ",
+    "position": "Sağ Bek ",
+    "team": " Hoffenheim",
+    "nations": ["Amerika Birleşik Devletleri", "Almanya"],
+    "age": "19",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Angelo Stiller",
+    "position": "Önlibero ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Sebastian Rudy",
+    "position": "Önlibero ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Dennis Geiger",
+    "position": "Merkez orta saha ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Grischa Prömel ",
+    "position": "Merkez orta saha ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Thomas Delaney",
+    "position": "Merkez orta saha ",
+    "team": " Hoffenheim",
+    "nations": ["Danimarka", "Amerika Birleşik Devletleri"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Finn Ole Becker",
+    "position": "Merkez orta saha ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Umut Tohumcu",
+    "position": "Merkez orta saha ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "18",
+    "contract": "30 Haz 2026",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Robert Skov",
+    "position": "Orta saha sağ ",
+    "team": " Hoffenheim",
+    "nations": ["Danimarka"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Christoph Baumgartner",
+    "position": "On Numara ",
+    "team": " Hoffenheim",
+    "nations": ["Avusturya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Muhammed Damar ",
+    "position": "On Numara ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "18",
+    "contract": "30 Haz 2026",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Tom Bischof ",
+    "position": "On Numara ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Jacob Bruun Larsen ",
+    "position": "Sol Kanat ",
+    "team": " Hoffenheim",
+    "nations": ["Danimarka"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Kasper Dolberg",
+    "position": "Santrafor ",
+    "team": " Hoffenheim",
+    "nations": ["Danimarka"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Ihlas Bebou",
+    "position": "Santrafor ",
+    "team": " Hoffenheim",
+    "nations": ["Togo", "Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "11.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Andrej Kramaric",
+    "position": "Santrafor ",
+    "team": " Hoffenheim",
+    "nations": ["Hırvatistan"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Munas Dabbur",
+    "position": "Santrafor ",
+    "team": " Hoffenheim",
+    "nations": ["İsrail"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Fisnik Asllani",
+    "position": "Santrafor ",
+    "team": " Hoffenheim",
+    "nations": ["Almanya", "Kosova"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "26",
+    "name": "Mark Flekken",
+    "position": "Kaleci ",
+    "team": " SC Freiburg",
+    "nations": ["Hollanda"],
+    "age": "29",
+    "contract": "-",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Noah Atubolu",
+    "position": "Kaleci ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya", "Nijerya"],
+    "age": "20",
+    "contract": "-",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Benjamin Uphoff",
+    "position": "Kaleci ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Philipp Lienhart",
+    "position": "Stoper ",
+    "team": " SC Freiburg",
+    "nations": ["Avusturya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Matthias Ginter",
+    "position": "Stoper ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2027",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Manuel Gulde",
+    "position": "Stoper ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "-",
+    "pd": "1.70 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Kenneth Schmidt",
+    "position": "Stoper ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "20",
+    "contract": "-",
+    "pd": "750 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Christian Günter",
+    "position": "Sol Bek ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "30",
+    "contract": "-",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Kimberly Ezekwem",
+    "position": "Sol Bek ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya", "Nijerya"],
+    "age": "21",
+    "contract": "-",
+    "pd": "275 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Kiliann Sildillia",
+    "position": "Sağ Bek ",
+    "team": " SC Freiburg",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Lukas Kübler",
+    "position": "Sağ Bek ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "30",
+    "contract": "-",
+    "pd": "2.30 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Jonathan Schmid",
+    "position": "Sağ Bek ",
+    "team": " SC Freiburg",
+    "nations": ["Fransa"],
+    "age": "32",
+    "contract": "-",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Yannik Keitel",
+    "position": "Önlibero ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Nicolas Höfler",
+    "position": "Önlibero ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "-",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Maximilian Eggestein",
+    "position": "Merkez orta saha ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Merlin Röhl",
+    "position": "Merkez orta saha ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "20",
+    "contract": "-",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Robert Wagner",
+    "position": "Merkez orta saha ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "11",
+    "name": "Daniel-Kofi Kyereh ",
+    "position": "On Numara ",
+    "team": " SC Freiburg",
+    "nations": ["Gana", "Almanya"],
+    "age": "26",
+    "contract": "-",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Vincenzo Grifo",
+    "position": "Sol Kanat ",
+    "team": " SC Freiburg",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "-",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Noah Weißhaupt",
+    "position": "Sol Kanat ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "-",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Ritsu Doan",
+    "position": "Sağ Kanat ",
+    "team": " SC Freiburg",
+    "nations": ["Japonya"],
+    "age": "24",
+    "contract": "-",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Roland Sallai",
+    "position": "Sağ Kanat ",
+    "team": " SC Freiburg",
+    "nations": ["Macaristan"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Woo-yeong Jeong",
+    "position": "Forvet Arkası ",
+    "team": " SC Freiburg",
+    "nations": ["Güney Kore"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "5.50 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Michael Gregoritsch",
+    "position": "Santrafor ",
+    "team": " SC Freiburg",
+    "nations": ["Avusturya"],
+    "age": "28",
+    "contract": "-",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Lucas Höler",
+    "position": "Santrafor ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "-",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Nils Petersen",
+    "position": "Santrafor ",
+    "team": " SC Freiburg",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "-",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Florian Müller",
+    "position": "Kaleci ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Fabian Bredlow",
+    "position": "Kaleci ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "42",
+    "name": "Florian Schock",
+    "position": "Kaleci ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Konstantinos Mavropanos",
+    "position": "Stoper ",
+    "team": " Stuttgart",
+    "nations": ["Yunanistan"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Hiroki Ito",
+    "position": "Stoper ",
+    "team": " Stuttgart",
+    "nations": ["Japonya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "5.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Dan-Axel Zagadou",
+    "position": "Stoper ",
+    "team": " Stuttgart",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Waldemar Anton",
+    "position": "Stoper ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Antonis Aidonis",
+    "position": "Stoper ",
+    "team": " Stuttgart",
+    "nations": ["Almanya", "Yunanistan"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "350 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Borna Sosa ",
+    "position": "Sol Bek ",
+    "team": " Stuttgart",
+    "nations": ["Hırvatistan", "Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Josha Vagnoman",
+    "position": "Sağ Bek ",
+    "team": " Stuttgart",
+    "nations": ["Almanya", "Fildişi Sahili"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "3.70 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Pascal Stenzel ",
+    "position": "Sağ Bek ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Wataru Endo",
+    "position": "Önlibero ",
+    "team": " Stuttgart",
+    "nations": ["Japonya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Atakan Karazor",
+    "position": "Önlibero ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Enzo Millot",
+    "position": "Merkez orta saha ",
+    "team": " Stuttgart",
+    "nations": ["Fransa", "Martinique"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Nikolas Nartey",
+    "position": "Merkez orta saha ",
+    "team": " Stuttgart",
+    "nations": ["Danimarka", "Gana"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Genki Haraguchi",
+    "position": "On Numara ",
+    "team": " Stuttgart",
+    "nations": ["Japonya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Lilian Egloff",
+    "position": "On Numara ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Ömer Beyaz",
+    "position": "On Numara ",
+    "team": " Stuttgart",
+    "nations": ["Türkiye"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "36",
+    "name": "Laurin Ulrich",
+    "position": "On Numara ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "18",
+    "contract": "30 Haz 2026",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "7",
+    "name": "Tanguy Coulibaly",
+    "position": "Sol Kanat ",
+    "team": " Stuttgart",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Silas",
+    "position": "Sağ Kanat ",
+    "team": " Stuttgart",
+    "nations": ["Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Chris Führich",
+    "position": "Sağ Kanat ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Gil Dias",
+    "position": "Sağ Kanat ",
+    "team": " Stuttgart",
+    "nations": ["Portekiz"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Serhou Guirassy ",
+    "position": "Santrafor ",
+    "team": " Stuttgart",
+    "nations": ["Gine", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Tiago Tomás",
+    "position": "Santrafor ",
+    "team": " Stuttgart",
+    "nations": ["Portekiz"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Luca Pfeiffer",
+    "position": "Santrafor ",
+    "team": " Stuttgart",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "2.80 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Juan José Perea",
+    "position": "Santrafor ",
+    "team": " Stuttgart",
+    "nations": ["Kolombiya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.40 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Thomas Kastanaras",
+    "position": "Santrafor ",
+    "team": " Stuttgart",
+    "nations": ["Almanya", "Yunanistan"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "27",
+    "name": "Alou Kuol",
+    "position": "Santrafor ",
+    "team": " Stuttgart",
+    "nations": ["Avustralya", "Southern Sudan"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "1",
+    "name": "Frederik Rönnow",
+    "position": "Kaleci ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Danimarka"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Lennart Grill",
+    "position": "Kaleci ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Jakob Busk",
+    "position": "Kaleci ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Danimarka"],
+    "age": "29",
+    "contract": "-",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Diogo Leite",
+    "position": "Stoper ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Portekiz"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Paul Jaeckel",
+    "position": "Stoper ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "-",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Timo Baumgartl",
+    "position": "Stoper ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Robin Knoche",
+    "position": "Stoper ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Danilho Doekhi",
+    "position": "Stoper ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Hollanda", "Surinam"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Jérôme Roussillon",
+    "position": "Sol Bek ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "30",
+    "contract": "-",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Niko Gießelmann",
+    "position": "Sol Bek ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Josip Juranovic",
+    "position": "Sağ Bek ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Hırvatistan"],
+    "age": "27",
+    "contract": "30 Haz 2027",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Christopher Trimmel",
+    "position": "Sağ Bek ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Avusturya"],
+    "age": "36",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "8",
+    "name": "Rani Khedira",
+    "position": "Önlibero ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya", "Tunus"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Morten Thorsby",
+    "position": "Merkez orta saha ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Norveç"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "András Schäfer ",
+    "position": "Merkez orta saha ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Macaristan"],
+    "age": "23",
+    "contract": "-",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Janik Haberer",
+    "position": "Merkez orta saha ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Aïssa Laïdouni",
+    "position": "Merkez orta saha ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Tunus", "Fransa"],
+    "age": "26",
+    "contract": "-",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Paul Seguin",
+    "position": "Merkez orta saha ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "-",
+    "pd": "2.20 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Levin Öztunali",
+    "position": "Merkez orta saha ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "-",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Kevin Möhwald",
+    "position": "Merkez orta saha ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "-",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Milos Pantovic",
+    "position": "On Numara ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Sırbistan", "Almanya"],
+    "age": "26",
+    "contract": "-",
+    "pd": "2.20 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Tim Maciejewski",
+    "position": "Sağ Kanat ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "350 Bin €"
+  },
+  {
+    "number": "27",
+    "name": "Sheraldo Becker",
+    "position": "Forvet Arkası ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Surinam", "Hollanda"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Jamie Leweling",
+    "position": "Forvet Arkası ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya", "Gana"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "45",
+    "name": "Jordan",
+    "position": "Santrafor ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Amerika Birleşik Devletleri", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Sven Michel",
+    "position": "Santrafor ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Kevin Behrens",
+    "position": "Santrafor ",
+    "team": " 1.FC Union Berlin",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "27",
+    "name": "Robin Zentner",
+    "position": "Kaleci ",
+    "team": " Mainz 05",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Finn Dahmen",
+    "position": "Kaleci ",
+    "team": " Mainz 05",
+    "nations": ["Almanya", "İngiltere"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Lasse Rieß",
+    "position": "Kaleci ",
+    "team": " Mainz 05",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Maxim Leitsch",
+    "position": "Stoper ",
+    "team": " Mainz 05",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Andreas Hanche-Olsen",
+    "position": "Stoper ",
+    "team": " Mainz 05",
+    "nations": ["Norveç"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Stefan Bell",
+    "position": "Stoper ",
+    "team": " Mainz 05",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Alexander Hack",
+    "position": "Stoper ",
+    "team": " Mainz 05",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "45",
+    "name": "Philipp Schulz",
+    "position": "Stoper ",
+    "team": " Mainz 05",
+    "nations": ["Almanya"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Aarón Martín",
+    "position": "Sol Bek ",
+    "team": " Mainz 05",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Anthony Caci",
+    "position": "Sol Bek ",
+    "team": " Mainz 05",
+    "nations": ["Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Silvan Widmer",
+    "position": "Sağ Bek ",
+    "team": " Mainz 05",
+    "nations": ["İsviçre"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Danny da Costa",
+    "position": "Sağ Bek ",
+    "team": " Mainz 05",
+    "nations": ["Almanya", "Angola"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Anton Stach ",
+    "position": "Önlibero ",
+    "team": " Mainz 05",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Leandro Barreiro",
+    "position": "Merkez orta saha ",
+    "team": " Mainz 05",
+    "nations": ["Lüksemburg", "Portekiz"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Dominik Kohr",
+    "position": "Merkez orta saha ",
+    "team": " Mainz 05",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Edimilson Fernandes",
+    "position": "Merkez orta saha ",
+    "team": " Mainz 05",
+    "nations": ["İsviçre", "Portekiz"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Aymen Barkok",
+    "position": "Merkez orta saha ",
+    "team": " Mainz 05",
+    "nations": ["Fas", "Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "41",
+    "name": "Eniss Shabani",
+    "position": "Merkez orta saha ",
+    "team": " Mainz 05",
+    "nations": ["Almanya", "Kosova"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "7",
+    "name": "Jae-sung Lee",
+    "position": "On Numara ",
+    "team": " Mainz 05",
+    "nations": ["Güney Kore"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Delano Burgzorg",
+    "position": "Sol Kanat ",
+    "team": " Mainz 05",
+    "nations": ["Hollanda", "Surinam"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "43",
+    "name": "Brajan Gruda",
+    "position": "Sağ Kanat ",
+    "team": " Mainz 05",
+    "nations": ["Almanya", "Arnavutluk"],
+    "age": "18",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Jonathan Burkardt ",
+    "position": "Santrafor ",
+    "team": " Mainz 05",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Ludovic Ajorque",
+    "position": "Santrafor ",
+    "team": " Mainz 05",
+    "nations": ["Fransa", "Réunion"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "11.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Karim Onisiwo ",
+    "position": "Santrafor ",
+    "team": " Mainz 05",
+    "nations": ["Avusturya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Marcus Ingvartsen",
+    "position": "Santrafor ",
+    "team": " Mainz 05",
+    "nations": ["Danimarka"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Marlon Mustapha ",
+    "position": "Santrafor ",
+    "team": " Mainz 05",
+    "nations": ["Avusturya"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Nelson Weiper",
+    "position": "Santrafor ",
+    "team": " Mainz 05",
+    "nations": ["Almanya", "Arnavutluk"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Rafal Gikiewicz",
+    "position": "Kaleci ",
+    "team": " Augsburg",
+    "nations": ["Polonya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Tomas Koubek",
+    "position": "Kaleci ",
+    "team": " Augsburg",
+    "nations": ["Çek Cumhuriyeti"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Daniel Klein",
+    "position": "Kaleci ",
+    "team": " Augsburg",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "39",
+    "name": "Benjamin Leneis",
+    "position": "Kaleci ",
+    "team": " Augsburg",
+    "nations": ["Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Reece Oxford ",
+    "position": "Stoper ",
+    "team": " Augsburg",
+    "nations": ["İngiltere", "Jamaika"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Felix Uduokhai ",
+    "position": "Stoper ",
+    "team": " Augsburg",
+    "nations": ["Almanya", "Nijerya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Jeffrey Gouweleeuw",
+    "position": "Stoper ",
+    "team": " Augsburg",
+    "nations": ["Hollanda"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Maximilian Bauer",
+    "position": "Stoper ",
+    "team": " Augsburg",
+    "nations": ["Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Iago",
+    "position": "Sol Bek ",
+    "team": " Augsburg",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "5.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Mads Pedersen",
+    "position": "Sol Bek ",
+    "team": " Augsburg",
+    "nations": ["Danimarka"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "David Colina",
+    "position": "Sol Bek ",
+    "team": " Augsburg",
+    "nations": ["Hırvatistan"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Aaron Zehnter",
+    "position": "Sol Bek ",
+    "team": " Augsburg",
+    "nations": ["Almanya"],
+    "age": "18",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "2",
+    "name": "Robert Gumny",
+    "position": "Sağ Bek ",
+    "team": " Augsburg",
+    "nations": ["Polonya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Niklas Dorsch",
+    "position": "Önlibero ",
+    "team": " Augsburg",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Renato Veiga",
+    "position": "Önlibero ",
+    "team": " Augsburg",
+    "nations": ["Portekiz"],
+    "age": "19",
+    "contract": "31 Ara 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Tobias Strobl ",
+    "position": "Önlibero ",
+    "team": " Augsburg",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "14",
+    "name": "Julian Baumgartlinger",
+    "position": "Önlibero ",
+    "team": " Augsburg",
+    "nations": ["Avusturya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "10",
+    "name": "Arne Maier",
+    "position": "Merkez orta saha ",
+    "team": " Augsburg",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "5.50 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Elvis Rexhbecaj ",
+    "position": "Merkez orta saha ",
+    "team": " Augsburg",
+    "nations": ["Almanya", "Kosova"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Arne Engels",
+    "position": "Merkez orta saha ",
+    "team": " Augsburg",
+    "nations": ["Belçika"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Fredrik Jensen",
+    "position": "On Numara ",
+    "team": " Augsburg",
+    "nations": ["Finlandiya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "43",
+    "name": "Mert Kömür",
+    "position": "On Numara ",
+    "team": " Augsburg",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "17",
+    "contract": "30 Haz 2027",
+    "pd": "-"
+  },
+  {
+    "number": "16",
+    "name": "Rubén Vargas",
+    "position": "Sol Kanat ",
+    "team": " Augsburg",
+    "nations": ["İsviçre", "Dominik Cumhuriyeti"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Nathanaël Mbuku",
+    "position": "Sol Kanat ",
+    "team": " Augsburg",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "André Hahn ",
+    "position": "Sağ Kanat ",
+    "team": " Augsburg",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Noah Joel Sarenren Bazee",
+    "position": "Sağ Kanat ",
+    "team": " Augsburg",
+    "nations": ["Almanya", "Nijerya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "20",
+    "name": "Daniel Caligiuri",
+    "position": "Sağ Kanat ",
+    "team": " Augsburg",
+    "nations": ["İtalya", "Almanya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "9",
+    "name": "Ermedin Demirovic",
+    "position": "Santrafor ",
+    "team": " Augsburg",
+    "nations": ["Bosna-Hersek", "Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Dion Beljo",
+    "position": "Santrafor ",
+    "team": " Augsburg",
+    "nations": ["Hırvatistan"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Mergim Berisha",
+    "position": "Santrafor ",
+    "team": " Augsburg",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "45",
+    "name": "Kelvin Yeboah",
+    "position": "Santrafor ",
+    "team": " Augsburg",
+    "nations": ["İtalya", "Gana"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "48",
+    "name": "Irvin Cardona ",
+    "position": "Santrafor ",
+    "team": " Augsburg",
+    "nations": ["Fransa", "Malta"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Oliver Christensen",
+    "position": "Kaleci ",
+    "team": " Hertha Berlin",
+    "nations": ["Danimarka"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Tjark Ernst",
+    "position": "Kaleci ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Rune Jarstein ",
+    "position": "Kaleci ",
+    "team": " Hertha Berlin",
+    "nations": ["Norveç"],
+    "age": "38",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Agustín Rogel ",
+    "position": "Stoper ",
+    "team": " Hertha Berlin",
+    "nations": ["Uruguay", "İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Marc Oliver Kempf",
+    "position": "Stoper ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Filip Uremovic",
+    "position": "Stoper ",
+    "team": " Hertha Berlin",
+    "nations": ["Hırvatistan"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Márton Dárdai",
+    "position": "Stoper ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya", "Macaristan"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Maximilian Mittelstädt",
+    "position": "Sol Bek ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Marvin Plattenhardt",
+    "position": "Sol Bek ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Lukas Ullrich",
+    "position": "Sol Bek ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya"],
+    "age": "18",
+    "contract": "30 Haz 2023",
+    "pd": "350 Bin €"
+  },
+  {
+    "number": "16",
+    "name": "Jonjoe Kenny",
+    "position": "Sağ Bek ",
+    "team": " Hertha Berlin",
+    "nations": ["İngiltere"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Peter Pekarik",
+    "position": "Sağ Bek ",
+    "team": " Hertha Berlin",
+    "nations": ["Slovakya"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "42",
+    "name": "Julian Eitschberger",
+    "position": "Sağ Bek ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya"],
+    "age": "18",
+    "contract": "30 Haz 2026",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Lucas Tousart",
+    "position": "Önlibero ",
+    "team": " Hertha Berlin",
+    "nations": ["Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "11.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Ivan Sunjic",
+    "position": "Önlibero ",
+    "team": " Hertha Berlin",
+    "nations": ["Hırvatistan"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Tolga Cigerci",
+    "position": "Önlibero ",
+    "team": " Hertha Berlin",
+    "nations": ["Türkiye", "Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Suat Serdar",
+    "position": "Merkez orta saha ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Jean-Paul Boëtius",
+    "position": "On Numara ",
+    "team": " Hertha Berlin",
+    "nations": ["Hollanda", "Surinam"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Kevin-Prince Boateng",
+    "position": "On Numara ",
+    "team": " Hertha Berlin",
+    "nations": ["Gana", "Almanya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Chidera Ejuke ",
+    "position": "Sol Kanat ",
+    "team": " Hertha Berlin",
+    "nations": ["Nijerya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Dodi Lukébakio",
+    "position": "Sağ Kanat ",
+    "team": " Hertha Berlin",
+    "nations": ["Belçika", "Kongo DC"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Marco Richter",
+    "position": "Sağ Kanat ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Kelian Nsona ",
+    "position": "Sağ Kanat ",
+    "team": " Hertha Berlin",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Wilfried Kanga ",
+    "position": "Santrafor ",
+    "team": " Hertha Berlin",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Florian Niederlechner",
+    "position": "Santrafor ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "2.20 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Stevan Jovetic ",
+    "position": "Santrafor ",
+    "team": " Hertha Berlin",
+    "nations": ["Karadağ", "Sırbistan"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Jessic Ngankam",
+    "position": "Santrafor ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya", "Kamerun"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Derry Scherhant",
+    "position": "Santrafor ",
+    "team": " Hertha Berlin",
+    "nations": ["Almanya"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "20",
+    "name": "Marvin Schwäbe",
+    "position": "Kaleci ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Timo Horn",
+    "position": "Kaleci ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Julian Roloff",
+    "position": "Kaleci ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "44",
+    "name": "Matthias Köbbing",
+    "position": "Kaleci ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "25 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Timo Hübers",
+    "position": "Stoper ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Luca Kilian ",
+    "position": "Stoper ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Julian Chabot",
+    "position": "Stoper ",
+    "team": " Köln",
+    "nations": ["Almanya", "Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Nikola Soldo",
+    "position": "Stoper ",
+    "team": " Köln",
+    "nations": ["Hırvatistan"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "46",
+    "name": "Rijad Smajic ",
+    "position": "Stoper ",
+    "team": " Köln",
+    "nations": ["Bosna-Hersek", "Almanya"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "38",
+    "name": "Elias Bakatukanda",
+    "position": "Stoper ",
+    "team": " Köln",
+    "nations": ["Almanya", "Kongo"],
+    "age": "18",
+    "contract": "30 Haz 2024",
+    "pd": "-"
+  },
+  {
+    "number": "14",
+    "name": "Jonas Hector",
+    "position": "Sol Bek ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Kristian Pedersen ",
+    "position": "Sol Bek ",
+    "team": " Köln",
+    "nations": ["Danimarka"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Benno Schmitz ",
+    "position": "Sağ Bek ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Kingsley Schindler",
+    "position": "Sağ Bek ",
+    "team": " Köln",
+    "nations": ["Almanya", "Gana"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Ellyes Skhiri",
+    "position": "Önlibero ",
+    "team": " Köln",
+    "nations": ["Tunus", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Dejan Ljubicic",
+    "position": "Önlibero ",
+    "team": " Köln",
+    "nations": ["Avusturya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Eric Martel",
+    "position": "Önlibero ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "48",
+    "name": "Georg Strauch",
+    "position": "Önlibero ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "8",
+    "name": "Denis Huseinbasic ",
+    "position": "Merkez orta saha ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "47",
+    "name": "Mathias Olesen",
+    "position": "Merkez orta saha ",
+    "team": " Köln",
+    "nations": ["Lüksemburg", "Danimarka"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "45",
+    "name": "Joshua Schwirten",
+    "position": "Merkez orta saha ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "11",
+    "name": "Florian Kainz",
+    "position": "Sol Kanat ",
+    "team": " Köln",
+    "nations": ["Avusturya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Jan Thielmann ",
+    "position": "Sağ Kanat ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Linton Maina",
+    "position": "Sağ Kanat ",
+    "team": " Köln",
+    "nations": ["Almanya", "Kenya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Dimitrios Limnios",
+    "position": "Sağ Kanat ",
+    "team": " Köln",
+    "nations": ["Yunanistan", "Brezilya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "49",
+    "name": "Justin Diehl",
+    "position": "Forvet Arkası ",
+    "team": " Köln",
+    "nations": ["Almanya", "Gana"],
+    "age": "18",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "42",
+    "name": "Damion Downs",
+    "position": "Forvet Arkası ",
+    "team": " Köln",
+    "nations": ["Almanya", "Amerika Birleşik Devletleri"],
+    "age": "18",
+    "contract": "-",
+    "pd": "-"
+  },
+  {
+    "number": "21",
+    "name": "Steffen Tigges",
+    "position": "Santrafor ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Mark Uth ",
+    "position": "Santrafor ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Sargis Adamyan",
+    "position": "Santrafor ",
+    "team": " Köln",
+    "nations": ["Ermenistan"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Tim Lemperle",
+    "position": "Santrafor ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Davie Selke",
+    "position": "Santrafor ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Sebastian Andersson ",
+    "position": "Santrafor ",
+    "team": " Köln",
+    "nations": ["İsveç"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Florian Dietz ",
+    "position": "Santrafor ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "43",
+    "name": "Maximilian Schmid",
+    "position": "Santrafor ",
+    "team": " Köln",
+    "nations": ["Almanya"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "1",
+    "name": "Jiri Pavlenka",
+    "position": "Kaleci ",
+    "team": " Werder Bremen",
+    "nations": ["Çek Cumhuriyeti"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Michael Zetterer",
+    "position": "Kaleci ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "-",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "37",
+    "name": "Mio Backhaus",
+    "position": "Kaleci ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "18",
+    "contract": "-",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "38",
+    "name": "Dudu",
+    "position": "Kaleci ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya", "Brezilya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Louis Lord",
+    "position": "Kaleci ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "19",
+    "contract": "-",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "32",
+    "name": "Marco Friedl",
+    "position": "Stoper ",
+    "team": " Werder Bremen",
+    "nations": ["Avusturya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Amos Pieper",
+    "position": "Stoper ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Milos Veljkovic",
+    "position": "Stoper ",
+    "team": " Werder Bremen",
+    "nations": ["Sırbistan", "İsviçre"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Niklas Stark",
+    "position": "Stoper ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Fabio Chiarodia",
+    "position": "Stoper ",
+    "team": " Werder Bremen",
+    "nations": ["İtalya", "Almanya"],
+    "age": "17",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Lee Buchanan",
+    "position": "Sol Bek ",
+    "team": " Werder Bremen",
+    "nations": ["İngiltere"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Anthony Jung",
+    "position": "Sol Bek ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya", "İspanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Mitchell Weiser ",
+    "position": "Sağ Bek ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya", "Cezayir"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Felix Agu ",
+    "position": "Sağ Bek ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya", "Nijerya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Ilia Gruev",
+    "position": "Önlibero ",
+    "team": " Werder Bremen",
+    "nations": ["Bulgaristan", "Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Christian Groß",
+    "position": "Önlibero ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "19",
+    "name": "Dikeni Salifou ",
+    "position": "Önlibero ",
+    "team": " Werder Bremen",
+    "nations": ["Togo", "Almanya"],
+    "age": "19",
+    "contract": "-",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "Jens Stage",
+    "position": "Merkez orta saha ",
+    "team": " Werder Bremen",
+    "nations": ["Danimarka"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Jean Manuel Mbom",
+    "position": "Merkez orta saha ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya", "Kamerun"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Romano Schmid",
+    "position": "On Numara ",
+    "team": " Werder Bremen",
+    "nations": ["Avusturya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Leonardo Bittencourt",
+    "position": "On Numara ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya", "Brezilya"],
+    "age": "29",
+    "contract": "-",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Niklas Schmidt",
+    "position": "On Numara ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Maximilian Philipp",
+    "position": "Forvet Arkası ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Niclas Füllkrug",
+    "position": "Santrafor ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Marvin Ducksch",
+    "position": "Santrafor ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Eren Dinkci",
+    "position": "Santrafor ",
+    "team": " Werder Bremen",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "13",
+    "name": "Alexander Schwolow",
+    "position": "Kaleci ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Ralf Fährmann",
+    "position": "Kaleci ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Justin Heekeren ",
+    "position": "Kaleci ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "34",
+    "name": "Michael Langer",
+    "position": "Kaleci ",
+    "team": " Schalke 04",
+    "nations": ["Avusturya"],
+    "age": "38",
+    "contract": "30 Haz 2023",
+    "pd": "50 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Sepp van den Berg ",
+    "position": "Stoper ",
+    "team": " Schalke 04",
+    "nations": ["Hollanda"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Moritz Jenz",
+    "position": "Stoper ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Leo Greiml",
+    "position": "Stoper ",
+    "team": " Schalke 04",
+    "nations": ["Avusturya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Timothée Kolodziejczak",
+    "position": "Stoper ",
+    "team": " Schalke 04",
+    "nations": ["Fransa", "Polonya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Maya Yoshida",
+    "position": "Stoper ",
+    "team": " Schalke 04",
+    "nations": ["Japonya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Marcin Kaminski",
+    "position": "Stoper ",
+    "team": " Schalke 04",
+    "nations": ["Polonya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "41",
+    "name": "Henning Matriciani",
+    "position": "Stoper ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Ibrahima Cissé",
+    "position": "Stoper ",
+    "team": " Schalke 04",
+    "nations": ["Mali", "Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "2",
+    "name": "Thomas Ouwejan ",
+    "position": "Sol Bek ",
+    "team": " Schalke 04",
+    "nations": ["Hollanda"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Jere Uronen ",
+    "position": "Sol Bek ",
+    "team": " Schalke 04",
+    "nations": ["Finlandiya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Cédric Brunner ",
+    "position": "Sağ Bek ",
+    "team": " Schalke 04",
+    "nations": ["İsviçre"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Mehmet Aydin",
+    "position": "Sağ Bek ",
+    "team": " Schalke 04",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Alex Kral",
+    "position": "Önlibero ",
+    "team": " Schalke 04",
+    "nations": ["Çek Cumhuriyeti", "Slovakya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Éder Balanta",
+    "position": "Önlibero ",
+    "team": " Schalke 04",
+    "nations": ["Kolombiya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Niklas Tauer",
+    "position": "Önlibero ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Tom Krauß",
+    "position": "Merkez orta saha ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Danny Latza",
+    "position": "Merkez orta saha ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "-",
+    "name": "Nassim Boujellab",
+    "position": "Merkez orta saha ",
+    "team": " Schalke 04",
+    "nations": ["Fas", "Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "10",
+    "name": "Rodrigo Zalazar",
+    "position": "On Numara ",
+    "team": " Schalke 04",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Dominick Drexler",
+    "position": "On Numara ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "11",
+    "name": "Marius Bülter",
+    "position": "Sol Kanat ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Tobias Mohr",
+    "position": "Sol Kanat ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Andreas Ivan",
+    "position": "Sol Kanat ",
+    "team": " Schalke 04",
+    "nations": ["Romanya", "Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "20",
+    "name": "Tim Skarke ",
+    "position": "Sağ Kanat ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Soichiro Kozuki ",
+    "position": "Sağ Kanat ",
+    "team": " Schalke 04",
+    "nations": ["Japonya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "26",
+    "name": "Michael Frey",
+    "position": "Santrafor ",
+    "team": " Schalke 04",
+    "nations": ["İsviçre"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Sebastian Polter ",
+    "position": "Santrafor ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "1.70 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Kenan Karaman",
+    "position": "Santrafor ",
+    "team": " Schalke 04",
+    "nations": ["Türkiye", "Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "1.40 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Simon Terodde",
+    "position": "Santrafor ",
+    "team": " Schalke 04",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Manuel Riemann",
+    "position": "Kaleci ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "34",
+    "contract": "30 Haz 2025",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Marko Johansson",
+    "position": "Kaleci ",
+    "team": " VfL Bochum",
+    "nations": ["İsveç", "Sırbistan"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "21",
+    "name": "Michael Esser",
+    "position": "Kaleci ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "34",
+    "name": "Paul Grave ",
+    "position": "Kaleci ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "21",
+    "contract": "-",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Erhan Masovic",
+    "position": "Stoper ",
+    "team": " VfL Bochum",
+    "nations": ["Sırbistan"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Ivan Ordets",
+    "position": "Stoper ",
+    "team": " VfL Bochum",
+    "nations": ["Ukrayna"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Keven Schlotterbeck",
+    "position": "Stoper ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Dominique Heintz",
+    "position": "Stoper ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Vasilios Lampropoulos",
+    "position": "Stoper ",
+    "team": " VfL Bochum",
+    "nations": ["Yunanistan"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Mohammed Tolba",
+    "position": "Stoper ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya", "Mısır"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Danilo Soares",
+    "position": "Sol Bek ",
+    "team": " VfL Bochum",
+    "nations": ["Brezilya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "2.20 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Konstantinos Stafylidis",
+    "position": "Sol Bek ",
+    "team": " VfL Bochum",
+    "nations": ["Yunanistan"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Jordi Osei-Tutu",
+    "position": "Sağ Bek ",
+    "team": " VfL Bochum",
+    "nations": ["İngiltere", "Gana"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Saidy Janko",
+    "position": "Sağ Bek ",
+    "team": " VfL Bochum",
+    "nations": ["Gambiya", "İsviçre"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Cristian Gamboa ",
+    "position": "Sağ Bek ",
+    "team": " VfL Bochum",
+    "nations": ["Kosta Rika"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Jacek Goralski",
+    "position": "Önlibero ",
+    "team": " VfL Bochum",
+    "nations": ["Polonya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Anthony Losilla ",
+    "position": "Önlibero ",
+    "team": " VfL Bochum",
+    "nations": ["Fransa"],
+    "age": "36",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Pierre Kunde",
+    "position": "Merkez orta saha ",
+    "team": " VfL Bochum",
+    "nations": ["Kamerun"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Patrick Osterhage",
+    "position": "Merkez orta saha ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Kevin Stöger",
+    "position": "On Numara ",
+    "team": " VfL Bochum",
+    "nations": ["Avusturya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Philipp Förster",
+    "position": "On Numara ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Gerrit Holtmann ",
+    "position": "Sol Kanat ",
+    "team": " VfL Bochum",
+    "nations": ["Filipinler", "Almanya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Christopher Antwi-Adjei",
+    "position": "Sol Kanat ",
+    "team": " VfL Bochum",
+    "nations": ["Gana", "Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Takuma Asano",
+    "position": "Sağ Kanat ",
+    "team": " VfL Bochum",
+    "nations": ["Japonya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Philipp Hofmann",
+    "position": "Santrafor ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Simon Zoller ",
+    "position": "Santrafor ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.10 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Silvère Ganvoula",
+    "position": "Santrafor ",
+    "team": " VfL Bochum",
+    "nations": ["Kongo"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "750 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Moritz Broschinski",
+    "position": "Santrafor ",
+    "team": " VfL Bochum",
+    "nations": ["Almanya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "175 Bin €"
+  }
+]

@@ -1,0 +1,5602 @@
+[
+  {
+    "number": "16",
+    "name": "Mike Maignan",
+    "position": "Kaleci ",
+    "team": " Milan",
+    "nations": ["Fransa", "Fransiz Guyanasi"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Ciprian Tatarusanu",
+    "position": "Kaleci ",
+    "team": " Milan",
+    "nations": ["Romanya"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "77",
+    "name": "Devis Vásquez",
+    "position": "Kaleci ",
+    "team": " Milan",
+    "nations": ["Kolombiya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "350 Bin €"
+  },
+  {
+    "number": "83",
+    "name": "Antonio Mirante",
+    "position": "Kaleci ",
+    "team": " Milan",
+    "nations": ["İtalya"],
+    "age": "39",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "23",
+    "name": "Fikayo Tomori",
+    "position": "Stoper ",
+    "team": " Milan",
+    "nations": ["İngiltere", "Kanada"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Pierre Kalulu",
+    "position": "Stoper ",
+    "team": " Milan",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "46",
+    "name": "Matteo Gabbia",
+    "position": "Stoper ",
+    "team": " Milan",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Malick Thiaw",
+    "position": "Stoper ",
+    "team": " Milan",
+    "nations": ["Almanya", "Finlandiya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Simon Kjaer",
+    "position": "Stoper ",
+    "team": " Milan",
+    "nations": ["Danimarka"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Theo Hernández",
+    "position": "Sol Bek ",
+    "team": " Milan",
+    "nations": ["Fransa", "İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Fodé Ballo-Touré",
+    "position": "Sol Bek ",
+    "team": " Milan",
+    "nations": ["Senegal", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Davide Calabria",
+    "position": "Sağ Bek ",
+    "team": " Milan",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Sergiño Dest",
+    "position": "Sağ Bek ",
+    "team": " Milan",
+    "nations": ["Amerika Birleşik Devletleri", "Hollanda"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Alessandro Florenzi",
+    "position": "Sağ Bek ",
+    "team": " Milan",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Sandro Tonali",
+    "position": "Önlibero ",
+    "team": " Milan",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "50.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Ismaël Bennacer",
+    "position": "Önlibero ",
+    "team": " Milan",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Tiemoué Bakayoko",
+    "position": "Önlibero ",
+    "team": " Milan",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Tommaso Pobega",
+    "position": "Merkez orta saha ",
+    "team": " Milan",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "40",
+    "name": "Aster Vranckx",
+    "position": "Merkez orta saha ",
+    "team": " Milan",
+    "nations": ["Belçika", "Kongo DC"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Rade Krunic ",
+    "position": "Merkez orta saha ",
+    "team": " Milan",
+    "nations": ["Bosna-Hersek"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "90",
+    "name": "Charles De Ketelaere",
+    "position": "On Numara ",
+    "team": " Milan",
+    "nations": ["Belçika"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Brahim Díaz",
+    "position": "On Numara ",
+    "team": " Milan",
+    "nations": ["İspanya", "Fas"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Yacine Adli",
+    "position": "On Numara ",
+    "team": " Milan",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Rafael Leão ",
+    "position": "Sol Kanat ",
+    "team": " Milan",
+    "nations": ["Portekiz", "Angola"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "85.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Ante Rebic",
+    "position": "Sol Kanat ",
+    "team": " Milan",
+    "nations": ["Hırvatistan"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "56",
+    "name": "Alexis Saelemaekers",
+    "position": "Sağ Kanat ",
+    "team": " Milan",
+    "nations": ["Belçika"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Junior Messias",
+    "position": "Sağ Kanat ",
+    "team": " Milan",
+    "nations": ["Brezilya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Divock Origi",
+    "position": "Santrafor ",
+    "team": " Milan",
+    "nations": ["Belçika", "Kenya"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Olivier Giroud",
+    "position": "Santrafor ",
+    "team": " Milan",
+    "nations": ["Fransa"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Zlatan Ibrahimović",
+    "position": "Santrafor ",
+    "team": " Milan",
+    "nations": ["İsveç", "Bosna-Hersek"],
+    "age": "41",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "79",
+    "name": "Emil Roback",
+    "position": "Santrafor ",
+    "team": " Milan",
+    "nations": ["İsveç", "Gambiya"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "André Onana",
+    "position": "Kaleci ",
+    "team": " Inter",
+    "nations": ["Kamerun"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Samir Handanovic",
+    "position": "Kaleci ",
+    "team": " Inter",
+    "nations": ["Slovenya"],
+    "age": "38",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Alex Cordaz",
+    "position": "Kaleci ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "40",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "37",
+    "name": "Milan Skriniar ",
+    "position": "Stoper ",
+    "team": " Inter",
+    "nations": ["Slovakya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "95",
+    "name": "Alessandro Bastoni",
+    "position": "Stoper ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "55.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Stefan de Vrij",
+    "position": "Stoper ",
+    "team": " Inter",
+    "nations": ["Hollanda"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Francesco Acerbi",
+    "position": "Stoper ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Danilo D'Ambrosio",
+    "position": "Stoper ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "47",
+    "name": "Alessandro Fontanarosa",
+    "position": "Stoper ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "-",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "32",
+    "name": "Federico Dimarco ",
+    "position": "Sol Bek ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Dalbert ",
+    "position": "Sol Bek ",
+    "team": " Inter",
+    "nations": ["Brezilya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Raoul Bellanova",
+    "position": "Sağ Bek ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Matteo Darmian",
+    "position": "Sağ Bek ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "46",
+    "name": "Mattia Zanotti",
+    "position": "Sağ Bek ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "350 Bin €"
+  },
+  {
+    "number": "77",
+    "name": "Marcelo Brozovic",
+    "position": "Önlibero ",
+    "team": " Inter",
+    "nations": ["Hırvatistan"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Kristjan Asllani",
+    "position": "Önlibero ",
+    "team": " Inter",
+    "nations": ["Arnavutluk", "İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Nicolò Barella",
+    "position": "Merkez orta saha ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "70.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Hakan Calhanoglu",
+    "position": "Merkez orta saha ",
+    "team": " Inter",
+    "nations": ["Türkiye", "Almanya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Roberto Gagliardini",
+    "position": "Merkez orta saha ",
+    "team": " Inter",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Denzel Dumfries",
+    "position": "Orta saha sağ ",
+    "team": " Inter",
+    "nations": ["Hollanda", "Aruba"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "28.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Robin Gosens",
+    "position": "Orta saha sol ",
+    "team": " Inter",
+    "nations": ["Almanya", "Hollanda"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Henrikh Mkhitaryan",
+    "position": "On Numara ",
+    "team": " Inter",
+    "nations": ["Ermenistan"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "45",
+    "name": "Valentín Carboni",
+    "position": "On Numara ",
+    "team": " Inter",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "17",
+    "contract": "-",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Joaquín Correa ",
+    "position": "Forvet Arkası ",
+    "team": " Inter",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Lautaro Martínez",
+    "position": "Santrafor ",
+    "team": " Inter",
+    "nations": ["Arjantin"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "75.00 mil. €"
+  },
+  {
+    "number": "90",
+    "name": "Romelu Lukaku",
+    "position": "Santrafor ",
+    "team": " Inter",
+    "nations": ["Belçika", "Kongo DC"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "55.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Edin Dzeko",
+    "position": "Santrafor ",
+    "team": " Inter",
+    "nations": ["Bosna-Hersek"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Alex Meret",
+    "position": "Kaleci ",
+    "team": " Napoli",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "95",
+    "name": "Pierluigi Gollini",
+    "position": "Kaleci ",
+    "team": " Napoli",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Hubert Idasiak",
+    "position": "Kaleci ",
+    "team": " Napoli",
+    "nations": ["Polonya"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "12",
+    "name": "Davide Marfella",
+    "position": "Kaleci ",
+    "team": " Napoli",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "50 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Min-jae Kim",
+    "position": "Stoper ",
+    "team": " Napoli",
+    "nations": ["Güney Kore"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Amir Rrahmani",
+    "position": "Stoper ",
+    "team": " Napoli",
+    "nations": ["Kosova", "Arnavutluk"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "55",
+    "name": "Leo Östigard",
+    "position": "Stoper ",
+    "team": " Napoli",
+    "nations": ["Norveç"],
+    "age": "23",
+    "contract": "-",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Juan Jesus",
+    "position": "Stoper ",
+    "team": " Napoli",
+    "nations": ["Brezilya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Mathías Olivera",
+    "position": "Sol Bek ",
+    "team": " Napoli",
+    "nations": ["Uruguay", "İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Mário Rui ",
+    "position": "Sol Bek ",
+    "team": " Napoli",
+    "nations": ["Portekiz"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Giovanni Di Lorenzo",
+    "position": "Sağ Bek ",
+    "team": " Napoli",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Bartosz Bereszynski",
+    "position": "Sağ Bek ",
+    "team": " Napoli",
+    "nations": ["Polonya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "68",
+    "name": "Stanislav Lobotka",
+    "position": "Önlibero ",
+    "team": " Napoli",
+    "nations": ["Slovakya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Diego Demme",
+    "position": "Önlibero ",
+    "team": " Napoli",
+    "nations": ["Almanya", "İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Piotr Zielinski",
+    "position": "Merkez orta saha ",
+    "team": " Napoli",
+    "nations": ["Polonya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Frank Anguissa",
+    "position": "Merkez orta saha ",
+    "team": " Napoli",
+    "nations": ["Kamerun"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "38.00 mil. €"
+  },
+  {
+    "number": "91",
+    "name": "Tanguy Ndombélé",
+    "position": "Merkez orta saha ",
+    "team": " Napoli",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "28.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Eljif Elmas",
+    "position": "Merkez orta saha ",
+    "team": " Napoli",
+    "nations": ["Kuzey Makedonya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "23.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Karim Zedadka",
+    "position": "Orta saha sol ",
+    "team": " Napoli",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "70",
+    "name": "Gianluca Gaetano",
+    "position": "On Numara ",
+    "team": " Napoli",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Khvicha Kvaratskhelia",
+    "position": "Sol Kanat ",
+    "team": " Napoli",
+    "nations": ["Gürcistan"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Alessio Zerbin",
+    "position": "Sol Kanat ",
+    "team": " Napoli",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Hirving Lozano",
+    "position": "Sağ Kanat ",
+    "team": " Napoli",
+    "nations": ["Meksika"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "28.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Matteo Politano",
+    "position": "Sağ Kanat ",
+    "team": " Napoli",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "81",
+    "name": "Giacomo Raspadori ",
+    "position": "Forvet Arkası ",
+    "team": " Napoli",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Victor Osimhen",
+    "position": "Santrafor ",
+    "team": " Napoli",
+    "nations": ["Nijerya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "70.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Giovanni Simeone",
+    "position": "Santrafor ",
+    "team": " Napoli",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "17.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Wojciech Szczesny",
+    "position": "Kaleci ",
+    "team": " Juventus",
+    "nations": ["Polonya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "36",
+    "name": "Mattia Perin",
+    "position": "Kaleci ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Carlo Pinsoglio",
+    "position": "Kaleci ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Bremer",
+    "position": "Stoper ",
+    "team": " Juventus",
+    "nations": ["Brezilya"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "40.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Federico Gatti",
+    "position": "Stoper ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Leonardo Bonucci",
+    "position": "Stoper ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Daniele Rugani",
+    "position": "Stoper ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Alex Sandro",
+    "position": "Sol Bek ",
+    "team": " Juventus",
+    "nations": ["Brezilya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Danilo",
+    "position": "Sağ Bek ",
+    "team": " Juventus",
+    "nations": ["Brezilya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Mattia De Sciglio",
+    "position": "Sağ Bek ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Manuel Locatelli",
+    "position": "Önlibero ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Leandro Paredes",
+    "position": "Önlibero ",
+    "team": " Juventus",
+    "nations": ["Arjantin"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Paul Pogba",
+    "position": "Merkez orta saha ",
+    "team": " Juventus",
+    "nations": ["Fransa", "Gine"],
+    "age": "29",
+    "contract": "30 Haz 2026",
+    "pd": "35.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Adrien Rabiot",
+    "position": "Merkez orta saha ",
+    "team": " Juventus",
+    "nations": ["Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Fabio Miretti ",
+    "position": "Merkez orta saha ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Nicolò Fagioli",
+    "position": "Merkez orta saha ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Juan Cuadrado",
+    "position": "Orta saha sağ ",
+    "team": " Juventus",
+    "nations": ["Kolombiya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Filip Kostić",
+    "position": "Orta saha sol ",
+    "team": " Juventus",
+    "nations": ["Sırbistan"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "24.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Mohamed Ihattaren",
+    "position": "On Numara ",
+    "team": " Juventus",
+    "nations": ["Hollanda", "Fas"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Federico Chiesa",
+    "position": "Sol Kanat ",
+    "team": " Juventus",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "43",
+    "name": "Samuel Iling Junior",
+    "position": "Sol Kanat ",
+    "team": " Juventus",
+    "nations": ["İngiltere"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Ángel Di María",
+    "position": "Sağ Kanat ",
+    "team": " Juventus",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Matías Soulé",
+    "position": "Sağ Kanat ",
+    "team": " Juventus",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Dusan Vlahovic",
+    "position": "Santrafor ",
+    "team": " Juventus",
+    "nations": ["Sırbistan"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "80.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Moise Kean",
+    "position": "Santrafor ",
+    "team": " Juventus",
+    "nations": ["İtalya", "Fildişi Sahili"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Arkadiusz Milik ",
+    "position": "Santrafor ",
+    "team": " Juventus",
+    "nations": ["Polonya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Kaio Jorge ",
+    "position": "Santrafor ",
+    "team": " Juventus",
+    "nations": ["Brezilya"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Rui Patrício",
+    "position": "Kaleci ",
+    "team": " Roma",
+    "nations": ["Portekiz"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Mile Svilar",
+    "position": "Kaleci ",
+    "team": " Roma",
+    "nations": ["Sırbistan", "Belçika"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "63",
+    "name": "Pietro Boer",
+    "position": "Kaleci ",
+    "team": " Roma",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Roger Ibañez",
+    "position": "Stoper ",
+    "team": " Roma",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "27.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Gianluca Mancini",
+    "position": "Stoper ",
+    "team": " Roma",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2027",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Marash Kumbulla",
+    "position": "Stoper ",
+    "team": " Roma",
+    "nations": ["Arnavutluk", "İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Diego Llorente",
+    "position": "Stoper ",
+    "team": " Roma",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Chris Smalling",
+    "position": "Stoper ",
+    "team": " Roma",
+    "nations": ["İngiltere"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "William Bianda",
+    "position": "Stoper ",
+    "team": " Roma",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "37",
+    "name": "Leonardo Spinazzola",
+    "position": "Sol Bek ",
+    "team": " Roma",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Zeki Celik",
+    "position": "Sağ Bek ",
+    "team": " Roma",
+    "nations": ["Türkiye"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Rick Karsdorp",
+    "position": "Sağ Bek ",
+    "team": " Roma",
+    "nations": ["Hollanda"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Bryan Cristante",
+    "position": "Önlibero ",
+    "team": " Roma",
+    "nations": ["İtalya", "Kanada"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Nemanja Matić",
+    "position": "Önlibero ",
+    "team": " Roma",
+    "nations": ["Sırbistan", "Slovakya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "55",
+    "name": "Ebrima Darboe ",
+    "position": "Önlibero ",
+    "team": " Roma",
+    "nations": ["Gambiya"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Georginio Wijnaldum",
+    "position": "Merkez orta saha ",
+    "team": " Roma",
+    "nations": ["Hollanda", "Surinam"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Mady Camara",
+    "position": "Merkez orta saha ",
+    "team": " Roma",
+    "nations": ["Gine"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "11.00 mil. €"
+  },
+  {
+    "number": "52",
+    "name": "Edoardo Bove",
+    "position": "Merkez orta saha ",
+    "team": " Roma",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "68",
+    "name": "Benjamin Tahirovic",
+    "position": "Merkez orta saha ",
+    "team": " Roma",
+    "nations": ["Bosna-Hersek", "İsveç"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "59",
+    "name": "Nicola Zalewski",
+    "position": "Orta saha sol ",
+    "team": " Roma",
+    "nations": ["Polonya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Lorenzo Pellegrini",
+    "position": "On Numara ",
+    "team": " Roma",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "45.00 mil. €"
+  },
+  {
+    "number": "62",
+    "name": "Cristian Volpato",
+    "position": "On Numara ",
+    "team": " Roma",
+    "nations": ["İtalya", "Avustralya"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Ante Coric",
+    "position": "On Numara ",
+    "team": " Roma",
+    "nations": ["Hırvatistan"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "92",
+    "name": "Stephan El Shaarawy",
+    "position": "Sol Kanat ",
+    "team": " Roma",
+    "nations": ["İtalya", "Mısır"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Ola Solbakken",
+    "position": "Sağ Kanat ",
+    "team": " Roma",
+    "nations": ["Norveç"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Paulo Dybala",
+    "position": "Forvet Arkası ",
+    "team": " Roma",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Tammy Abraham",
+    "position": "Santrafor ",
+    "team": " Roma",
+    "nations": ["İngiltere", "Nijerya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "45.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Andrea Belotti",
+    "position": "Santrafor ",
+    "team": " Roma",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Juan Musso",
+    "position": "Kaleci ",
+    "team": " Atalanta",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "57",
+    "name": "Marco Sportiello",
+    "position": "Kaleci ",
+    "team": " Atalanta",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Francesco Rossi",
+    "position": "Kaleci ",
+    "team": " Atalanta",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Merih Demiral",
+    "position": "Stoper ",
+    "team": " Atalanta",
+    "nations": ["Türkiye"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Giorgio Scalvini",
+    "position": "Stoper ",
+    "team": " Atalanta",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Berat Djimsiti",
+    "position": "Stoper ",
+    "team": " Atalanta",
+    "nations": ["Arnavutluk", "İsviçre"],
+    "age": "30",
+    "contract": "30 Haz 2026",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Caleb Okoli",
+    "position": "Stoper ",
+    "team": " Atalanta",
+    "nations": ["İtalya", "Nijerya"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Rafael Tolói",
+    "position": "Stoper ",
+    "team": " Atalanta",
+    "nations": ["İtalya", "Brezilya"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "José Luis Palomino",
+    "position": "Stoper ",
+    "team": " Atalanta",
+    "nations": ["Arjantin"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Joakim Maehle",
+    "position": "Sol Bek ",
+    "team": " Atalanta",
+    "nations": ["Danimarka"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Matteo Ruggeri",
+    "position": "Sol Bek ",
+    "team": " Atalanta",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Hans Hateboer ",
+    "position": "Sağ Bek ",
+    "team": " Atalanta",
+    "nations": ["Hollanda"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "93",
+    "name": "Brandon Soppy",
+    "position": "Sağ Bek ",
+    "team": " Atalanta",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Davide Zappacosta",
+    "position": "Sağ Bek ",
+    "team": " Atalanta",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Teun Koopmeiners",
+    "position": "Önlibero ",
+    "team": " Atalanta",
+    "nations": ["Hollanda"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "30.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Marten de Roon",
+    "position": "Önlibero ",
+    "team": " Atalanta",
+    "nations": ["Hollanda"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Éderson",
+    "position": "Merkez orta saha ",
+    "team": " Atalanta",
+    "nations": ["Brezilya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Simone Muratore",
+    "position": "Merkez orta saha ",
+    "team": " Atalanta",
+    "nations": ["İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "88",
+    "name": "Mario Pasalic",
+    "position": "On Numara ",
+    "team": " Atalanta",
+    "nations": ["Hırvatistan"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Jérémie Boga",
+    "position": "Sol Kanat ",
+    "team": " Atalanta",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Lukas Vorlicky",
+    "position": "Sol Kanat ",
+    "team": " Atalanta",
+    "nations": ["Çek Cumhuriyeti"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "11",
+    "name": "Ademola Lookman",
+    "position": "Forvet Arkası ",
+    "team": " Atalanta",
+    "nations": ["Nijerya", "İngiltere"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "91",
+    "name": "Duván Zapata ",
+    "position": "Santrafor ",
+    "team": " Atalanta",
+    "nations": ["Kolombiya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Rasmus Højlund",
+    "position": "Santrafor ",
+    "team": " Atalanta",
+    "nations": ["Danimarka"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Luis Muriel",
+    "position": "Santrafor ",
+    "team": " Atalanta",
+    "nations": ["Kolombiya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Luís Maximiano",
+    "position": "Kaleci ",
+    "team": " Lazio",
+    "nations": ["Portekiz"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "94",
+    "name": "Ivan Provedel",
+    "position": "Kaleci ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Marius Adamonis",
+    "position": "Kaleci ",
+    "team": " Lazio",
+    "nations": ["Litvanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "13",
+    "name": "Alessio Romagnoli",
+    "position": "Stoper ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Nicolò Casale ",
+    "position": "Stoper ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Patric",
+    "position": "Stoper ",
+    "team": " Lazio",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2027",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Mario Gila",
+    "position": "Stoper ",
+    "team": " Lazio",
+    "nations": ["İspanya"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Luca Pellegrini",
+    "position": "Sol Bek ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Stefan Radu",
+    "position": "Sol Bek ",
+    "team": " Lazio",
+    "nations": ["Romanya"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Manuel Lazzari",
+    "position": "Sağ Bek ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2027",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Adam Marusic",
+    "position": "Sağ Bek ",
+    "team": " Lazio",
+    "nations": ["Karadağ", "Sırbistan"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Elseid Hysaj",
+    "position": "Sağ Bek ",
+    "team": " Lazio",
+    "nations": ["Arnavutluk"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Danilo Cataldi",
+    "position": "Önlibero ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "50",
+    "name": "Marco Bertini",
+    "position": "Önlibero ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "21",
+    "name": "Sergej Milinković-Savić",
+    "position": "Merkez orta saha ",
+    "team": " Lazio",
+    "nations": ["Sırbistan", "İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "60.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Luis Alberto",
+    "position": "Merkez orta saha ",
+    "team": " Lazio",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "18.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Marcos Antônio",
+    "position": "Merkez orta saha ",
+    "team": " Lazio",
+    "nations": ["Brezilya"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "88",
+    "name": "Toma Basic",
+    "position": "Merkez orta saha ",
+    "team": " Lazio",
+    "nations": ["Hırvatistan"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Matías Vecino",
+    "position": "Merkez orta saha ",
+    "team": " Lazio",
+    "nations": ["Uruguay", "İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "96",
+    "name": "Mohamed Fares",
+    "position": "Orta saha sol ",
+    "team": " Lazio",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Mattia Zaccagni",
+    "position": "Sol Kanat ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Diego González",
+    "position": "Sol Kanat ",
+    "team": " Lazio",
+    "nations": ["Paraguay"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "750 Bin €"
+  },
+  {
+    "number": "7",
+    "name": "Felipe Anderson",
+    "position": "Sağ Kanat ",
+    "team": " Lazio",
+    "nations": ["Brezilya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Matteo Cancellieri",
+    "position": "Sağ Kanat ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Pedro ",
+    "position": "Sağ Kanat ",
+    "team": " Lazio",
+    "nations": ["İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Luka Romero",
+    "position": "Sağ Kanat ",
+    "team": " Lazio",
+    "nations": ["Arjantin", "İspanya"],
+    "age": "18",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Ciro Immobile",
+    "position": "Santrafor ",
+    "team": " Lazio",
+    "nations": ["İtalya"],
+    "age": "33",
+    "contract": "30 Haz 2026",
+    "pd": "23.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Pietro Terracciano",
+    "position": "Kaleci ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "56",
+    "name": "Salvatore Sirigu",
+    "position": "Kaleci ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "31",
+    "name": "Michele Cerofolini",
+    "position": "Kaleci ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Nikola Milenković",
+    "position": "Stoper ",
+    "team": " Fiorentina",
+    "nations": ["Sırbistan"],
+    "age": "25",
+    "contract": "30 Haz 2027",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "98",
+    "name": "Igor",
+    "position": "Stoper ",
+    "team": " Fiorentina",
+    "nations": ["Brezilya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "11.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Lucas Martínez Quarta",
+    "position": "Stoper ",
+    "team": " Fiorentina",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Cristiano Biraghi",
+    "position": "Sol Bek ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Luca Ranieri",
+    "position": "Sol Bek ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "2.30 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Aleksa Terzić",
+    "position": "Sol Bek ",
+    "team": " Fiorentina",
+    "nations": ["Sırbistan"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Dodô",
+    "position": "Sağ Bek ",
+    "team": " Fiorentina",
+    "nations": ["Brezilya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "17.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Lorenzo Venuti",
+    "position": "Sağ Bek ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Sofyan Amrabat",
+    "position": "Önlibero ",
+    "team": " Fiorentina",
+    "nations": ["Fas", "Hollanda"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "25.00 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Rolando Mandragora",
+    "position": "Önlibero ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Gaetano Castrovilli",
+    "position": "Merkez orta saha ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Alfred Duncan",
+    "position": "Merkez orta saha ",
+    "team": " Fiorentina",
+    "nations": ["Gana", "İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Giacomo Bonaventura",
+    "position": "Merkez orta saha ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Alessandro Bianco",
+    "position": "Merkez orta saha ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "350 Bin €"
+  },
+  {
+    "number": "72",
+    "name": "Antonin Barak",
+    "position": "On Numara ",
+    "team": " Fiorentina",
+    "nations": ["Çek Cumhuriyeti"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Riccardo Saponara",
+    "position": "On Numara ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Nicolás González",
+    "position": "Sol Kanat ",
+    "team": " Fiorentina",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "23.00 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Riccardo Sottil",
+    "position": "Sol Kanat ",
+    "team": " Fiorentina",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Josip Brekalo",
+    "position": "Sol Kanat ",
+    "team": " Fiorentina",
+    "nations": ["Hırvatistan"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Jonathan Ikoné",
+    "position": "Sağ Kanat ",
+    "team": " Fiorentina",
+    "nations": ["Fransa", "Kongo DC"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Luka Jović",
+    "position": "Santrafor ",
+    "team": " Fiorentina",
+    "nations": ["Sırbistan", "Bosna-Hersek"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Christian Kouamé",
+    "position": "Santrafor ",
+    "team": " Fiorentina",
+    "nations": ["Fildişi Sahili", "İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Arthur Cabral",
+    "position": "Santrafor ",
+    "team": " Fiorentina",
+    "nations": ["Brezilya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "47",
+    "name": "Andrea Consigli",
+    "position": "Kaleci ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "36",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "64",
+    "name": "Alessandro Russo",
+    "position": "Kaleci ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "25",
+    "name": "Gianluca Pegolo",
+    "position": "Kaleci ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "41",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Martin Erlic",
+    "position": "Stoper ",
+    "team": " Sassuolo",
+    "nations": ["Hırvatistan"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "5.50 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Gian Marco Ferrari",
+    "position": "Stoper ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Ruan Tressoldi",
+    "position": "Stoper ",
+    "team": " Sassuolo",
+    "nations": ["Brezilya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "3.80 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Filippo Romagna",
+    "position": "Stoper ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "1.40 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Rogério",
+    "position": "Sol Bek ",
+    "team": " Sassuolo",
+    "nations": ["Brezilya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "5.80 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Riccardo Marchizza",
+    "position": "Sol Bek ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Mert Müldür",
+    "position": "Sağ Bek ",
+    "team": " Sassuolo",
+    "nations": ["Türkiye", "Avusturya"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Jeremy Toljan",
+    "position": "Sağ Bek ",
+    "team": " Sassuolo",
+    "nations": ["Almanya", "Amerika Birleşik Devletleri"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Nadir Zortea",
+    "position": "Sağ Bek ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Maxime López",
+    "position": "Önlibero ",
+    "team": " Sassuolo",
+    "nations": ["Fransa", "Cezayir"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "15.00 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Davide Frattesi",
+    "position": "Merkez orta saha ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Matheus Henrique",
+    "position": "Merkez orta saha ",
+    "team": " Sassuolo",
+    "nations": ["Brezilya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "8.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Abdou Harroui",
+    "position": "Merkez orta saha ",
+    "team": " Sassuolo",
+    "nations": ["Fas", "Hollanda"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Pedro Obiang",
+    "position": "Merkez orta saha ",
+    "team": " Sassuolo",
+    "nations": ["Ekvator Ginesi", "İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "42",
+    "name": "Kristian Thorstvedt",
+    "position": "On Numara ",
+    "team": " Sassuolo",
+    "nations": ["Norveç"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "8.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Nedim Bajrami",
+    "position": "On Numara ",
+    "team": " Sassuolo",
+    "nations": ["Arnavutluk", "İsviçre"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "45",
+    "name": "Armand Laurienté",
+    "position": "Sol Kanat ",
+    "team": " Sassuolo",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Emil Konradsen Ceide",
+    "position": "Sol Kanat ",
+    "team": " Sassuolo",
+    "nations": ["Norveç"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Domenico Berardi ",
+    "position": "Sağ Kanat ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "23.00 mil. €"
+  },
+  {
+    "number": "35",
+    "name": "Luca D'Andrea",
+    "position": "Sağ Kanat ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "18",
+    "contract": "30 Haz 2027",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Andrea Pinamonti",
+    "position": "Santrafor ",
+    "team": " Sassuolo",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Agustín Álvarez",
+    "position": "Santrafor ",
+    "team": " Sassuolo",
+    "nations": ["Uruguay"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "8.50 mil. €"
+  },
+  {
+    "number": "92",
+    "name": "Grégoire Defrel",
+    "position": "Santrafor ",
+    "team": " Sassuolo",
+    "nations": ["Martinique", "Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Vanja Milinković-Savić",
+    "position": "Kaleci ",
+    "team": " Torino",
+    "nations": ["Sırbistan", "İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Etrit Berisha ",
+    "position": "Kaleci ",
+    "team": " Torino",
+    "nations": ["Arnavutluk", "İsveç"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "89",
+    "name": "Luca Gemello",
+    "position": "Kaleci ",
+    "team": " Torino",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "73",
+    "name": "Matteo Fiorenza",
+    "position": "Kaleci ",
+    "team": " Torino",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "25 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Perr Schuurs",
+    "position": "Stoper ",
+    "team": " Torino",
+    "nations": ["Hollanda"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Andreaw Gravillon",
+    "position": "Stoper ",
+    "team": " Torino",
+    "nations": ["Guadeloupe", "Fransa"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "David Zima ",
+    "position": "Stoper ",
+    "team": " Torino",
+    "nations": ["Çek Cumhuriyeti"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "5.50 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Alessandro Buongiorno",
+    "position": "Stoper ",
+    "team": " Torino",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Ricardo Rodríguez",
+    "position": "Stoper ",
+    "team": " Torino",
+    "nations": ["İsviçre", "Şili"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Koffi Djidji",
+    "position": "Stoper ",
+    "team": " Torino",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Stephane Singo",
+    "position": "Sağ Bek ",
+    "team": " Torino",
+    "nations": ["Fildişi Sahili"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Valentino Lazaro ",
+    "position": "Sağ Bek ",
+    "team": " Torino",
+    "nations": ["Avusturya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Mërgim Vojvoda",
+    "position": "Sağ Bek ",
+    "team": " Torino",
+    "nations": ["Kosova", "Arnavutluk"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Ola Aina",
+    "position": "Sağ Bek ",
+    "team": " Torino",
+    "nations": ["Nijerya", "İngiltere"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Brian Bayeye",
+    "position": "Sağ Bek ",
+    "team": " Torino",
+    "nations": ["Fransa"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Samuele Ricci ",
+    "position": "Önlibero ",
+    "team": " Torino",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "-",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Ivan Ilić",
+    "position": "Merkez orta saha ",
+    "team": " Torino",
+    "nations": ["Sırbistan"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Karol Linetty",
+    "position": "Merkez orta saha ",
+    "team": " Torino",
+    "nations": ["Polonya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Ronaldo Vieira ",
+    "position": "Merkez orta saha ",
+    "team": " Torino",
+    "nations": ["İngiltere", "Gine-Bissau"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "66",
+    "name": "Gvidas Gineitis",
+    "position": "Merkez orta saha ",
+    "team": " Torino",
+    "nations": ["Litvanya"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "21",
+    "name": "Michel Adopo",
+    "position": "Merkez orta saha ",
+    "team": " Torino",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "16",
+    "name": "Nikola Vlasic ",
+    "position": "On Numara ",
+    "team": " Torino",
+    "nations": ["Hırvatistan"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "20.00 mil. €"
+  },
+  {
+    "number": "59",
+    "name": "Aleksey Miranchuk",
+    "position": "On Numara ",
+    "team": " Torino",
+    "nations": ["Rusya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "49",
+    "name": "Nemanja Radonjić",
+    "position": "Sol Kanat ",
+    "team": " Torino",
+    "nations": ["Sırbistan"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Yann Karamoh",
+    "position": "Sol Kanat ",
+    "team": " Torino",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Demba Seck",
+    "position": "Sağ Kanat ",
+    "team": " Torino",
+    "nations": ["Senegal"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Antonio Sanabria",
+    "position": "Santrafor ",
+    "team": " Torino",
+    "nations": ["Paraguay", "İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Pietro Pellegri ",
+    "position": "Santrafor ",
+    "team": " Torino",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Marco Silvestri",
+    "position": "Kaleci ",
+    "team": " Udinese",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Daniele Padelli",
+    "position": "Kaleci ",
+    "team": " Udinese",
+    "nations": ["İtalya"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "99",
+    "name": "Edoardo Piana",
+    "position": "Kaleci ",
+    "team": " Udinese",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "-",
+    "pd": "50 Bin €"
+  },
+  {
+    "number": "29",
+    "name": "Jaka Bijol",
+    "position": "Stoper ",
+    "team": " Udinese",
+    "nations": ["Slovenya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "50",
+    "name": "Rodrigo Becão",
+    "position": "Stoper ",
+    "team": " Udinese",
+    "nations": ["Brezilya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Nehuén Pérez",
+    "position": "Stoper ",
+    "team": " Udinese",
+    "nations": ["Arjantin"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Enzo Ebosse ",
+    "position": "Stoper ",
+    "team": " Udinese",
+    "nations": ["Kamerun", "Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "67",
+    "name": "Axel Guessand",
+    "position": "Stoper ",
+    "team": " Udinese",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "18",
+    "contract": "30 Haz 2027",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "14",
+    "name": "James Abankwah",
+    "position": "Stoper ",
+    "team": " Udinese",
+    "nations": ["İrlanda", "Gana"],
+    "age": "19",
+    "contract": "30 Haz 2026",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "13",
+    "name": "Destiny Udogie",
+    "position": "Sol Bek ",
+    "team": " Udinese",
+    "nations": ["İtalya", "Nijerya"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "22.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Adam Masina",
+    "position": "Sol Bek ",
+    "team": " Udinese",
+    "nations": ["Fas", "İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Leonardo Buta",
+    "position": "Sol Bek ",
+    "team": " Udinese",
+    "nations": ["Portekiz", "Angola"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Festy Ebosele",
+    "position": "Sağ Bek ",
+    "team": " Udinese",
+    "nations": ["İrlanda", "Nijerya"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Kingsley Ehizibue ",
+    "position": "Sağ Bek ",
+    "team": " Udinese",
+    "nations": ["Hollanda", "Nijerya"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "1.30 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Walace",
+    "position": "Önlibero ",
+    "team": " Udinese",
+    "nations": ["Brezilya"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Roberto Pereyra",
+    "position": "Merkez orta saha ",
+    "team": " Udinese",
+    "nations": ["Arjantin"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Sandi Lovric",
+    "position": "Merkez orta saha ",
+    "team": " Udinese",
+    "nations": ["Slovenya", "Avusturya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Tolgay Arslan",
+    "position": "Merkez orta saha ",
+    "team": " Udinese",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Lazar Samardzic",
+    "position": "On Numara ",
+    "team": " Udinese",
+    "nations": ["Sırbistan", "Almanya"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "80",
+    "name": "Simone Pafundi",
+    "position": "On Numara ",
+    "team": " Udinese",
+    "nations": ["İtalya"],
+    "age": "16",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Florian Thauvin",
+    "position": "Sağ Kanat ",
+    "team": " Udinese",
+    "nations": ["Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Gerard Deulofeu ",
+    "position": "Santrafor ",
+    "team": " Udinese",
+    "nations": ["İspanya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "16.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Beto",
+    "position": "Santrafor ",
+    "team": " Udinese",
+    "nations": ["Portekiz", "Gine-Bissau"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "13.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Isaac Success",
+    "position": "Santrafor ",
+    "team": " Udinese",
+    "nations": ["Nijerya"],
+    "age": "27",
+    "contract": "30 Haz 2024",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Ilija Nestorovski",
+    "position": "Santrafor ",
+    "team": " Udinese",
+    "nations": ["Kuzey Makedonya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "39",
+    "name": "Vivaldo",
+    "position": "Santrafor ",
+    "team": " Udinese",
+    "nations": ["Portekiz", "Angola"],
+    "age": "18",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Lukasz Skorupski",
+    "position": "Kaleci ",
+    "team": " Bologna",
+    "nations": ["Polonya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Francesco Bardi",
+    "position": "Kaleci ",
+    "team": " Bologna",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "34",
+    "name": "Federico Ravaglia",
+    "position": "Kaleci ",
+    "team": " Bologna",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "450 Bin €"
+  },
+  {
+    "number": "23",
+    "name": "Nicola Bagnolini ",
+    "position": "Kaleci ",
+    "team": " Bologna",
+    "nations": ["İtalya"],
+    "age": "18",
+    "contract": "30 Haz 2026",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "26",
+    "name": "Jhon Lucumí",
+    "position": "Stoper ",
+    "team": " Bologna",
+    "nations": ["Kolombiya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Stefan Posch",
+    "position": "Stoper ",
+    "team": " Bologna",
+    "nations": ["Avusturya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Adama Soumaoro",
+    "position": "Stoper ",
+    "team": " Bologna",
+    "nations": ["Fransa", "Mali"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Kevin Bonifazi",
+    "position": "Stoper ",
+    "team": " Bologna",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "3.30 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Joaquín Sosa",
+    "position": "Stoper ",
+    "team": " Bologna",
+    "nations": ["Uruguay", "İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "66",
+    "name": "Wisdom Amey",
+    "position": "Stoper ",
+    "team": " Bologna",
+    "nations": ["Togo"],
+    "age": "17",
+    "contract": "30 Haz 2025",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "-",
+    "name": "Gabriele Corbo",
+    "position": "Stoper ",
+    "team": " Bologna",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "50",
+    "name": "Andrea Cambiaso",
+    "position": "Sol Bek ",
+    "team": " Bologna",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Georgios Kyriakopoulos",
+    "position": "Sol Bek ",
+    "team": " Bologna",
+    "nations": ["Yunanistan"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Charalampos Lykogiannis",
+    "position": "Sol Bek ",
+    "team": " Bologna",
+    "nations": ["Yunanistan"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Lorenzo De Silvestri",
+    "position": "Sağ Bek ",
+    "team": " Bologna",
+    "nations": ["İtalya"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Jerdy Schouten",
+    "position": "Önlibero ",
+    "team": " Bologna",
+    "nations": ["Hollanda"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "8.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Nikola Moro",
+    "position": "Önlibero ",
+    "team": " Bologna",
+    "nations": ["Hırvatistan"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Gary Medel",
+    "position": "Önlibero ",
+    "team": " Bologna",
+    "nations": ["Şili", "İspanya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "82",
+    "name": "Kacper Urbanski",
+    "position": "Önlibero ",
+    "team": " Bologna",
+    "nations": ["Polonya"],
+    "age": "18",
+    "contract": "30 Haz 2023",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "8",
+    "name": "Nicolás Domínguez",
+    "position": "Merkez orta saha ",
+    "team": " Bologna",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Lewis Ferguson",
+    "position": "Merkez orta saha ",
+    "team": " Bologna",
+    "nations": ["İskoçya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Michel Aebischer",
+    "position": "Merkez orta saha ",
+    "team": " Bologna",
+    "nations": ["İsviçre"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Niklas Pyyhtiä",
+    "position": "Merkez orta saha ",
+    "team": " Bologna",
+    "nations": ["Finlandiya"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "21",
+    "name": "Roberto Soriano",
+    "position": "On Numara ",
+    "team": " Bologna",
+    "nations": ["İtalya", "Almanya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Musa Barrow",
+    "position": "Sol Kanat ",
+    "team": " Bologna",
+    "nations": ["Gambiya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Nicola Sansone",
+    "position": "Sol Kanat ",
+    "team": " Bologna",
+    "nations": ["İtalya", "Almanya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Riccardo Orsolini",
+    "position": "Sağ Kanat ",
+    "team": " Bologna",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "-",
+    "name": "Orji Okwonkwo ",
+    "position": "Sağ Kanat ",
+    "team": " Bologna",
+    "nations": ["Nijerya"],
+    "age": "25",
+    "contract": "30 Haz 2024",
+    "pd": "-"
+  },
+  {
+    "number": "11",
+    "name": "Joshua Zirkzee",
+    "position": "Santrafor ",
+    "team": " Bologna",
+    "nations": ["Hollanda", "Nijerya"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "11.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Marko Arnautovic ",
+    "position": "Santrafor ",
+    "team": " Bologna",
+    "nations": ["Avusturya", "Sırbistan"],
+    "age": "33",
+    "contract": "30 Haz 2025",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Antonio Raimondo",
+    "position": "Santrafor ",
+    "team": " Bologna",
+    "nations": ["İtalya"],
+    "age": "18",
+    "contract": "30 Haz 2027",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "16",
+    "name": "Michele Di Gregorio",
+    "position": "Kaleci ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "89",
+    "name": "Alessio Cragno",
+    "position": "Kaleci ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "91",
+    "name": "Alessandro Sorrentino",
+    "position": "Kaleci ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "1",
+    "name": "Eugenio Lamanna",
+    "position": "Kaleci ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "33",
+    "contract": "-",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Marlon",
+    "position": "Stoper ",
+    "team": " AC Monza",
+    "nations": ["Brezilya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Pablo Marí",
+    "position": "Stoper ",
+    "team": " AC Monza",
+    "nations": ["İspanya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "55",
+    "name": "Armando Izzo",
+    "position": "Stoper ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "2.80 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Luca Caldirola",
+    "position": "Stoper ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Valentin Antov",
+    "position": "Stoper ",
+    "team": " AC Monza",
+    "nations": ["Bulgaristan"],
+    "age": "22",
+    "contract": "-",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "34",
+    "name": "Luca Marrone",
+    "position": "Stoper ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Carlos Augusto",
+    "position": "Sol Bek ",
+    "team": " AC Monza",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Franco Carboni",
+    "position": "Sol Bek ",
+    "team": " AC Monza",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Samuele Birindelli",
+    "position": "Sağ Bek ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.30 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Giulio Donati",
+    "position": "Sağ Bek ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "Nicolò Rovella ",
+    "position": "Önlibero ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Andrea Barberis",
+    "position": "Önlibero ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "1.30 mil. €"
+  },
+  {
+    "number": "12",
+    "name": "Stefano Sensi",
+    "position": "Merkez orta saha ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Andrea Colpani",
+    "position": "Merkez orta saha ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Filippo Ranocchia",
+    "position": "Merkez orta saha ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Mattia Valoti",
+    "position": "Merkez orta saha ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "1.70 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "José Machín",
+    "position": "Merkez orta saha ",
+    "team": " AC Monza",
+    "nations": ["Ekvator Ginesi", "İspanya"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Matteo Pessina",
+    "position": "On Numara ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "14.00 mil. €"
+  },
+  {
+    "number": "80",
+    "name": "Samuele Vignato",
+    "position": "On Numara ",
+    "team": " AC Monza",
+    "nations": ["İtalya", "Brezilya"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "84",
+    "name": "Patrick Ciurria",
+    "position": "Sağ Kanat ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Marco D'Alessandro",
+    "position": "Sağ Kanat ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "17",
+    "name": "Gianluca Caprari",
+    "position": "Forvet Arkası ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Andrea Petagna",
+    "position": "Santrafor ",
+    "team": " AC Monza",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "10.00 mil. €"
+  },
+  {
+    "number": "47",
+    "name": "Dany Mota",
+    "position": "Santrafor ",
+    "team": " AC Monza",
+    "nations": ["Portekiz", "Lüksemburg"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "5.50 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Mirko Maric",
+    "position": "Santrafor ",
+    "team": " AC Monza",
+    "nations": ["Hırvatistan", "Bosna-Hersek"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "1.70 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Christian Gytkjaer",
+    "position": "Santrafor ",
+    "team": " AC Monza",
+    "nations": ["Danimarka"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "1.30 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Luigi Sepe",
+    "position": "Kaleci ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Guillermo Ochoa",
+    "position": "Kaleci ",
+    "team": " US Salernitana 1919",
+    "nations": ["Meksika", "İspanya"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "1.20 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Vincenzo Fiorillo",
+    "position": "Kaleci ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "33",
+    "contract": "30 Haz 2025",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Flavius Daniliuc",
+    "position": "Stoper ",
+    "team": " US Salernitana 1919",
+    "nations": ["Avusturya"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "66",
+    "name": "Matteo Lovato",
+    "position": "Stoper ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2027",
+    "pd": "6.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Dylan Bronn",
+    "position": "Stoper ",
+    "team": " US Salernitana 1919",
+    "nations": ["Tunus", "Fransa"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "William Troost-Ekong ",
+    "position": "Stoper ",
+    "team": " US Salernitana 1919",
+    "nations": ["Nijerya", "Hollanda"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "98",
+    "name": "Lorenzo Pirola",
+    "position": "Stoper ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Norbert Gyomber",
+    "position": "Stoper ",
+    "team": " US Salernitana 1919",
+    "nations": ["Slovakya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Federico Fazio ",
+    "position": "Stoper ",
+    "team": " US Salernitana 1919",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "35",
+    "contract": "30 Haz 2024",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Domagoj Bradaric",
+    "position": "Sol Bek ",
+    "team": " US Salernitana 1919",
+    "nations": ["Hırvatistan"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Pasquale Mazzocchi",
+    "position": "Sağ Bek ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Junior Sambia",
+    "position": "Sağ Bek ",
+    "team": " US Salernitana 1919",
+    "nations": ["Fransa", "Orta Afrika Cumhuriyeti"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Giulio Maggiore",
+    "position": "Merkez orta saha ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Emil Bohinen",
+    "position": "Merkez orta saha ",
+    "team": " US Salernitana 1919",
+    "nations": ["Norveç"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Lassana Coulibaly",
+    "position": "Merkez orta saha ",
+    "team": " US Salernitana 1919",
+    "nations": ["Mali"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Tonny Vilhena",
+    "position": "Merkez orta saha ",
+    "team": " US Salernitana 1919",
+    "nations": ["Hollanda", "Angola"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "3.80 mil. €"
+  },
+  {
+    "number": "41",
+    "name": "Hans Nicolussi Caviglia",
+    "position": "Merkez orta saha ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Domen Crnigoj",
+    "position": "Merkez orta saha ",
+    "team": " US Salernitana 1919",
+    "nations": ["Slovenya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Grigoris Kastanos",
+    "position": "Merkez orta saha ",
+    "team": " US Salernitana 1919",
+    "nations": ["Kıbrıs"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "1.30 mil. €"
+  },
+  {
+    "number": "39",
+    "name": "Antonio Pio Iervolino",
+    "position": "Merkez orta saha ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2024",
+    "pd": "75 Bin €"
+  },
+  {
+    "number": "87",
+    "name": "Antonio Candreva",
+    "position": "Orta saha sağ ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Boulaye Dia",
+    "position": "Santrafor ",
+    "team": " US Salernitana 1919",
+    "nations": ["Senegal", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Krzysztof Piatek",
+    "position": "Santrafor ",
+    "team": " US Salernitana 1919",
+    "nations": ["Polonya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "11.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Federico Bonazzoli",
+    "position": "Santrafor ",
+    "team": " US Salernitana 1919",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Erik Botheim",
+    "position": "Santrafor ",
+    "team": " US Salernitana 1919",
+    "nations": ["Norveç"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "3.80 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Diego Valencia",
+    "position": "Santrafor ",
+    "team": " US Salernitana 1919",
+    "nations": ["Şili"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Guglielmo Vicario",
+    "position": "Kaleci ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "-",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Samuele Perisan",
+    "position": "Kaleci ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Samir Ujkani",
+    "position": "Kaleci ",
+    "team": " Empoli",
+    "nations": ["Kosova", "Arnavutluk"],
+    "age": "34",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Lovro Stubljar",
+    "position": "Kaleci ",
+    "team": " Empoli",
+    "nations": ["Slovenya"],
+    "age": "18",
+    "contract": "-",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "6",
+    "name": "Koni De Winter",
+    "position": "Stoper ",
+    "team": " Empoli",
+    "nations": ["Belçika"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Sebastian Walukiewicz",
+    "position": "Stoper ",
+    "team": " Empoli",
+    "nations": ["Polonya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Sebastiano Luperto",
+    "position": "Stoper ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Ardian Ismajli",
+    "position": "Stoper ",
+    "team": " Empoli",
+    "nations": ["Arnavutluk", "Kosova"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "2.20 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Lorenzo Tonelli",
+    "position": "Stoper ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "36",
+    "name": "Gabriele Guarino",
+    "position": "Stoper ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "18",
+    "contract": "-",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "65",
+    "name": "Fabiano Parisi",
+    "position": "Sol Bek ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Liberato Cacace",
+    "position": "Sol Bek ",
+    "team": " Empoli",
+    "nations": ["Yeni Zelanda", "İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Petar Stojanovic",
+    "position": "Sağ Bek ",
+    "team": " Empoli",
+    "nations": ["Slovenya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "2.80 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Tyronne Ebuehi",
+    "position": "Sağ Bek ",
+    "team": " Empoli",
+    "nations": ["Nijerya", "Hollanda"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "1.40 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Duccio Degli Innocenti",
+    "position": "Önlibero ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2023",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "18",
+    "name": "Razvan Marin",
+    "position": "Merkez orta saha ",
+    "team": " Empoli",
+    "nations": ["Romanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Filippo Bandinelli",
+    "position": "Merkez orta saha ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Liam Henderson",
+    "position": "Merkez orta saha ",
+    "team": " Empoli",
+    "nations": ["İskoçya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Nicolas Haas",
+    "position": "Merkez orta saha ",
+    "team": " Empoli",
+    "nations": ["İsviçre"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Alberto Grassi",
+    "position": "Merkez orta saha ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Jean-Daniel Akpa Akpro",
+    "position": "Merkez orta saha ",
+    "team": " Empoli",
+    "nations": ["Fildişi Sahili", "Fransa"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "1.40 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Jacopo Fazzini",
+    "position": "Merkez orta saha ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "35",
+    "name": "Tommaso Baldanzi",
+    "position": "On Numara ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Marko Pjaca",
+    "position": "Sol Kanat ",
+    "team": " Empoli",
+    "nations": ["Hırvatistan"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Nicolò Cambiaghi ",
+    "position": "Sol Kanat ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "55",
+    "name": "Emanuel Vignato",
+    "position": "Sağ Kanat ",
+    "team": " Empoli",
+    "nations": ["İtalya", "Brezilya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Martín Satriano",
+    "position": "Santrafor ",
+    "team": " Empoli",
+    "nations": ["Uruguay", "İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "91",
+    "name": "Roberto Piccoli",
+    "position": "Santrafor ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Mattia Destro ",
+    "position": "Santrafor ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Francesco Caputo",
+    "position": "Santrafor ",
+    "team": " Empoli",
+    "nations": ["İtalya"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "69",
+    "name": "Bartlomiej Dragowski",
+    "position": "Kaleci ",
+    "team": " Spezia Calcio",
+    "nations": ["Polonya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Jeroen Zoet",
+    "position": "Kaleci ",
+    "team": " Spezia Calcio",
+    "nations": ["Hollanda"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "40",
+    "name": "Petar Zovko",
+    "position": "Kaleci ",
+    "team": " Spezia Calcio",
+    "nations": ["Bosna-Hersek"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Federico Marchetti",
+    "position": "Kaleci ",
+    "team": " Spezia Calcio",
+    "nations": ["İtalya"],
+    "age": "40",
+    "contract": "30 Haz 2023",
+    "pd": "50 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Ethan Ampadu",
+    "position": "Stoper ",
+    "team": " Spezia Calcio",
+    "nations": ["Galler", "İngiltere"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "9.00 mil. €"
+  },
+  {
+    "number": "43",
+    "name": "Dimitrios Nikolaou",
+    "position": "Stoper ",
+    "team": " Spezia Calcio",
+    "nations": ["Yunanistan"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "3.80 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Mattia Caldara",
+    "position": "Stoper ",
+    "team": " Spezia Calcio",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "55",
+    "name": "Przemyslaw Wisniewski",
+    "position": "Stoper ",
+    "team": " Spezia Calcio",
+    "nations": ["Polonya"],
+    "age": "24",
+    "contract": "30 Haz 2027",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Arkadiusz Reca",
+    "position": "Sol Bek ",
+    "team": " Spezia Calcio",
+    "nations": ["Polonya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "João Moutinho ",
+    "position": "Sol Bek ",
+    "team": " Spezia Calcio",
+    "nations": ["Portekiz"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Kelvin Amian",
+    "position": "Sağ Bek ",
+    "team": " Spezia Calcio",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Emil Holm ",
+    "position": "Sağ Bek ",
+    "team": " Spezia Calcio",
+    "nations": ["İsveç"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Salva Ferrer",
+    "position": "Sağ Bek ",
+    "team": " Spezia Calcio",
+    "nations": ["İspanya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Salvatore Esposito",
+    "position": "Önlibero ",
+    "team": " Spezia Calcio",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Mehdi Bourabia",
+    "position": "Önlibero ",
+    "team": " Spezia Calcio",
+    "nations": ["Fas", "Fransa"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "1.30 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Albin Ekdal",
+    "position": "Önlibero ",
+    "team": " Spezia Calcio",
+    "nations": ["İsveç"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "20",
+    "name": "Simone Bastoni ",
+    "position": "Merkez orta saha ",
+    "team": " Spezia Calcio",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "7.50 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Szymon Zurkowski ",
+    "position": "Merkez orta saha ",
+    "team": " Spezia Calcio",
+    "nations": ["Polonya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "5.80 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Jacopo Sala",
+    "position": "Merkez orta saha ",
+    "team": " Spezia Calcio",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "72",
+    "name": "Tio Cipot",
+    "position": "Merkez orta saha ",
+    "team": " Spezia Calcio",
+    "nations": ["Slovenya"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "16",
+    "name": "Julius Beck",
+    "position": "Merkez orta saha ",
+    "team": " Spezia Calcio",
+    "nations": ["Danimarka"],
+    "age": "17",
+    "contract": "30 Haz 2024",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "33",
+    "name": "Kevin Agudelo",
+    "position": "On Numara ",
+    "team": " Spezia Calcio",
+    "nations": ["Kolombiya"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Viktor Kovalenko",
+    "position": "On Numara ",
+    "team": " Spezia Calcio",
+    "nations": ["Ukrayna"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Daniel Maldini",
+    "position": "On Numara ",
+    "team": " Spezia Calcio",
+    "nations": ["İtalya", "Venezuela"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Emmanuel Gyasi",
+    "position": "Sol Kanat ",
+    "team": " Spezia Calcio",
+    "nations": ["Gana", "İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Daniele Verde",
+    "position": "Sağ Kanat ",
+    "team": " Spezia Calcio",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Eldor Shomurodov",
+    "position": "Santrafor ",
+    "team": " Spezia Calcio",
+    "nations": ["Özbekistan"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "7.00 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "M'Bala Nzola",
+    "position": "Santrafor ",
+    "team": " Spezia Calcio",
+    "nations": ["Angola", "Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2024",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Raimonds Krollis",
+    "position": "Santrafor ",
+    "team": " Spezia Calcio",
+    "nations": ["Letonya"],
+    "age": "21",
+    "contract": "30 Haz 2026",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Lorenzo Montipò",
+    "position": "Kaleci ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Simone Perilli",
+    "position": "Kaleci ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Alessandro Berardi",
+    "position": "Kaleci ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "50 Bin €"
+  },
+  {
+    "number": "27",
+    "name": "Pawel Dawidowicz",
+    "position": "Stoper ",
+    "team": " Hellas Verona",
+    "nations": ["Polonya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Isak Hien",
+    "position": "Stoper ",
+    "team": " Hellas Verona",
+    "nations": ["İsveç", "Burkina Faso"],
+    "age": "24",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Federico Ceccherini ",
+    "position": "Stoper ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "42",
+    "name": "Diego Coppola",
+    "position": "Stoper ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya", "Hollanda"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Giangiacomo Magnani",
+    "position": "Stoper ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2025",
+    "pd": "2.80 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Juan Cabal",
+    "position": "Stoper ",
+    "team": " Hellas Verona",
+    "nations": ["Kolombiya"],
+    "age": "22",
+    "contract": "30 Haz 2027",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "3",
+    "name": "Josh Doig",
+    "position": "Sol Bek ",
+    "team": " Hellas Verona",
+    "nations": ["İskoçya"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Davide Faraoni",
+    "position": "Sağ Bek ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2025",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Fabio Depaoli",
+    "position": "Sağ Bek ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Deyovaisio Zeefuik",
+    "position": "Sağ Bek ",
+    "team": " Hellas Verona",
+    "nations": ["Hollanda", "Surinam"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "61",
+    "name": "Adrien Tamèze",
+    "position": "Önlibero ",
+    "team": " Hellas Verona",
+    "nations": ["Kamerun", "Fransa"],
+    "age": "29",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Oliver Abildgaard",
+    "position": "Önlibero ",
+    "team": " Hellas Verona",
+    "nations": ["Danimarka"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "5.00 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Ibrahim Sulemana ",
+    "position": "Önlibero ",
+    "team": " Hellas Verona",
+    "nations": ["Gana"],
+    "age": "19",
+    "contract": "-",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Miguel Veloso ",
+    "position": "Önlibero ",
+    "team": " Hellas Verona",
+    "nations": ["Portekiz"],
+    "age": "36",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "24",
+    "name": "Filippo Terracciano",
+    "position": "Merkez orta saha ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2026",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Darko Lazović",
+    "position": "Orta saha sol ",
+    "team": " Hellas Verona",
+    "nations": ["Sırbistan"],
+    "age": "32",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Simone Verdi",
+    "position": "On Numara ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Ondrej Duda",
+    "position": "On Numara ",
+    "team": " Hellas Verona",
+    "nations": ["Slovakya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Ajdin Hrustic ",
+    "position": "On Numara ",
+    "team": " Hellas Verona",
+    "nations": ["Avustralya", "Bosna-Hersek"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Yayah Kallon",
+    "position": "Sağ Kanat ",
+    "team": " Hellas Verona",
+    "nations": ["Sierra Leone"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Cyril Ngonge",
+    "position": "Sağ Kanat ",
+    "team": " Hellas Verona",
+    "nations": ["Belçika", "Kongo DC"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "1.30 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Thomas Henry ",
+    "position": "Santrafor ",
+    "team": " Hellas Verona",
+    "nations": ["Fransa"],
+    "age": "28",
+    "contract": "30 Haz 2026",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Kevin Lasagna",
+    "position": "Santrafor ",
+    "team": " Hellas Verona",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "38",
+    "name": "Adolfo Gaich",
+    "position": "Santrafor ",
+    "team": " Hellas Verona",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "1.80 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Milan Djuric ",
+    "position": "Santrafor ",
+    "team": " Hellas Verona",
+    "nations": ["Bosna-Hersek", "İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Jayden Braaf",
+    "position": "Santrafor ",
+    "team": " Hellas Verona",
+    "nations": ["Hollanda", "Surinam"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "30",
+    "name": "Wladimiro Falcone",
+    "position": "Kaleci ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "1",
+    "name": "Marco Bleve",
+    "position": "Kaleci ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "21",
+    "name": "Federico Brancolini",
+    "position": "Kaleci ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "36",
+    "name": "Jasper Samooja",
+    "position": "Kaleci ",
+    "team": " US Lecce",
+    "nations": ["Finlandiya"],
+    "age": "19",
+    "contract": "-",
+    "pd": "75 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Marin Pongracic ",
+    "position": "Stoper ",
+    "team": " US Lecce",
+    "nations": ["Hırvatistan", "Almanya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Federico Baschirotto ",
+    "position": "Stoper ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "2.20 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Pietro Ceccaroni",
+    "position": "Stoper ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "93",
+    "name": "Samuel Umtiti",
+    "position": "Stoper ",
+    "team": " US Lecce",
+    "nations": ["Fransa", "Kamerun"],
+    "age": "29",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Simone Romagnoli",
+    "position": "Stoper ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "33",
+    "contract": "-",
+    "pd": "750 Bin €"
+  },
+  {
+    "number": "13",
+    "name": "Alessandro Tuia",
+    "position": "Stoper ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Kastriot Dermaku ",
+    "position": "Stoper ",
+    "team": " US Lecce",
+    "nations": ["Arnavutluk", "İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "97",
+    "name": "Giuseppe Pezzella",
+    "position": "Sol Bek ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2023",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "25",
+    "name": "Antonino Gallo",
+    "position": "Sol Bek ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Valentin Gendrey",
+    "position": "Sağ Bek ",
+    "team": " US Lecce",
+    "nations": ["Fransa", "Guadeloupe"],
+    "age": "22",
+    "contract": "30 Haz 2024",
+    "pd": "2.60 mil. €"
+  },
+  {
+    "number": "84",
+    "name": "Tommaso Cassandro",
+    "position": "Sağ Bek ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "83",
+    "name": "Mats Lemmens",
+    "position": "Sağ Bek ",
+    "team": " US Lecce",
+    "nations": ["Belçika"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "42",
+    "name": "Morten Hjulmand",
+    "position": "Önlibero ",
+    "team": " US Lecce",
+    "nations": ["Danimarka"],
+    "age": "23",
+    "contract": "30 Haz 2024",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Daniel Samek",
+    "position": "Önlibero ",
+    "team": " US Lecce",
+    "nations": ["Çek Cumhuriyeti"],
+    "age": "19",
+    "contract": "30 Haz 2027",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Alexis Blin",
+    "position": "Önlibero ",
+    "team": " US Lecce",
+    "nations": ["Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "32",
+    "name": "Youssef Maleh",
+    "position": "Merkez orta saha ",
+    "team": " US Lecce",
+    "nations": ["Fas", "İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "16",
+    "name": "Joan González",
+    "position": "Merkez orta saha ",
+    "team": " US Lecce",
+    "nations": ["İspanya"],
+    "age": "21",
+    "contract": "30 Haz 2027",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Kristoffer Askildsen",
+    "position": "Merkez orta saha ",
+    "team": " US Lecce",
+    "nations": ["Norveç"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "14",
+    "name": "Thórir Jóhann Helgason",
+    "position": "Merkez orta saha ",
+    "team": " US Lecce",
+    "nations": ["İzlanda"],
+    "age": "22",
+    "contract": "30 Haz 2025",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "80",
+    "name": "Medon Berisha",
+    "position": "Merkez orta saha ",
+    "team": " US Lecce",
+    "nations": ["Arnavutluk", "Kosova"],
+    "age": "19",
+    "contract": "-",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Lameck Banda",
+    "position": "Sol Kanat ",
+    "team": " US Lecce",
+    "nations": ["Zambiya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "11",
+    "name": "Federico Di Francesco",
+    "position": "Sol Kanat ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Gabriel Strefezza",
+    "position": "Sağ Kanat ",
+    "team": " US Lecce",
+    "nations": ["Brezilya", "İtalya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "8.50 mil. €"
+  },
+  {
+    "number": "28",
+    "name": "Rémi Oudin",
+    "position": "Sağ Kanat ",
+    "team": " US Lecce",
+    "nations": ["Fransa"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Lorenzo Colombo",
+    "position": "Santrafor ",
+    "team": " US Lecce",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "Assan Ceesay",
+    "position": "Santrafor ",
+    "team": " US Lecce",
+    "nations": ["Gambiya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Joel Voelkerling Persson",
+    "position": "Santrafor ",
+    "team": " US Lecce",
+    "nations": ["İsveç"],
+    "age": "20",
+    "contract": "30 Haz 2027",
+    "pd": "600 Bin €"
+  },
+  {
+    "number": "1",
+    "name": "Emil Audero",
+    "position": "Kaleci ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2026",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "22",
+    "name": "Martin Turk",
+    "position": "Kaleci ",
+    "team": " Sampdoria",
+    "nations": ["Slovenya"],
+    "age": "19",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "30",
+    "name": "Nicola Ravaglia",
+    "position": "Kaleci ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "34",
+    "contract": "30 Haz 2024",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "4",
+    "name": "Koray Günter",
+    "position": "Stoper ",
+    "team": " Sampdoria",
+    "nations": ["Almanya", "Türkiye"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Jeison Murillo ",
+    "position": "Stoper ",
+    "team": " Sampdoria",
+    "nations": ["Kolombiya", "İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "2",
+    "name": "Bruno Amione",
+    "position": "Stoper ",
+    "team": " Sampdoria",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Bram Nuytinck",
+    "position": "Stoper ",
+    "team": " Sampdoria",
+    "nations": ["Hollanda"],
+    "age": "32",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "5",
+    "name": "Marios Oikonomou",
+    "position": "Stoper ",
+    "team": " Sampdoria",
+    "nations": ["Yunanistan"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "300 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Tommaso Augello",
+    "position": "Sol Bek ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "29",
+    "name": "Nicola Murru",
+    "position": "Sol Bek ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2024",
+    "pd": "1.60 mil. €"
+  },
+  {
+    "number": "59",
+    "name": "Alessandro Zanoli",
+    "position": "Sağ Bek ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Andrea Conti ",
+    "position": "Sağ Bek ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2025",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Harry Winks",
+    "position": "Önlibero ",
+    "team": " Sampdoria",
+    "nations": ["İngiltere"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "12.00 mil. €"
+  },
+  {
+    "number": "8",
+    "name": "Tomás Rincón",
+    "position": "Önlibero ",
+    "team": " Sampdoria",
+    "nations": ["Venezuela"],
+    "age": "35",
+    "contract": "30 Haz 2023",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "36",
+    "name": "Flavio Paoletti",
+    "position": "Önlibero ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Gerard Yepes",
+    "position": "Önlibero ",
+    "team": " Sampdoria",
+    "nations": ["İspanya"],
+    "age": "20",
+    "contract": "30 Haz 2025",
+    "pd": "500 Bin €"
+  },
+  {
+    "number": "26",
+    "name": "Emirhan Ilkhan",
+    "position": "Merkez orta saha ",
+    "team": " Sampdoria",
+    "nations": ["Türkiye"],
+    "age": "18",
+    "contract": "30 Haz 2023",
+    "pd": "4.50 mil. €"
+  },
+  {
+    "number": "80",
+    "name": "Michaël Cuisance",
+    "position": "Merkez orta saha ",
+    "team": " Sampdoria",
+    "nations": ["Fransa"],
+    "age": "23",
+    "contract": "30 Haz 2023",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "37",
+    "name": "Mehdi Léris",
+    "position": "Orta saha sağ ",
+    "team": " Sampdoria",
+    "nations": ["Cezayir", "Fransa"],
+    "age": "24",
+    "contract": "30 Haz 2024",
+    "pd": "2.20 mil. €"
+  },
+  {
+    "number": "31",
+    "name": "Lorenzo Malagrida",
+    "position": "Orta saha sol ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "250 Bin €"
+  },
+  {
+    "number": "11",
+    "name": "Abdelhamid Sabiri",
+    "position": "On Numara ",
+    "team": " Sampdoria",
+    "nations": ["Fas", "Almanya"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "4.00 mil. €"
+  },
+  {
+    "number": "7",
+    "name": "Filip Djuricic ",
+    "position": "On Numara ",
+    "team": " Sampdoria",
+    "nations": ["Sırbistan"],
+    "age": "31",
+    "contract": "30 Haz 2024",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "99",
+    "name": "Jesé",
+    "position": "Sol Kanat ",
+    "team": " Sampdoria",
+    "nations": ["İspanya"],
+    "age": "30",
+    "contract": "30 Haz 2023",
+    "pd": "2.70 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Ignacio Pussetto ",
+    "position": "Sağ Kanat ",
+    "team": " Sampdoria",
+    "nations": ["Arjantin", "İtalya"],
+    "age": "27",
+    "contract": "30 Haz 2023",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Manolo Gabbiadini ",
+    "position": "Santrafor ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "31",
+    "contract": "30 Haz 2026",
+    "pd": "3.00 mil. €"
+  },
+  {
+    "number": "10",
+    "name": "Sam Lammers",
+    "position": "Santrafor ",
+    "team": " Sampdoria",
+    "nations": ["Hollanda"],
+    "age": "25",
+    "contract": "29 Haz 2023",
+    "pd": "2.80 mil. €"
+  },
+  {
+    "number": "9",
+    "name": "Manuel De Luca",
+    "position": "Santrafor ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2025",
+    "pd": "2.50 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Fabio Quagliarella ",
+    "position": "Santrafor ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "40",
+    "contract": "30 Haz 2023",
+    "pd": "1.00 mil. €"
+  },
+  {
+    "number": "34",
+    "name": "Daniele Montevago",
+    "position": "Santrafor ",
+    "team": " Sampdoria",
+    "nations": ["İtalya"],
+    "age": "19",
+    "contract": "30 Haz 2025",
+    "pd": "400 Bin €"
+  },
+  {
+    "number": "12",
+    "name": "Marco Carnesecchi",
+    "position": "Kaleci ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "30 Haz 2023",
+    "pd": "8.00 mil. €"
+  },
+  {
+    "number": "13",
+    "name": "Gianluca Saro",
+    "position": "Kaleci ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "22",
+    "contract": "-",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "45",
+    "name": "Mouhamadou Sarr",
+    "position": "Kaleci ",
+    "team": " US Cremonese",
+    "nations": ["Senegal", "İtalya"],
+    "age": "26",
+    "contract": "-",
+    "pd": "200 Bin €"
+  },
+  {
+    "number": "22",
+    "name": "Dorian Ciezkowski",
+    "position": "Kaleci ",
+    "team": " US Cremonese",
+    "nations": ["Polonya"],
+    "age": "21",
+    "contract": "30 Haz 2023",
+    "pd": "100 Bin €"
+  },
+  {
+    "number": "5",
+    "name": "Johan Vásquez",
+    "position": "Stoper ",
+    "team": " US Cremonese",
+    "nations": ["Meksika"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "3.60 mil. €"
+  },
+  {
+    "number": "4",
+    "name": "Emanuel Aiwu",
+    "position": "Stoper ",
+    "team": " US Cremonese",
+    "nations": ["Avusturya"],
+    "age": "22",
+    "contract": "30 Haz 2026",
+    "pd": "3.50 mil. €"
+  },
+  {
+    "number": "24",
+    "name": "Alex Ferrari ",
+    "position": "Stoper ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "44",
+    "name": "Luka Lochoshvili",
+    "position": "Stoper ",
+    "team": " US Cremonese",
+    "nations": ["Gürcistan"],
+    "age": "24",
+    "contract": "-",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "21",
+    "name": "Vlad Chiriches",
+    "position": "Stoper ",
+    "team": " US Cremonese",
+    "nations": ["Romanya"],
+    "age": "33",
+    "contract": "30 Haz 2023",
+    "pd": "1.30 mil. €"
+  },
+  {
+    "number": "15",
+    "name": "Matteo Bianchetti",
+    "position": "Stoper ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "29",
+    "contract": "30 Haz 2025",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "3",
+    "name": "Emanuele Valeri",
+    "position": "Sol Bek ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "24",
+    "contract": "30 Haz 2023",
+    "pd": "2.20 mil. €"
+  },
+  {
+    "number": "33",
+    "name": "Giacomo Quagliata",
+    "position": "Sol Bek ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "23",
+    "contract": "30 Haz 2026",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "17",
+    "name": "Leonardo Sernicola",
+    "position": "Sağ Bek ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "25",
+    "contract": "-",
+    "pd": "1.90 mil. €"
+  },
+  {
+    "number": "18",
+    "name": "Paolo Ghiglione",
+    "position": "Sağ Bek ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "26",
+    "contract": "30 Haz 2025",
+    "pd": "1.60 mil. €"
+  },
+  {
+    "number": "6",
+    "name": "Charles Pickel",
+    "position": "Önlibero ",
+    "team": " US Cremonese",
+    "nations": ["İsviçre", "Kongo DC"],
+    "age": "25",
+    "contract": "30 Haz 2026",
+    "pd": "3.80 mil. €"
+  },
+  {
+    "number": "27",
+    "name": "Pablo Galdames",
+    "position": "Önlibero ",
+    "team": " US Cremonese",
+    "nations": ["Şili"],
+    "age": "26",
+    "contract": "30 Haz 2023",
+    "pd": "2.00 mil. €"
+  },
+  {
+    "number": "19",
+    "name": "Michele Castagnetti ",
+    "position": "Önlibero ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "33",
+    "contract": "30 Haz 2024",
+    "pd": "700 Bin €"
+  },
+  {
+    "number": "28",
+    "name": "Soualiho Meïté",
+    "position": "Merkez orta saha ",
+    "team": " US Cremonese",
+    "nations": ["Fransa", "Fildişi Sahili"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "4.80 mil. €"
+  },
+  {
+    "number": "26",
+    "name": "Marco Benassi",
+    "position": "Merkez orta saha ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "28",
+    "contract": "30 Haz 2023",
+    "pd": "1.50 mil. €"
+  },
+  {
+    "number": "23",
+    "name": "Christian Acella",
+    "position": "Merkez orta saha ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "20",
+    "contract": "-",
+    "pd": "150 Bin €"
+  },
+  {
+    "number": "10",
+    "name": "Cristian Buonaiuto",
+    "position": "Sol Kanat ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "30",
+    "contract": "30 Haz 2024",
+    "pd": "800 Bin €"
+  },
+  {
+    "number": "90",
+    "name": "Cyriel Dessers",
+    "position": "Santrafor ",
+    "team": " US Cremonese",
+    "nations": ["Nijerya", "Belçika"],
+    "age": "28",
+    "contract": "30 Haz 2027",
+    "pd": "6.00 mil. €"
+  },
+  {
+    "number": "20",
+    "name": "Felix Afena-Gyan",
+    "position": "Santrafor ",
+    "team": " US Cremonese",
+    "nations": ["Gana"],
+    "age": "20",
+    "contract": "-",
+    "pd": "5.50 mil. €"
+  },
+  {
+    "number": "77",
+    "name": "David Okereke",
+    "position": "Santrafor ",
+    "team": " US Cremonese",
+    "nations": ["Nijerya"],
+    "age": "25",
+    "contract": "30 Haz 2025",
+    "pd": "4.30 mil. €"
+  },
+  {
+    "number": "74",
+    "name": "Frank Tsadjout",
+    "position": "Santrafor ",
+    "team": " US Cremonese",
+    "nations": ["İtalya", "Kamerun"],
+    "age": "23",
+    "contract": "30 Haz 2025",
+    "pd": "900 Bin €"
+  },
+  {
+    "number": "9",
+    "name": "Daniel Ciofani",
+    "position": "Santrafor ",
+    "team": " US Cremonese",
+    "nations": ["İtalya"],
+    "age": "37",
+    "contract": "30 Haz 2023",
+    "pd": "200 Bin €"
+  }
+]
