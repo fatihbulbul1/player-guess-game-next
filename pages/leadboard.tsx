@@ -57,9 +57,7 @@ const Leadboard: NextPage<Props> = ({ users }) => {
   );
 };
 export const getServerSideProps: GetServerSideProps<Props> = async () => {
-  const res = await fetch(
-    "https://benevolent-longma-c3cf58.netlify.app/api/users"
-  );
+  const res = await fetch("https://player-guess-game-next.vercel.app/");
   const users = await res.json();
   return { props: { users } };
 };

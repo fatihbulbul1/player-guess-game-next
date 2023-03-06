@@ -14,7 +14,7 @@ const Home: NextPage = () => {
   const handleSendData = (e: FormEvent<HTMLFormElement>, type: "L" | "R") => {
     e.preventDefault();
 
-    fetch("https://benevolent-longma-c3cf58.netlify.app/api/users", {
+    fetch("https://player-guess-game-next.vercel.app/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
