@@ -4,7 +4,7 @@ module.exports = {
     return [
       {
         source: "/api/users",
-        destination: "https://benevolent-longma-c3cf58.netlify.app/:path*",
+        destination: "https://player-guess-game-next.vercel.app/:path*",
       },
     ];
   },

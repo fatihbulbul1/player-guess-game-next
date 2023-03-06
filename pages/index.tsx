@@ -14,7 +14,7 @@ const Home: NextPage = () => {
   const handleSendData = (e: FormEvent<HTMLFormElement>, type: "L" | "R") => {
     e.preventDefault();
 
-    fetch("https://player-guess-game-next.vercel.app/", {
+    fetch("https://player-guess-game-next.vercel.app/api/users", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

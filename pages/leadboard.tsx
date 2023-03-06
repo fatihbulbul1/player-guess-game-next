@@ -57,7 +57,9 @@ const Leadboard: NextPage<Props> = ({ users }) => {
   );
 };
 export const getServerSideProps: GetServerSideProps<Props> = async () => {
-  const res = await fetch("https://player-guess-game-next.vercel.app/");
+  const res = await fetch(
+    "https://player-guess-game-next.vercel.app/api/users"
+  );
   const users = await res.json();
   return { props: { users } };
 };

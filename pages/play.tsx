@@ -76,7 +76,7 @@ const Play: NextPage = () => {
   const [filteredPlayers, setFilteredPlayers] = useState<Array<Player>>();
   const [gameOver, setGameOver] = useState(false);
   const handleGameOver = () => {
-    fetch("https://player-guess-game-next.vercel.app/", {
+    fetch("https://player-guess-game-next.vercel.app/api/users", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
