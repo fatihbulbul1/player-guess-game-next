@@ -1,4 +1,4 @@
-import { GetServerSideProps, NextPage } from "next";
+import { GetStaticProps, NextPage } from "next";
 import React, { useContext, useEffect, useState } from "react";
 import { AppContext } from "../utils/AppContext";
 interface User {
@@ -56,7 +56,7 @@ const Leadboard: NextPage<Props> = ({ users }) => {
     </div>
   );
 };
-export const getServerSideProps: GetServerSideProps<Props> = async () => {
+export const getStaticProps: GetStaticProps<Props> = async () => {
   const res = await fetch(
     "https://player-guess-game-next.vercel.app/api/users"
   );
